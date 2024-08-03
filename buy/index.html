@@ -1,0 +1,617 @@
+<!DOCTYPE html><html lang="zh-CN" data-theme="light"><head><meta charset="utf-8"><meta http-equiv="X-UA-Compatible" content="IE=edge"><meta name="viewport" content="width=device-width, initial-scale=1"><title>buy | アトリエシリーズ</title><noscript>开启JavaScript才能访问本站哦~</noscript><link rel="icon" href="/img/pwa/favicon.png"><!-- index.css--><link rel="stylesheet" href="/css/index.css?v=2.0.6"><!-- inject head--><link rel="canonical" href="http://example.com/buy/"><link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.6.0/css/all.min.css"><!-- aplayer--><!-- swiper--><link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Swiper/11.0.5/swiper-bundle.min.css"><!-- fancybox ui--><!-- katex--><!-- Open Graph--><meta name="description" content="h2 { margin-left: 20px; } .purchase-notice { background-color: #f0f0f0; padding: 20px; border-radius: 8p"><!-- pwa--><meta name="apple-mobile-web-app-capable" content="アトリエシリーズ"><meta name="theme-color" content="var(--efu-main)"><meta name="apple-mobile-web-app-status-bar-style" content="var(--efu-main)"><link rel="bookmark" href="/img/pwa/favicon.png"><link rel="apple-touch-icon" href="/img/pwa/favicon.png" sizes="180x180"><script>console.log(' %c Solitude %c ' + '2.0.6' + ' %c https://github.com/everfu/hexo-theme-solitude',
+    'background:#35495e ; padding: 1px; border-radius: 3px 0 0 3px;  color: #fff',
+    'background:#ff9a9a ; padding: 1px; border-radius: 0 3px 3px 0;  color: #fff',
+    'background:unset ; padding: 1px; border-radius: 0 3px 3px 0;  color: #fff')
+</script><script>(()=>{
+        const saveToLocal = {
+            set: function setWithExpiry(key, value, ttl) {
+                if (ttl === 0)
+                    return
+                const now = new Date()
+                const expiryDay = ttl * 86400000
+                const item = {
+                    value: value,
+                    expiry: now.getTime() + expiryDay
+                }
+                localStorage.setItem(key, JSON.stringify(item))
+            },
+            get: function getWithExpiry(key) {
+                const itemStr = localStorage.getItem(key)
+    
+                if (!itemStr) {
+                    return undefined
+                }
+                const item = JSON.parse(itemStr)
+                const now = new Date()
+    
+                if (now.getTime() > item.expiry) {
+                    localStorage.removeItem(key)
+                    return undefined
+                }
+                return item.value
+            }
+        };
+        window.utils = {
+            saveToLocal: saveToLocal,
+            getCSS: (url, id = false) => new Promise((resolve, reject) => {
+              const link = document.createElement('link')
+              link.rel = 'stylesheet'
+              link.href = url
+              if (id) link.id = id
+              link.onerror = reject
+              link.onload = link.onreadystatechange = function() {
+                const loadState = this.readyState
+                if (loadState && loadState !== 'loaded' && loadState !== 'complete') return
+                link.onload = link.onreadystatechange = null
+                resolve()
+              }
+              document.head.appendChild(link)
+            }),
+            getScript: (url, attr = {}) => new Promise((resolve, reject) => {
+              const script = document.createElement('script')
+              script.src = url
+              script.async = true
+              script.onerror = reject
+              script.onload = script.onreadystatechange = function() {
+                const loadState = this.readyState
+                if (loadState && loadState !== 'loaded' && loadState !== 'complete') return
+                script.onload = script.onreadystatechange = null
+                resolve()
+              }
+    
+              Object.keys(attr).forEach(key => {
+                script.setAttribute(key, attr[key])
+              })
+    
+              document.head.appendChild(script)
+            }),
+            addGlobalFn: (key, fn, name = false, parent = window) => {
+                const globalFn = parent.globalFn || {}
+                const keyObj = globalFn[key] || {}
+        
+                if (name && keyObj[name]) return
+        
+                name = name || Object.keys(keyObj).length
+                keyObj[name] = fn
+                globalFn[key] = keyObj
+                parent.globalFn = globalFn
+            },
+        }
+    })()</script><!-- global head--><script>const GLOBAL_CONFIG = {
+    root: '/',
+    algolia: undefined,
+    localsearch: {"preload":false,"path":"/search.xml"},
+    runtime: '2024-08-02 13:45:08',
+    lazyload: {
+        enable: false,
+        error: '/img/error_load.avif'
+    },
+    copyright: {"limit":50,"author":"作者: ZTGD","link":"链接: ","source":"来源: アトリエシリーズ","info":"著作权归作者所有。 商业转载请联系作者获得授权，非商业转载请注明出处。"},
+    highlight: {"limit":200,"expand":true,"copy":true,"syntax":"highlight.js"},
+    randomlink: false,
+    lang: {"theme":{"dark":"已切换至深色模式","light":"已切换至浅色模式"},"copy":{"success":"复制成功","error":"复制失败"},"backtop":"返回顶部","time":{"day":"天前","hour":"小时前","just":"刚刚","min":"分钟前","month":"个月前"},"day":" 天","f12":"开发者模式已打开，请遵循GPL协议。","totalk":"无需删除空行，直接输入评论即可","search":{"empty":"找不到你查询的内容：${query}","hit":"找到 ${hits} 条结果，用时 ${time} 毫秒","placeholder":"输入关键词快速查找","count":"共 <b>${count}</b> 条结果。"}},
+    aside: {
+        sayhello: {
+            morning: "✨ 早安",
+            noon: "午安 🜃",
+            afternoon: "下午好哇. 🍵",
+            night: "早点睡吧 🜫",
+            goodnight: "晚安 😴",
+        },
+        sayhello2: [],
+        sayhello3: {
+            prefix: '好久不见，',
+            back: '欢迎再次回来，',
+        },
+    },
+    covercolor: {
+        enable: false
+    },
+    comment: false,
+    lightbox: 'null',
+    post_ai: false,
+    right_menu: false,
+    lure: false,
+    expire: false,
+};</script><!-- page-config head--><script id="config-diff">var PAGE_CONFIG = {
+    is_post: false,
+    is_page: true,
+    is_home: false,
+    page: '',
+    toc: false,
+    comment: false,
+    ai_text: false
+}</script><meta name="generator" content="Hexo 7.3.0"></head><body id="body"><!-- universe--><canvas id="universe"></canvas><!-- background img--><!-- loading--><!-- console--><!-- sidebar--><div id="sidebar" style="zoom: 1;"><div id="menu-mask" style="display: none;"></div><div id="sidebar-menus"><div class="site-data"><div class="data-item is-center"><div class="data-item-link"><a href="/archives/"><div class="headline">文章</div><div class="length-num">3</div></a></div></div><div class="data-item is-center"><div class="data-item-link"><a href="/categories/"><div class="headline">分类</div><div class="length-num">1</div></a></div></div><div class="data-item is-center"><div class="data-item-link"><a href="/tags/"><div class="headline">标签</div><div class="length-num">0</div></a></div></div></div><span class="sidebar-menu-item-title">功能</span><div class="sidebar-menu-item"><span class="darkmode_switchbutton menu-child" onclick="sco.switchDarkMode()"><i class="solitude fa-solid fa-circle-half-stroke"></i><span>显示模式</span></span></div><div class="menus_items"><div class="menus_item"><a class="site-page" href="/"><span>主页</span></a></div><div class="menus_item"><a class="site-page" href="/time"><span>时间线</span></a></div><div class="menus_item"><a class="site-page" href="javascript:void(0);"><span>文章</span></a><ul class="menus_item_child"><li><a class="site-page child" href="/archives/"><i class="solitude  fas fa-folder-closed"></i><span>归档</span></a></li><li><a class="site-page child" href="/categories/"><i class="solitude  fas fa-clone"></i><span>分类</span></a></li><li><a class="site-page child" href="/tags/"><i class="solitude  fas fa-tags"></i><span>标签</span></a></li></ul></div><div class="menus_item"><a class="site-page" href="/about/"><span>关于本站</span></a></div><div class="menus_item"><a class="site-page" href="/buy/"><span>前往购买</span></a></div></div><span class="sidebar-menu-item-title">标签</span><div class="card-widget card-tags card-archives card-webinfo card-allinfo"><div class="card-tag-cloud"></div></div></div></div><!-- keyboard--><div class="page" id="body-wrap"><header class="not-top-img" id="page-header"><nav class="show" id="nav"><div id="nav-group"><div id="blog_name"><a id="site-name" href="/" title="返回博客主页"><img src="/img/logo.png" alt="アトリエシリーズ"><i class="solitude fa-solid fa-home"></i></a></div><div id="page-name-mask"><div id="page-name"><a id="page-name-text" onclick="sco.toTop()">buy</a></div></div><div id="menus"><div class="menus_items"><div class="menus_item"><a class="site-page" href="/"><span>主页</span></a></div><div class="menus_item"><a class="site-page" href="/time"><span>时间线</span></a></div><div class="menus_item"><a class="site-page" href="javascript:void(0);"><span>文章</span></a><ul class="menus_item_child"><li><a class="site-page child" href="/archives/"><i class="solitude  fas fa-folder-closed"></i><span>归档</span></a></li><li><a class="site-page child" href="/categories/"><i class="solitude  fas fa-clone"></i><span>分类</span></a></li><li><a class="site-page child" href="/tags/"><i class="solitude  fas fa-tags"></i><span>标签</span></a></li></ul></div><div class="menus_item"><a class="site-page" href="/about/"><span>关于本站</span></a></div><div class="menus_item"><a class="site-page" href="/buy/"><span>前往购买</span></a></div></div></div><div id="nav-left"></div><div id="nav-right"><div class="nav-button" id="travellings_button"><a class="site-page" target="_blank" rel="noopener" href="https://store.steampowered.com/developer/KOEITECMO/list/76630/" title=""><i class="solitude fas fa-train"></i></a></div><div class="nav-button" id="randomPost_button"><a class="site-page" onclick="toRandomPost()" title="随机一篇文章" href="javascript:void(0);"><i class="solitude fa-solid fa-dice-d6"></i></a></div><div class="nav-button" id="search-button"><a class="site-page social-icon search" href="javascript:void(0);" title="搜索"><i class="solitude fa-solid fa-magnifying-glass"></i></a></div><div class="nav-button" id="nav-totop" onclick="sco.toTop()"><a class="totopbtn"><i class="solitude fa-solid fa-arrow-up"></i><span id="percent">0</span></a></div><div id="toggle-menu"><a class="site-page"><i class="solitude fa-solid fa-bars"></i></a></div></div></div></nav></header><main class="layout hide-aside" id="content-inner"><div id="page"><div id="article-container"><style>
+    h2 {
+        margin-left: 20px;
+    }
+
+    .purchase-notice {
+        background-color: #f0f0f0;
+        padding: 20px;
+        border-radius: 8px;
+        margin-top: 10px;
+        margin-bottom: 10px;
+        box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+        text-align: center;
+    }
+
+    .purchase-notice p {
+        margin: 0;
+        color: #333;
+    }
+
+    .purchase-notice p strong {
+        font-size: 20px;
+        color: #007bff;
+    }
+
+    .purchase-notice .highlight {
+        color: #ff4500;
+        font-weight: bold;
+    }
+
+    .series-container {
+        margin-bottom: 20px;
+        padding: 10px;
+        border-radius: 10px;
+    }
+
+    .card-container {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-around;
+    }
+
+    .game-card {
+        flex: 0 0 calc(33.333% - 20px);
+        margin: 10px;
+        background-color: rgba(249, 249, 249, 0.4);
+        border: 1px solid #ddd;
+        box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+        overflow: hidden;
+        position: relative;
+        border-radius: 10px;
+    }
+
+    .game-card:hover {
+        transform: scale(1.02);
+        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+
+        img {
+            transform: scale(1.2);
+        }
+    }
+
+    .game-card img {
+        width: 100%;
+        height: auto;
+        display: block;
+    }
+
+    .game-info {
+        padding: 10px;
+    }
+
+    .buy-buttons {
+        display: flex;
+        justify-content: space-between;
+        width: 100%;
+        margin-top: 10px;
+        padding: 5px;
+    }
+
+    .buy-button {
+        flex: 0 0 calc(33.333% - 10px);
+        text-align: center;
+        padding: 10px 0;
+        color: white;
+        text-decoration: none;
+        border-radius: 5px;
+        transition: background-color 0.3s, box-shadow 0.3s, transform 0.1s;
+        box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+        font-family: Arial, Helvetica, sans-serif;
+        font-size: 16px;
+        font-weight: bold;
+    }
+
+    .buy-button:hover {
+        transform: scale(1.05);
+        box-shadow: 0 6px 10px rgba(0, 0, 0, 0.2);
+    }
+
+    .container {
+        display: flex;
+        justify-content: center;
+        flex-direction: column;
+    }
+
+    .steam-card {
+        position: relative;
+        margin: 20px;
+        overflow: hidden;
+        text-align: center;
+    }
+
+    .steam-card img {
+        width: 100%;
+        height: auto;
+        display: block;
+        transition: opacity 0.3s;
+    }
+
+    .steam-card img:hover {
+        opacity: 0.5;
+        /* 鼠标悬停时图片变暗 */
+    }
+
+    .buy-button1 {
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        display: none;
+        padding: 10px 20px;
+        background-color: hwb(0 77% 22%);
+        color: rgb(255, 255, 255);
+        text-decoration: none;
+        border-radius: 5px;
+        font-size: 20px;
+        transition: background-color 0.3s;
+    }
+
+    .steam-card:hover .buy-button1 {
+        display: block;
+    }
+
+    .buy-button1:hover {
+        background-color: #0056b3;
+    }
+</style>
+<html>
+<div>
+    <div class="container">
+        <div class="steam-card">
+            <img src="https://github.com/1999684/picx-images-hosting/raw/master/atelierweb/kv.6wqmxoxhvg.webp">
+            <a target="_blank" rel="noopener" href="https://store.steampowered.com/developer/KOEITECMO/list/76630/" class="buy-button1">前往Steam购买</a>
+        </div>
+    </div>
+    <div class="purchase-notice">
+        <p><strong>注意：</strong>本站所提供的Play Station与Nintendo购买链接均为<span class="highlight">港版一般版</span>链接。</p>
+    </div>
+    <div class="series-container" style="background-color: rgb(235, 193, 169);">
+        <h2>秘密</h2>
+        <div class="card-container">
+            <div class="game-card">
+                <img src="img/laisha.jpeg">
+                <div class="game-info">
+                    <h4>莱莎的炼金工房 ～常暗女王与秘密藏身处～</h4>
+                    <div class="buy-buttons">
+                        <button onclick="window.location.href='https://store.playstation.com/zh-hant-hk/product/HP0106-CUSA16463_00-ASIAFULLGAME0000';"
+                            class="buy-button" style="background-color: #007bff;">PlayStation™</button>
+                        <button onclick="window.location.href='https://store.steampowered.com/app/1121560/_/';"
+                            class="buy-button" style="background-color: #041d38;">Steam®</button>
+                        <button onclick="window.location.href='https://store.nintendo.com.hk/70010000022723';"
+                            class="buy-button" style="background-color: #ff0000;">Nintendo</button>
+                    </div>
+                </div>
+            </div>
+
+            <div class="game-card">
+                <img src="img/laisha2.jpeg">
+                <div class="game-info">
+                    <h4>莱莎的炼金工房２ ～失落传说与秘密妖精～</h4>
+                    <div class="buy-buttons">
+                        <button onclick="window.location.href='https://store.playstation.com/zh-hant-hk/product/HP0106-PPSA02095_00-RYZA200000MASTER';"
+                            class="buy-button" style="background-color: #007bff;">PlayStation™</button>
+                        <button onclick="window.location.href='https://store.steampowered.com/app/1257290/2/';"
+                            class="buy-button" style="background-color: #041d38;">Steam®</button>
+                        <button onclick="window.location.href='https://store.nintendo.com.hk/70010000030768';"
+                            class="buy-button" style="background-color: #ff0000;">Nintendo</button>
+                    </div>
+                </div>
+            </div>
+
+            <div class="game-card">
+                <img src="img/laisha3.jpeg">
+                <div class="game-info">
+                    <h4>莱莎的炼金工房３ ～终结之炼金术士与秘密钥匙～</h4>
+                    <div class="buy-buttons">
+                        <button onclick="window.location.href='https://store.playstation.com/zh-hant-hk/product/HP0106-PPSA08523_00-RYZA300000MASTER';"
+                            class="buy-button" style="background-color: #007bff;">PlayStation™</button>
+                        <button onclick="window.location.href='https://store.steampowered.com/app/1999770/3/';"
+                            class="buy-button" style="background-color: #041d38;">Steam®</button>
+                        <button onclick="window.location.href='https://ec.nintendo.com/HK/zh/titles/70010000054904';"
+                            class="buy-button" style="background-color: #ff0000;">Nintendo</button>
+                    </div>
+                </div>
+            </div>
+            <!-- 更多游戏卡片... -->
+        </div>
+    </div>
+    <div class="series-container" style="background-color: rgb(250, 164, 164);">
+        <h2>不思议</h2>
+        <div class="card-container">
+            <div class="game-card">
+                <img src="img/sufei1.jpeg">
+                <div class="game-info">
+                    <h4>苏菲的炼金工房 ～不可思议书的炼金术士～ DX</h4>
+                    <div class="buy-buttons">
+                        <button
+                            onclick="window.location.href='https://store.playstation.com/zh-hant-hk/product/HP0106-CUSA26639_00-APPA17DX00000000';"
+                            class="buy-button" style="background-color: #007bff;">PlayStation™</button>
+                        <button onclick="window.location.href='https://store.steampowered.com/app/1502970/__DX';"
+                            class="buy-button" style="background-color: #041d38;">Steam®</button>
+                        <button onclick="window.location.href='https://store.nintendo.com.hk/70070000012136';"
+                            class="buy-button" style="background-color: #ff0000;">Nintendo</button>
+                    </div>
+                </div>
+            </div>
+            <div class="game-card">
+                <img src="img/feirisi.jpeg">
+                <div class="game-info">
+                    <h4>菲利丝的炼金工房 ～不可思议旅的炼金术士～ DX</h4>
+                    <div class="buy-buttons">
+                        <button
+                            onclick="window.location.href='https://store.playstation.com/zh-hant-hk/product/HP0106-CUSA26640_00-APPA18DX00000000';"
+                            class="buy-button" style="background-color: #007bff;">PlayStation™</button>
+                        <button onclick="window.location.href='https://store.steampowered.com/app/1502980/__DX/';"
+                            class="buy-button" style="background-color: #041d38;">Steam®</button>
+                        <button onclick="window.location.href='https://store.nintendo.com.hk/70070000012136';"
+                            class="buy-button" style="background-color: #ff0000;">Nintendo</button>
+                    </div>
+                </div>
+            </div>
+            <div class="game-card">
+                <img src="img/ridiandsurui.jpeg">
+                <div class="game-info">
+                    <h4>莉迪＆苏瑞的炼金工房 ～不可思议绘画的炼金术士～ DX</h4>
+                    <div class="buy-buttons">
+                        <button
+                            onclick="window.location.href='https://store.playstation.com/zh-hant-hk/product/HP0106-CUSA26641_00-APPA19DX00000000';"
+                            class="buy-button" style="background-color: #007bff;">PlayStation™</button>
+                        <button onclick="window.location.href='https://store.steampowered.com/app/1502990/__DX/';"
+                            class="buy-button" style="background-color: #041d38;">Steam®</button>
+                        <button onclick="window.location.href='https://store.nintendo.com.hk/70070000012136';"
+                            class="buy-button" style="background-color: #ff0000;">Nintendo</button>
+                    </div>
+                </div>
+            </div>
+            <div class="game-card">
+                <img src="img/sufei2.jpeg">
+                <div class="game-info">
+                    <h4>苏菲的炼金工房２ ～不可思议梦的炼金术士～</h4>
+                    <div class="buy-buttons">
+                        <button
+                            onclick="window.location.href='https://store.playstation.com/zh-hant-hk/product/HP0106-CUSA28450_00-MYSTERIOUSMASTER';"
+                            class="buy-button" style="background-color: #007bff;">PlayStation™</button>
+                        <button onclick="window.location.href='https://store.steampowered.com/app/1621310/2/';"
+                            class="buy-button" style="background-color: #041d38;">Steam®</button>
+                        <button onclick="window.location.href='https://store.nintendo.com.hk/70010000041915';"
+                            class="buy-button" style="background-color: #ff0000;">Nintendo</button>
+                    </div>
+                </div>
+            </div>
+            <div class="game-card">
+                <img src="img/31.jpg">
+                <div class="game-info">
+                    <h4>任天堂香港 不思议只有三合一</h4>
+                    <div class="buy-buttons">
+                        <button
+                            onclick="window.location.href='https://store.playstation.com/zh-hant-hk/product/HP0106-CUSA26639_00-MYSTERIOUSDX0000';"
+                            class="buy-button" style="background-color: #007bff;">PlayStation™</button>
+                        <button onclick="window.location.href='https://store.steampowered.com/bundle/20340/__DX/';"
+                            class="buy-button" style="background-color: #041d38;">Steam®</button>
+                        <button onclick="window.location.href='https://store.nintendo.com.hk/70070000012136';"
+                            class="buy-button" style="background-color: #ff0000;">Nintendo</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="series-container" style="background-color: rgb(172, 172, 172);">
+        <h2>黄昏</h2>
+        <div class="card-container">
+            <div class="game-card">
+                <img src="img/asha.jpeg">
+                <div class="game-info">
+                    <h4>爱夏的炼金工房 ～黄昏大地之炼金术士～ DX</h4>
+                    <div class="buy-buttons">
+                        <button onclick="window.location.href='https://store.playstation.com/zh-hant-hk/product/HP0106-CUSA16875_00-ASIAFULLGAME0000';"
+                            class="buy-button" style="background-color: #007bff;">PlayStation™</button>
+                        <button onclick="window.location.href='https://store.steampowered.com/app/1152300/__DX/';"
+                            class="buy-button" style="background-color: #041d38;">Steam®</button>
+                        <button onclick="window.location.href='https://store.nintendo.com.hk/70010000026353';"
+                            class="buy-button" style="background-color: #ff0000;">Nintendo</button>
+                    </div>
+                </div>
+            </div>
+            <div class="game-card">
+                <img src="img/asikaandroji.jpeg">
+                <div class="game-info">
+                    <h4>爱丝卡＆罗吉的炼金工房 ～黄昏天空之炼金术士～ DX</h4>
+                    <div class="buy-buttons">
+                        <button onclick="window.location.href='https://store.playstation.com/zh-hant-hk/product/HP0106-CUSA16876_00-ASIAFULLGAME0000';"
+                            class="buy-button" style="background-color: #007bff;">PlayStation™</button>
+                        <button onclick="window.location.href='https://store.steampowered.com/app/1152310/__DX/';"
+                            class="buy-button" style="background-color: #041d38;">Steam®</button>
+                        <button onclick="window.location.href='https://store.nintendo.com.hk/70010000026355';"
+                            class="buy-button" style="background-color: #ff0000;">Nintendo</button>
+                    </div>
+                </div>
+            </div>
+            <div class="game-card">
+                <img src="img/shari.jpeg">
+                <div class="game-info">
+                    <h4>夏莉的炼金工房 ～黄昏海洋之炼金术士～ DX</h4>
+                    <div class="buy-buttons">
+                        <button onclick="window.location.href='https://store.playstation.com/zh-hant-hk/product/HP0106-CUSA16877_00-ASIAFULLGAME0000';"
+                            class="buy-button" style="background-color: #007bff;">PlayStation™</button>
+                        <button onclick="window.location.href='https://store.steampowered.com/app/1152320/__DX/';"
+                            class="buy-button" style="background-color: #041d38;">Steam®</button>
+                        <button onclick="window.location.href='https://store.nintendo.com.hk/70010000026357';"
+                            class="buy-button" style="background-color: #ff0000;">Nintendo</button>
+                    </div>
+                </div>
+            </div>
+            <div class="game-card">
+                <img src="img/32.jpg">
+                <div class="game-info">
+                    <h4>鍊金工房 ～黃昏之鍊金術士三部曲～ DX</h4>
+                    <div class="buy-buttons">
+                        <button onclick="window.location.href='https://store.playstation.com/zh-hant-hk/product/HP0106-CUSA16875_00-ASIADX0000000000';"
+                            class="buy-button" style="background-color: #007bff;">PlayStation™</button>
+                        <button onclick="window.location.href='https://store.steampowered.com/bundle/13066/__DX/';"
+                            class="buy-button" style="background-color: #041d38;">Steam®</button>
+                        <button onclick="window.location.href='https://store.nintendo.com.hk/70070000017930';"
+                            class="buy-button" style="background-color: #ff0000;">Nintendo</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="series-container" style="background-color: rgb(111, 193, 231);">
+        <h2>亚兰德</h2>
+        <div class="card-container">
+            <div class="game-card">
+                <img src="img/ronona.jpeg">
+                <div class="game-info">
+                    <h4>萝乐娜的炼金工房 ～亚兰德之炼金术士～ DX</h4>
+                    <div class="buy-buttons">
+                        <button onclick="window.location.href='https://store.playstation.com/zh-hant-hk/product/HP0106-CUSA13915_00-ASIAFULLGAME0000';"
+                            class="buy-button" style="background-color: #007bff;">PlayStation™</button>
+                        <button onclick="window.location.href='https://store.steampowered.com/app/936160/__DX/';"
+                            class="buy-button" style="background-color: #041d38;">Steam®</button>
+                        <button onclick="window.location.href='https://ec.nintendo.com/HK/zh/titles/70010000015950';"
+                            class="buy-button" style="background-color: #ff0000;">Nintendo</button>
+                    </div>
+                </div>
+            </div>
+            <div class="game-card">
+                <img src="img/totori.jpeg">
+                <div class="game-info">
+                    <h4>托托莉的炼金工房 ～亚兰德之炼金术士2～ DX</h4>
+                    <div class="buy-buttons">
+                        <button onclick="window.location.href='https://store.playstation.com/zh-hant-hk/product/HP0106-CUSA13914_00-ASIAFULLGAME0000';"
+                            class="buy-button" style="background-color: #007bff;">PlayStation™</button>
+                        <button onclick="window.location.href='https://store.steampowered.com/app/936180/_2_DX/';"
+                            class="buy-button" style="background-color: #041d38;">Steam®</button>
+                        <button onclick="window.location.href='https://ec.nintendo.com/HK/zh/bundles/70070000017929';"
+                            class="buy-button" style="background-color: #ff0000;">Nintendo</button>
+                    </div>
+                </div>
+            </div>
+            <div class="game-card">
+                <img src="img/meiruru.jpeg">
+                <div class="game-info">
+                    <h4>梅露露的炼金工房 ～亚兰德之炼金术士3～ DX</h4>
+                    <div class="buy-buttons">
+                        <button onclick="window.location.href='https://store.playstation.com/zh-hant-hk/product/HP0106-CUSA13913_00-ASIAFULLGAME0000';"
+                            class="buy-button" style="background-color: #007bff;">PlayStation™</button>
+                        <button onclick="window.location.href='https://store.steampowered.com/app/936190/_3_DX/';"
+                            class="buy-button" style="background-color: #041d38;">Steam®</button>
+                        <button onclick="window.location.href='https://ec.nintendo.com/HK/zh/bundles/70070000017929';"
+                            class="buy-button" style="background-color: #ff0000;">Nintendo</button>
+                    </div>
+                </div>
+            </div>
+            <div class="game-card">
+                <img src="img/lulua.jpeg">
+                <div class="game-info">
+                    <h4>露露亚的炼金工房 ～亚兰德之炼金术士4～</h4>
+                    <div class="buy-buttons">
+                        <button onclick="window.location.href='https://store.playstation.com/zh-hant-hk/product/HP0106-CUSA14551_00-ASIAFULLGAME0000';"
+                            class="buy-button" style="background-color: #007bff;">PlayStation™</button>
+                        <button onclick="window.location.href='https://store.steampowered.com/app/1045620/_4/';"
+                            class="buy-button" style="background-color: #041d38;">Steam®</button>
+                        <button onclick="window.location.href='https://store.nintendo.com.hk/70010000019738';"
+                            class="buy-button" style="background-color: #ff0000;">Nintendo</button>
+                    </div>
+                </div>
+            </div>
+            <div class="game-card">
+                <img src="img/33.jpg">
+                <div class="game-info">
+                    <h4>鍊金工房～亞蘭德之鍊金術士1・2・3～ DX</h4>
+                    <div class="buy-buttons">
+                        <button onclick="window.location.href='https://store.playstation.com/zh-hant-hk/product/HP0106-CUSA13915_00-ASIADX0000000000';"
+                            class="buy-button" style="background-color: #007bff;">PlayStation™</button>
+                        <button onclick="window.location.href='https://store.steampowered.com/bundle/9121/_123_DX/';"
+                            class="buy-button" style="background-color: #041d38;">Steam®</button>
+                        <button onclick="window.location.href='https://ec.nintendo.com/HK/zh/bundles/70070000017929';"
+                            class="buy-button" style="background-color: #ff0000;">Nintendo</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="series-container" style="background-color: rgb(235, 193, 169);">
+        <h2>重置</h2>
+        <div class="card-container">
+            <div class="game-card">
+                <img src="img/mariRe.jpeg">
+                <div class="game-info">
+                    <h4>玛莉的炼金工房 Remake ～萨尔布鲁克的炼金术士～</h4>
+                    <div class="buy-buttons">
+                        <button
+                            onclick="window.location.href='https://store.playstation.com/zh-hant-hk/product/HP0106-PPSA10906_00-APPA01REMAKE0000';"
+                            class="buy-button" style="background-color: #007bff;">PlayStation™</button>
+                        <button onclick="window.location.href='https://store.steampowered.com/app/2138090/_Remake/';"
+                            class="buy-button" style="background-color: #041d38;">Steam®</button>
+                        <button onclick="window.location.href='https://ec.nintendo.com/HK/zh/titles/70010000059380';"
+                            class="buy-button" style="background-color: #ff0000;">Nintendo</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+</html></div></div></main><footer id="footer"><div id="footer_deal"></div><div id="st-footer"></div><div id="footer-bar"><div class="footer-bar-links"><div class="footer-bar-left"><div class="copyright">© 2024 By&nbsp;<a class="footer-bar-link" href="/">ZTGD</a></div></div><div class="footer-bar-right"><a class="footer-bar-link" target="_blank" rel="noopener" href="https://github.com/everfu/hexo-theme-solitude" alt="Theme">Theme</a></div></div></div></footer></div><!-- right_menu--><!-- inject body--><div><script src="/js/utils.js?v=2.0.6"></script><script src="/js/main.js?v=2.0.6"></script><script src="/js/third_party/waterfall.min.js?v=2.0.6"></script><script src="https://cdnjs.cloudflare.com/ajax/libs/pjax/0.2.8/pjax.min.js"></script><script src="https://cdnjs.cloudflare.com/ajax/libs/qrcodejs/1.0.0/qrcode.min.js"></script><script src="/js/third_party/universe.min.js?v=2.0.6"></script><script>dark()
+</script><script src="https://cdnjs.cloudflare.com/ajax/libs/node-snackbar/0.1.16/snackbar.min.js"></script><script src="https://cdnjs.cloudflare.com/ajax/libs/Swiper/11.0.5/swiper-bundle.min.js"></script><script src="https://cdnjs.cloudflare.com/ajax/libs/pace/1.2.4/pace.min.js"></script><div class="js-pjax"></div></div><!-- pjax--><script>const pjax = new Pjax({
+    elements: 'a:not([target="_blank"])',
+    selectors: ['title','#body-wrap','#site-config','meta[name="description"]','.js-pjax','meta[property^="og:"]','#config-diff'],
+    cacheBust: false,
+    analytics: false,
+    scrollRestoration: false
+})
+
+document.querySelectorAll('script[data-pjax]').forEach(item => {
+    const newScript = document.createElement('script')
+    const content = item.text || item.textContent || item.innerHTML || ""
+    Array.from(item.attributes).forEach(attr => newScript.setAttribute(attr.name, attr.value))
+    newScript.appendChild(document.createTextNode(content))
+    item.parentNode.replaceChild(newScript, item)
+})
+
+document.addEventListener('pjax:complete', () => {
+    window.refreshFn()
+
+    document.querySelectorAll('script[data-pjax]').forEach(item => {
+        const newScript = document.createElement('script')
+        const content = item.text || item.textContent || item.innerHTML || ""
+        Array.from(item.attributes).forEach(attr => newScript.setAttribute(attr.name, attr.value))
+        newScript.appendChild(document.createTextNode(content))
+        item.parentNode.replaceChild(newScript, item)
+    })
+
+    GLOBAL_CONFIG.islazyload && window.lazyLoadInstance.update()
+
+})
+
+document.addEventListener('pjax:error', (e) => {
+    if (e.request.status === 404) {
+        pjax.loadUrl('/404.html')
+    }
+})</script><!-- theme--><script>initTheme = () => {
+    let isDarkMode = window.matchMedia('(prefers-color-scheme: dark)').matches
+    const cachedMode = utils.saveToLocal.get('theme');
+    if (cachedMode === undefined) {
+        const nowMode =
+            isDarkMode ? 'dark' : 'light'
+        document.documentElement.setAttribute('data-theme', nowMode);
+    } else {
+        document.documentElement.setAttribute('data-theme', cachedMode);
+    }
+    typeof rm === 'object' && rm.mode(cachedMode === 'dark' && isDarkMode)
+}
+initTheme()</script><!-- google adsense--><!-- search--><div id="local-search"><div class="search-dialog"><nav class="search-nav"><span class="search-dialog-title">搜索</span><button class="search-close-button"><i class="solitude fa-solid fa-xmark"></i></button></nav><div class="search-wrap"><div class="search-box"><input class="search-box-input" id="search-input" type="text" autocomplete="off" spellcheck="false" autocorrect="off" autocapitalize="off" placeholder="输入关键词快速查找"></div><div id="search-results"><div id="search-hits"></div></div><div id="search-pagination"></div><div id="search-tips"></div></div></div><div id="search-mask"></div></div><script src="/js/search/local.js?v=2.0.6"></script><!-- Tianli-Talk--><!-- music--></body></html><script>const posts=["2024/06/21/a2/","2024/06/20/a1/","2024/06/20/a1re/"];function toRandomPost(){ pjax.loadUrl(GLOBAL_CONFIG.root+posts[Math.floor(Math.random()*posts.length)]); }</script>
