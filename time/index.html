@@ -1,4 +1,4 @@
-<!DOCTYPE html><html lang="zh-CN" data-theme="light"><head><meta charset="utf-8"><meta http-equiv="X-UA-Compatible" content="IE=edge"><meta name="viewport" content="width=device-width, initial-scale=1"><title>Untitled | アトリエシリーズ</title><noscript>开启JavaScript才能访问本站哦~</noscript><link rel="icon" href="/img/pwa/favicon.png"><!-- index.css--><link rel="stylesheet" href="/css/index.css?v=2.0.6"><!-- inject head--><link rel="canonical" href="http://example.com/time/"><link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.6.0/css/all.min.css"><!-- aplayer--><!-- swiper--><link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Swiper/11.0.5/swiper-bundle.min.css"><!-- fancybox ui--><!-- katex--><!-- Open Graph--><meta name="description" content="时间轴 body { font-family: Arial, sans-serif; background-color: #f5f5f5; } .flex-container { display: flex;"><!-- pwa--><meta name="apple-mobile-web-app-capable" content="アトリエシリーズ"><meta name="theme-color" content="var(--efu-main)"><meta name="apple-mobile-web-app-status-bar-style" content="var(--efu-main)"><link rel="bookmark" href="/img/pwa/favicon.png"><link rel="apple-touch-icon" href="/img/pwa/favicon.png" sizes="180x180"><script>console.log(' %c Solitude %c ' + '2.0.6' + ' %c https://github.com/everfu/hexo-theme-solitude',
+<!DOCTYPE html><html lang="zh-CN" data-theme="light"><head><meta charset="utf-8"><meta http-equiv="X-UA-Compatible" content="IE=edge"><meta name="viewport" content="width=device-width, initial-scale=1"><title>时间轴 | アトリエシリーズ</title><noscript>开启JavaScript才能访问本站哦~</noscript><link rel="icon" href="/img/pwa/favicon.png"><!-- index.css--><link rel="stylesheet" href="/css/index.css?v=2.0.6"><!-- inject head--><link rel="canonical" href="http://example.com/time/"><link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.6.0/css/all.min.css"><!-- aplayer--><!-- swiper--><link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Swiper/11.0.5/swiper-bundle.min.css"><!-- fancybox ui--><link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancyapps-ui/5.0.36/fancybox/fancybox.min.css"><!-- katex--><!-- Open Graph--><meta name="description" content="时间轴 body { font-family: Arial, sans-serif; background-color: #f5f5f5; } .flex-container { display: flex;"><!-- pwa--><meta name="apple-mobile-web-app-capable" content="アトリエシリーズ"><meta name="theme-color" content="var(--efu-main)"><meta name="apple-mobile-web-app-status-bar-style" content="var(--efu-main)"><link rel="bookmark" href="/img/pwa/favicon.png"><link rel="apple-touch-icon" href="/img/pwa/favicon.png" sizes="180x180"><script>console.log(' %c Solitude %c ' + '2.0.6' + ' %c https://github.com/everfu/hexo-theme-solitude',
     'background:#35495e ; padding: 1px; border-radius: 3px 0 0 3px;  color: #fff',
     'background:#ff9a9a ; padding: 1px; border-radius: 0 3px 3px 0;  color: #fff',
     'background:unset ; padding: 1px; border-radius: 0 3px 3px 0;  color: #fff')
@@ -83,7 +83,7 @@
     localsearch: {"preload":false,"path":"/search.xml"},
     runtime: '2024-08-02 13:45:08',
     lazyload: {
-        enable: false,
+        enable: true,
         error: '/img/error_load.avif'
     },
     copyright: {"limit":50,"author":"作者: ZTGD","link":"链接: ","source":"来源: アトリエシリーズ","info":"著作权归作者所有。 商业转载请联系作者获得授权，非商业转载请注明出处。"},
@@ -108,7 +108,7 @@
         enable: false
     },
     comment: false,
-    lightbox: 'null',
+    lightbox: 'fancybox',
     post_ai: false,
     right_menu: false,
     lure: false,
@@ -121,7 +121,8 @@
     toc: false,
     comment: false,
     ai_text: false
-}</script><meta name="generator" content="Hexo 7.3.0"></head><body id="body"><!-- universe--><canvas id="universe"></canvas><!-- background img--><!-- loading--><!-- console--><!-- sidebar--><div id="sidebar" style="zoom: 1;"><div id="menu-mask" style="display: none;"></div><div id="sidebar-menus"><div class="site-data"><div class="data-item is-center"><div class="data-item-link"><a href="/archives/"><div class="headline">文章</div><div class="length-num">3</div></a></div></div><div class="data-item is-center"><div class="data-item-link"><a href="/categories/"><div class="headline">分类</div><div class="length-num">1</div></a></div></div><div class="data-item is-center"><div class="data-item-link"><a href="/tags/"><div class="headline">标签</div><div class="length-num">0</div></a></div></div></div><span class="sidebar-menu-item-title">功能</span><div class="sidebar-menu-item"><span class="darkmode_switchbutton menu-child" onclick="sco.switchDarkMode()"><i class="solitude fa-solid fa-circle-half-stroke"></i><span>显示模式</span></span></div><div class="menus_items"><div class="menus_item"><a class="site-page" href="/"><span>主页</span></a></div><div class="menus_item"><a class="site-page" href="/time"><span>时间线</span></a></div><div class="menus_item"><a class="site-page" href="javascript:void(0);"><span>文章</span></a><ul class="menus_item_child"><li><a class="site-page child" href="/archives/"><i class="solitude  fas fa-folder-closed"></i><span>归档</span></a></li><li><a class="site-page child" href="/categories/"><i class="solitude  fas fa-clone"></i><span>分类</span></a></li><li><a class="site-page child" href="/tags/"><i class="solitude  fas fa-tags"></i><span>标签</span></a></li></ul></div><div class="menus_item"><a class="site-page" href="/about/"><span>关于本站</span></a></div><div class="menus_item"><a class="site-page" href="/buy/"><span>前往购买</span></a></div></div><span class="sidebar-menu-item-title">标签</span><div class="card-widget card-tags card-archives card-webinfo card-allinfo"><div class="card-tag-cloud"></div></div></div></div><!-- keyboard--><div class="page" id="body-wrap"><header class="not-top-img" id="page-header"><nav class="show" id="nav"><div id="nav-group"><div id="blog_name"><a id="site-name" href="/" title="返回博客主页"><img src="/img/logo.png" alt="アトリエシリーズ"><i class="solitude fa-solid fa-home"></i></a></div><div id="page-name-mask"><div id="page-name"><a id="page-name-text" onclick="sco.toTop()">Untitled</a></div></div><div id="menus"><div class="menus_items"><div class="menus_item"><a class="site-page" href="/"><span>主页</span></a></div><div class="menus_item"><a class="site-page" href="/time"><span>时间线</span></a></div><div class="menus_item"><a class="site-page" href="javascript:void(0);"><span>文章</span></a><ul class="menus_item_child"><li><a class="site-page child" href="/archives/"><i class="solitude  fas fa-folder-closed"></i><span>归档</span></a></li><li><a class="site-page child" href="/categories/"><i class="solitude  fas fa-clone"></i><span>分类</span></a></li><li><a class="site-page child" href="/tags/"><i class="solitude  fas fa-tags"></i><span>标签</span></a></li></ul></div><div class="menus_item"><a class="site-page" href="/about/"><span>关于本站</span></a></div><div class="menus_item"><a class="site-page" href="/buy/"><span>前往购买</span></a></div></div></div><div id="nav-left"></div><div id="nav-right"><div class="nav-button" id="travellings_button"><a class="site-page" target="_blank" rel="noopener" href="https://store.steampowered.com/developer/KOEITECMO/list/76630/" title=""><i class="solitude fas fa-train"></i></a></div><div class="nav-button" id="randomPost_button"><a class="site-page" onclick="toRandomPost()" title="随机一篇文章" href="javascript:void(0);"><i class="solitude fa-solid fa-dice-d6"></i></a></div><div class="nav-button" id="search-button"><a class="site-page social-icon search" href="javascript:void(0);" title="搜索"><i class="solitude fa-solid fa-magnifying-glass"></i></a></div><div class="nav-button" id="nav-totop" onclick="sco.toTop()"><a class="totopbtn"><i class="solitude fa-solid fa-arrow-up"></i><span id="percent">0</span></a></div><div id="toggle-menu"><a class="site-page"><i class="solitude fa-solid fa-bars"></i></a></div></div></div></nav></header><main class="layout hide-aside" id="content-inner"><div id="page"><div id="article-container"><!DOCTYPE html>
+}</script><meta name="generator" content="Hexo 7.3.0"></head><body id="body"><!-- universe--><canvas id="universe"></canvas><!-- background img--><!-- loading--><!-- console--><!-- sidebar--><div id="sidebar" style="zoom: 1;"><div id="menu-mask" style="display: none;"></div><div id="sidebar-menus"><div class="site-data"><div class="data-item is-center"><div class="data-item-link"><a href="/archives/"><div class="headline">文章</div><div class="length-num">3</div></a></div></div><div class="data-item is-center"><div class="data-item-link"><a href="/categories/"><div class="headline">分类</div><div class="length-num">1</div></a></div></div><div class="data-item is-center"><div class="data-item-link"><a href="/tags/"><div class="headline">标签</div><div class="length-num">0</div></a></div></div></div><span class="sidebar-menu-item-title">功能</span><div class="sidebar-menu-item"><span class="darkmode_switchbutton menu-child" onclick="sco.switchDarkMode()"><i class="solitude fa-solid fa-circle-half-stroke"></i><span>显示模式</span></span></div><div class="menus_items"><div class="menus_item"><a class="site-page" href="/"><span>主页</span></a></div><div class="menus_item"><a class="site-page" href="/time"><span>时间线</span></a></div><div class="menus_item"><a class="site-page" href="javascript:void(0);"><span>文章</span></a><ul class="menus_item_child"><li><a class="site-page child" href="/archives/"><i class="solitude  fas fa-folder-closed"></i><span>归档</span></a></li><li><a class="site-page child" href="/categories/"><i class="solitude  fas fa-clone"></i><span>分类</span></a></li><li><a class="site-page child" href="/tags/"><i class="solitude  fas fa-tags"></i><span>标签</span></a></li></ul></div><div class="menus_item"><a class="site-page" href="/about/"><span>关于本站</span></a></div><div class="menus_item"><a class="site-page" href="/buy/"><span>前往购买</span></a></div></div><span class="sidebar-menu-item-title">标签</span><div class="card-widget card-tags card-archives card-webinfo card-allinfo"><div class="card-tag-cloud"></div></div></div></div><!-- keyboard--><div class="page" id="body-wrap"><header class="not-top-img" id="page-header"><nav class="show" id="nav"><div id="nav-group"><div id="blog_name"><a id="site-name" href="/" title="返回博客主页"><img src= "/img/loading.avif" data-lazy-src="/img/logo.png" alt="アトリエシリーズ"><i class="solitude fa-solid fa-home"></i></a></div><div id="page-name-mask"><div id="page-name"><a id="page-name-text" onclick="sco.toTop()">时间轴</a></div></div><div id="menus"><div class="menus_items"><div class="menus_item"><a class="site-page" href="/"><span>主页</span></a></div><div class="menus_item"><a class="site-page" href="/time"><span>时间线</span></a></div><div class="menus_item"><a class="site-page" href="javascript:void(0);"><span>文章</span></a><ul class="menus_item_child"><li><a class="site-page child" href="/archives/"><i class="solitude  fas fa-folder-closed"></i><span>归档</span></a></li><li><a class="site-page child" href="/categories/"><i class="solitude  fas fa-clone"></i><span>分类</span></a></li><li><a class="site-page child" href="/tags/"><i class="solitude  fas fa-tags"></i><span>标签</span></a></li></ul></div><div class="menus_item"><a class="site-page" href="/about/"><span>关于本站</span></a></div><div class="menus_item"><a class="site-page" href="/buy/"><span>前往购买</span></a></div></div></div><div id="nav-left"></div><div id="nav-right"><div class="nav-button" id="travellings_button"><a class="site-page" target="_blank" rel="noopener" href="https://store.steampowered.com/developer/KOEITECMO/list/76630/" title=""><i class="solitude fas fa-train"></i></a></div><div class="nav-button" id="randomPost_button"><a class="site-page" onclick="toRandomPost()" title="随机一篇文章" href="javascript:void(0);"><i class="solitude fa-solid fa-dice-d6"></i></a></div><div class="nav-button" id="search-button"><a class="site-page social-icon search" href="javascript:void(0);" title="搜索"><i class="solitude fa-solid fa-magnifying-glass"></i></a></div><div class="nav-button" id="nav-totop" onclick="sco.toTop()"><a class="totopbtn"><i class="solitude fa-solid fa-arrow-up"></i><span id="percent">0</span></a></div><div id="toggle-menu"><a class="site-page"><i class="solitude fa-solid fa-bars"></i></a></div></div></div></nav></header><main class="layout hide-aside" id="content-inner"><div id="page"><div id="article-container">
+<!DOCTYPE html>
 <html>
 
 <head>
@@ -138,6 +139,7 @@
     }
 
     .image {
+      border-radius: 50px;
       max-height: 200px;
       width: 35%;
       overflow: hidden;
@@ -158,7 +160,7 @@
     }
 
     .timeline {
-      max-width: 75%;
+      max-width: 80%;
       margin: 50px auto;
       position: relative;
     }
@@ -170,18 +172,19 @@
       left: 50%;
       width: 2px;
       height: 100%;
-      background-color: #ccc;
+      background-color: #f19c9c;
       transform: translateX(-50%);
     }
 
     .timeline-item {
       position: relative;
-      margin-bottom: 50px;
+      margin-bottom: 70px;
       transition: transform 0.3s ease;
     }
 
     .timeline-item:hover {
       transform: scale(1.1);
+
       .image img {
         transform: scale(1.2);
       }
@@ -205,8 +208,8 @@
 
     .timeline-item .content {
       padding: 20px;
-      background-color: #fff;
-      border-radius: 5px;
+      background-image: linear-gradient(to right, #f0f7d6, #c6e7ee);
+      border-radius: 50px;
       box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
       text-align: center;
     }
@@ -214,17 +217,17 @@
     .timeline-item .date {
       margin-bottom: 10px;
       font-size: 16px;
-      color: #333;
+      color: #503131;
     }
 
     .timeline-item .event {
       margin-bottom: 20px;
       font-size: 18px;
-      color: #333;
+      color: #7e377a;
     }
 
     .timeline-item .link {
-      color: #ff6a00;
+      color: #634b3b;
       text-decoration: none;
       font-weight: bold;
     }
@@ -237,11 +240,11 @@
       <div class="content">
         <div class="flex-container">
           <div class="image">
-            <img src="https://github.com/1999684/picx-images-hosting/raw/master/game/16.jpg">
+            <img src= "/img/loading.avif" data-lazy-src="img/resleriana.jpg">
           </div>
           <div class="text">
-            <div class="date">2022-01-01</div>
-            <div class="event">事件1</div>
+            <div class="date">2023年09月23日</div>
+            <div class="event"> 莱丝蕾莉安娜的炼金工房 ～被遗忘的炼金术与极夜的解放者～ 上线</div>
             <a class="link" target="_blank" rel="noopener" href="https://atelier.ztgdblog.icu">查看详情</a>
           </div>
         </div>
@@ -250,13 +253,13 @@
     <div class="timeline-item">
       <div class="content">
         <div class="flex-container">
-          <div class="image">
-            <img src="https://github.com/1999684/picx-images-hosting/raw/master/game/16.jpg">
-          </div>
           <div class="text">
-            <div class="date">2022-01-01</div>
-            <div class="event">事件1</div>
+            <div class="date">2023年07月13日</div>
+            <div class="event">玛莉的炼金工房 Remake ～萨尔布鲁克的炼金术士～ 发售</div>
             <a class="link" target="_blank" rel="noopener" href="https://atelier.ztgdblog.icu">查看详情</a>
+          </div>
+          <div class="image">
+            <img src= "/img/loading.avif" data-lazy-src="img/mariRe.jpeg">
           </div>
         </div>
       </div>
@@ -265,12 +268,655 @@
       <div class="content">
         <div class="flex-container">
           <div class="image">
-            <img src="https://github.com/1999684/picx-images-hosting/raw/master/game/16.jpg">
+            <img src= "/img/loading.avif" data-lazy-src="img/ryza3.jpeg">
           </div>
           <div class="text">
-            <div class="date">2022-01-01</div>
-            <div class="event">事件1</div>
+            <div class="date">2023年03月23日</div>
+            <div class="event">莱莎的炼金工房2 ～终结之炼金术士与秘密钥匙～ 发售</div>
             <a class="link" target="_blank" rel="noopener" href="https://atelier.ztgdblog.icu">查看详情</a>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="timeline-item">
+      <div class="content">
+        <div class="flex-container">
+          <div class="text">
+            <div class="date">2022年02月24日</div>
+            <div class="event">苏菲的炼金工房2 ～不可思议梦的炼金术士～ 发售</div>
+            <a class="link" target="_blank" rel="noopener" href="https://atelier.ztgdblog.icu">查看详情</a>
+          </div>
+          <div class="image">
+            <img src= "/img/loading.avif" data-lazy-src="img/sophie2.jpg">
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="timeline-item">
+      <div class="content">
+        <div class="flex-container">
+          <div class="image">
+            <img src= "/img/loading.avif" data-lazy-src="img/mysteriousDX.jpg">
+          </div>
+          <div class="text">
+            <div class="date">2021年04月22日</div>
+            <div class="event">炼金工房 ～不可思议之炼金术士三部曲～ DX 发售</div>
+            <a class="link" target="_blank" rel="noopener" href="https://atelier.ztgdblog.icu">查看详情</a>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="timeline-item">
+      <div class="content">
+        <div class="flex-container">
+          <div class="text">
+            <div class="date">2020年12月03日</div>
+            <div class="event">莱莎的炼金工房2 ～失落传说与秘密妖精～ 发售</div>
+            <a class="link" target="_blank" rel="noopener" href="https://atelier.ztgdblog.icu">查看详情</a>
+          </div>
+          <div class="image">
+            <img src= "/img/loading.avif" data-lazy-src="img/ryza2.jpg">
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="timeline-item">
+      <div class="content">
+        <div class="flex-container">
+          <div class="image">
+            <img src= "/img/loading.avif" data-lazy-src="img/twilightdx.jpg">
+          </div>
+          <div class="text">
+            <div class="date">2019年12月25日</div>
+            <div class="event">炼金工房 ～黃昏之炼金术士三部曲～ DX 发售</div>
+            <a class="link" target="_blank" rel="noopener" href="https://atelier.ztgdblog.icu">查看详情</a>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="timeline-item">
+      <div class="content">
+        <div class="flex-container">
+          <div class="text">
+            <div class="date">2019年09月26日</div>
+            <div class="event">莱莎的炼金工房 ～常暗女王与秘密藏身处～ 发售</div>
+            <a class="link" target="_blank" rel="noopener" href="https://atelier.ztgdblog.icu">查看详情</a>
+          </div>
+          <div class="image">
+            <img src= "/img/loading.avif" data-lazy-src="img/ryza.jpg">
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="timeline-item">
+      <div class="content">
+        <div class="flex-container">
+          <div class="image">
+            <img src= "/img/loading.avif" data-lazy-src="img/lulua.jpg">
+          </div>
+          <div class="text">
+            <div class="date">2019年03月20日</div>
+            <div class="event">露露亚的炼金工房 ～亚兰德之炼金术士4～ 发售</div>
+            <a class="link" target="_blank" rel="noopener" href="https://atelier.ztgdblog.icu">查看详情</a>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="timeline-item">
+      <div class="content">
+        <div class="flex-container">
+          <div class="text">
+            <div class="date">2019年01月31日</div>
+            <div class="event">奈尔克与传说之炼金术士们 ～新大地之炼金工房～ 发售</div>
+            <a class="link" target="_blank" rel="noopener" href="https://atelier.ztgdblog.icu">查看详情</a>
+          </div>
+          <div class="image">
+            <img src= "/img/loading.avif" data-lazy-src="img/nelke.jpg">
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="timeline-item">
+      <div class="content">
+        <div class="flex-container">
+          <div class="image">
+            <img src= "/img/loading.avif" data-lazy-src="img/arlanddx.jpg">
+          </div>
+          <div class="text">
+            <div class="date">2018年09月20日</div>
+            <div class="event">炼金工房 ～亚兰德之炼金术士1・2・3～ DX 发售</div>
+            <a class="link" target="_blank" rel="noopener" href="https://atelier.ztgdblog.icu">查看详情</a>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="timeline-item">
+      <div class="content">
+        <div class="flex-container">
+          <div class="text">
+            <div class="date">2017年12月21日</div>
+            <div class="event">莉迪&苏瑞的炼金工房 ～不可思议绘画的炼金术士～ 发售</div>
+            <a class="link" target="_blank" rel="noopener" href="https://atelier.ztgdblog.icu">查看详情</a>
+          </div>
+          <div class="image">
+            <img src= "/img/loading.avif" data-lazy-src="img/lydie.jpg">
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="timeline-item">
+      <div class="content">
+        <div class="flex-container">
+          <div class="image">
+            <img src= "/img/loading.avif" data-lazy-src="img/firis.jpg">
+          </div>
+          <div class="text">
+            <div class="date">2016年11月02日</div>
+            <div class="event">菲莉丝的炼金工房 ～不可思议旅的炼金术士～ 发售</div>
+            <a class="link" target="_blank" rel="noopener" href="https://atelier.ztgdblog.icu">查看详情</a>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="timeline-item">
+      <div class="content">
+        <div class="flex-container">
+          <div class="text">
+            <div class="date">2016年03月03日</div>
+            <div class="event">夏莉的炼金工房Plus ～黄昏海洋之炼金术士～ 发售</div>
+            <a class="link" target="_blank" rel="noopener" href="https://atelier.ztgdblog.icu">查看详情</a>
+          </div>
+          <div class="image">
+            <img src= "/img/loading.avif" data-lazy-src="img/shallieplus.jpg">
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="timeline-item">
+      <div class="content">
+        <div class="flex-container">
+          <div class="image">
+            <img src= "/img/loading.avif" data-lazy-src="img/sophie.jpg">
+          </div>
+          <div class="text">
+            <div class="date">2015年11月19日</div>
+            <div class="event">苏菲的炼金工房 ～不可思议书的炼金术士～ 发售</div>
+            <a class="link" target="_blank" rel="noopener" href="https://atelier.ztgdblog.icu">查看详情</a>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="timeline-item">
+      <div class="content">
+        <div class="flex-container">
+          <div class="text">
+            <div class="date">2015年06月04日</div>
+            <div class="event">新·萝乐娜的炼金工房 起始的故事～亚兰德之炼金术士～ 发售</div>
+            <a class="link" target="_blank" rel="noopener" href="https://atelier.ztgdblog.icu">查看详情</a>
+          </div>
+          <div class="image">
+            <img src= "/img/loading.avif" data-lazy-src="img/rorona3ds.jpg">
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="timeline-item">
+      <div class="content">
+        <div class="flex-container">
+          <div class="image">
+            <img src= "/img/loading.avif" data-lazy-src="img/eschalogyplus.jpg">
+          </div>
+          <div class="text">
+            <div class="date">2015年01月22日</div>
+            <div class="event">爱丝卡&罗吉的炼金工房Plus ～黄昏天空之炼金术士～ 发售</div>
+            <a class="link" target="_blank" rel="noopener" href="https://atelier.ztgdblog.icu">查看详情</a>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="timeline-item">
+      <div class="content">
+        <div class="flex-container">
+          <div class="text">
+            <div class="date">2014年07月17日</div>
+            <div class="event">夏莉的炼金工房 ～黄昏海洋之炼金术士～ 发售</div>
+            <a class="link" target="_blank" rel="noopener" href="https://atelier.ztgdblog.icu">查看详情</a>
+          </div>
+          <div class="image">
+            <img src= "/img/loading.avif" data-lazy-src="img/shallie.jpg">
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="timeline-item">
+      <div class="content">
+        <div class="flex-container">
+          <div class="image">
+            <img src= "/img/loading.avif" data-lazy-src="img/ayeshaplus.jpg">
+          </div>
+          <div class="text">
+            <div class="date">2013年06月27日</div>
+            <div class="event">爱夏的炼金工房Plus ～黄昏大地之炼金术士～ 发售</div>
+            <a class="link" target="_blank" rel="noopener" href="https://atelier.ztgdblog.icu">查看详情</a>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="timeline-item">
+      <div class="content">
+        <div class="flex-container">
+          <div class="text">
+            <div class="date">2013年11月21日</div>
+            <div class="event">新·萝乐娜的炼金工房 起始的故事～亚兰德之炼金术士～ 发售</div>
+            <a class="link" target="_blank" rel="noopener" href="https://atelier.ztgdblog.icu">查看详情</a>
+          </div>
+          <div class="image">
+            <img src= "/img/loading.avif" data-lazy-src="img/newrorona.jpg">
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="timeline-item">
+      <div class="content">
+        <div class="flex-container">
+          <div class="image">
+            <img src= "/img/loading.avif" data-lazy-src="img/escha.jpg">
+          </div>
+          <div class="text">
+            <div class="date">2013年06月27日</div>
+            <div class="event">爱丝卡&罗吉的炼金工房 ～黄昏天空之炼金术士～ 发售</div>
+            <a class="link" target="_blank" rel="noopener" href="https://atelier.ztgdblog.icu">查看详情</a>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="timeline-item">
+      <div class="content">
+        <div class="flex-container">
+          <div class="text">
+            <div class="date">2013年03月20日</div>
+            <div class="event">梅露露的炼金工房Plus ～亚兰德之炼金术士3～ 发售</div>
+            <a class="link" target="_blank" rel="noopener" href="https://atelier.ztgdblog.icu">查看详情</a>
+          </div>
+          <div class="image">
+            <img src= "/img/loading.avif" data-lazy-src="img/meruru_plus.jpg">
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="timeline-item">
+      <div class="content">
+        <div class="flex-container">
+          <div class="image">
+            <img src= "/img/loading.avif" data-lazy-src="img/totori_plus.jpg">
+          </div>
+          <div class="text">
+            <div class="date">2012年11月29日</div>
+            <div class="event">托托莉的炼金工房Plus ～亚兰德之炼金术士2～ 发售</div>
+            <a class="link" target="_blank" rel="noopener" href="https://atelier.ztgdblog.icu">查看详情</a>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="timeline-item">
+      <div class="content">
+        <div class="flex-container">
+          <div class="text">
+            <div class="date">2012年06月28日</div>
+            <div class="event">爱夏的炼金工房 ～黄昏大地之炼金术士～ 发售</div>
+            <a class="link" target="_blank" rel="noopener" href="https://atelier.ztgdblog.icu">查看详情</a>
+          </div>
+          <div class="image">
+            <img src= "/img/loading.avif" data-lazy-src="img/ayesha.jpg">
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="timeline-item">
+      <div class="content">
+        <div class="flex-container">
+          <div class="image">
+            <img src= "/img/loading.avif" data-lazy-src="img/meruru.jpg">
+          </div>
+          <div class="text">
+            <div class="date">2011年06月23日</div>
+            <div class="event">梅露露的炼金工房 ～亚兰德之炼金术士3～ 发售</div>
+            <a class="link" target="_blank" rel="noopener" href="https://atelier.ztgdblog.icu">查看详情</a>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="timeline-item">
+      <div class="content">
+        <div class="flex-container">
+          <div class="text">
+            <div class="date">2011年02月03日</div>
+            <div class="event">薇欧蕾特的炼金工房 ～格拉姆纳特的炼金术士2～ 群青色的回忆 发售</div>
+            <a class="link" target="_blank" rel="noopener" href="https://atelier.ztgdblog.icu">查看详情</a>
+          </div>
+          <div class="image">
+            <img src= "/img/loading.avif" data-lazy-src="img/vioratepsp.jpg">
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="timeline-item">
+      <div class="content">
+        <div class="flex-container">
+          <div class="image">
+            <img src= "/img/loading.avif" data-lazy-src="img/totori.jpg">
+          </div>
+          <div class="text">
+            <div class="date">2010年06月24日</div>
+            <div class="event">托托莉的炼金工房 ～亚兰德之炼金术士2～ 发售</div>
+            <a class="link" target="_blank" rel="noopener" href="https://atelier.ztgdblog.icu">查看详情</a>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="timeline-item">
+      <div class="content">
+        <div class="flex-container">
+          <div class="text">
+            <div class="date">2010年04月08日</div>
+            <div class="event">尤蒂的炼金工房 ～格拉姆纳特的炼金术士～ 被囚禁的守护者 发售</div>
+            <a class="link" target="_blank" rel="noopener" href="https://atelier.ztgdblog.icu">查看详情</a>
+          </div>
+          <div class="image">
+            <img src= "/img/loading.avif" data-lazy-src="img/judiepsp.jpg">
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="timeline-item">
+      <div class="content">
+        <div class="flex-container">
+          <div class="image">
+            <img src= "/img/loading.avif" data-lazy-src="img/lina.jpg">
+          </div>
+          <div class="text">
+            <div class="date">2009年12月22日</div>
+            <div class="event">莉娜的炼金工房 ～修特莱尔的炼金术士～ 发售</div>
+            <a class="link" target="_blank" rel="noopener" href="https://atelier.ztgdblog.icu">查看详情</a>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="timeline-item">
+      <div class="content">
+        <div class="flex-container">
+          <div class="text">
+            <div class="date">2009年06月25日</div>
+            <div class="event">萝乐娜的炼金工房 ～亚兰德之炼金术士～ 发售</div>
+            <a class="link" target="_blank" rel="noopener" href="https://atelier.ztgdblog.icu">查看详情</a>
+          </div>
+          <div class="image">
+            <img src= "/img/loading.avif" data-lazy-src="img/rorona.jpg">
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="timeline-item">
+      <div class="content">
+        <div class="flex-container">
+          <div class="image">
+            <img src= "/img/loading.avif" data-lazy-src="img/annie.jpg">
+          </div>
+          <div class="text">
+            <div class="date">2009年12月22日</div>
+            <div class="event">安妮的炼金工房 ～赛拉岛的炼金术士～ 发售</div>
+            <a class="link" target="_blank" rel="noopener" href="https://atelier.ztgdblog.icu">查看详情</a>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="timeline-item">
+      <div class="content">
+        <div class="flex-container">
+          <div class="text">
+            <div class="date">2008年09月25日</div>
+            <div class="event">玛娜传奇 ～学园的炼金术士们～ PORTABLE+ 发售</div>
+            <a class="link" target="_blank" rel="noopener" href="https://atelier.ztgdblog.icu">查看详情</a>
+          </div>
+          <div class="image">
+            <img src= "/img/loading.avif" data-lazy-src="img/manakhemiapsp.jpg">
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="timeline-item">
+      <div class="content">
+        <div class="flex-container">
+          <div class="image">
+            <img src= "/img/loading.avif" data-lazy-src="img/manakhemia2.jpg">
+          </div>
+          <div class="text">
+            <div class="date">2008年05月29日</div>
+            <div class="event">玛娜传奇2 ～衰落的学园与炼金术士们～ 发售</div>
+            <a class="link" target="_blank" rel="noopener" href="https://atelier.ztgdblog.icu">查看详情</a>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="timeline-item">
+      <div class="content">
+        <div class="flex-container">
+          <div class="text">
+            <div class="date">2007年06月21日</div>
+            <div class="event">玛娜传奇 ～学园的炼金术士们～ 发售</div>
+            <a class="link" target="_blank" rel="noopener" href="https://atelier.ztgdblog.icu">查看详情</a>
+          </div>
+          <div class="image">
+            <img src= "/img/loading.avif" data-lazy-src="img/manakhemia.jpg">
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="timeline-item">
+      <div class="content">
+        <div class="flex-container">
+          <div class="image">
+            <img src= "/img/loading.avif" data-lazy-src="img/lise.jpg">
+          </div>
+          <div class="text">
+            <div class="date">2007年04月19日</div>
+            <div class="event">莉兹的炼金工房 ～奥多尔的錬金术士～ 发售</div>
+            <a class="link" target="_blank" rel="noopener" href="https://atelier.ztgdblog.icu">查看详情</a>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="timeline-item">
+      <div class="content">
+        <div class="flex-container">
+          <div class="text">
+            <div class="date">2006年06月29日</div>
+            <div class="event">伊莉斯的炼金工房 ～伟大的幻影～ 发售</div>
+            <a class="link" target="_blank" rel="noopener" href="https://atelier.ztgdblog.icu">查看详情</a>
+          </div>
+          <div class="image">
+            <img src= "/img/loading.avif" data-lazy-src="img/irisgra.jpg">
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="timeline-item">
+      <div class="content">
+        <div class="flex-container">
+          <div class="image">
+            <img src= "/img/loading.avif" data-lazy-src="img/atelierM&E.jpg">
+          </div>
+          <div class="text">
+            <div class="date">2005年10月27日</div>
+            <div class="event">炼金工房 玛丽+艾莉 ～萨尔布鲁克的炼金术士1.2～ 发售</div>
+            <a class="link" target="_blank" rel="noopener" href="https://atelier.ztgdblog.icu">查看详情</a>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="timeline-item">
+      <div class="content">
+        <div class="flex-container">
+          <div class="text">
+            <div class="date">2005年05月26日</div>
+            <div class="event">伊莉斯的炼金工房 ～永恒玛娜2～ 发售</div>
+            <a class="link" target="_blank" rel="noopener" href="https://atelier.ztgdblog.icu">查看详情</a>
+          </div>
+          <div class="image">
+            <img src= "/img/loading.avif" data-lazy-src="img/iris2.jpg">
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="timeline-item">
+      <div class="content">
+        <div class="flex-container">
+          <div class="image">
+            <img src= "/img/loading.avif" data-lazy-src="img/iris.jpg">
+          </div>
+          <div class="text">
+            <div class="date">2004年05月27日</div>
+            <div class="event">伊莉斯的炼金工房 ～永恒玛娜～ 发售</div>
+            <a class="link" target="_blank" rel="noopener" href="https://atelier.ztgdblog.icu">查看详情</a>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="timeline-item">
+      <div class="content">
+        <div class="flex-container">
+          <div class="text">
+            <div class="date">2003年06月26日</div>
+            <div class="event">薇欧蕾特的炼金工房 ～格拉姆纳特的炼金术士2～ 发售</div>
+            <a class="link" target="_blank" rel="noopener" href="https://atelier.ztgdblog.icu">查看详情</a>
+          </div>
+          <div class="image">
+            <img src= "/img/loading.avif" data-lazy-src="img/viorate.jpg">
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="timeline-item">
+      <div class="content">
+        <div class="flex-container">
+          <div class="image">
+            <img src= "/img/loading.avif" data-lazy-src="img/M&E&A.jpg">
+          </div>
+          <div class="text">
+            <div class="date">2003年01月24日</div>
+            <div class="event">玛莉、艾莉&阿妮斯的炼金工房 ～微风中的消息～ 发售</div>
+            <a class="link" target="_blank" rel="noopener" href="https://atelier.ztgdblog.icu">查看详情</a>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="timeline-item">
+      <div class="content">
+        <div class="flex-container">
+          <div class="text">
+            <div class="date">2002年06月27日</div>
+            <div class="event">尤蒂的炼金工房 ～格拉姆纳特的炼金术士～ 发售</div>
+            <a class="link" target="_blank" rel="noopener" href="https://atelier.ztgdblog.icu">查看详情</a>
+          </div>
+          <div class="image">
+            <img src= "/img/loading.avif" data-lazy-src="img/judie.jpg">
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="timeline-item">
+      <div class="content">
+        <div class="flex-container">
+          <div class="image">
+            <img src= "/img/loading.avif" data-lazy-src="img/riri2.jpg">
+          </div>
+          <div class="text">
+            <div class="date">2002年04月04日</div>
+            <div class="event">莉莉的炼金工房Plus ～萨尔布鲁克的炼金术士3～ 发售</div>
+            <a class="link" target="_blank" rel="noopener" href="https://atelier.ztgdblog.icu">查看详情</a>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="timeline-item">
+      <div class="content">
+        <div class="flex-container">
+          <div class="text">
+            <div class="date">2001年12月20日</div>
+            <div class="event">海美娜与库鲁斯 ～莉莉的炼金工房 另一个故事～ 发售</div>
+            <a class="link" target="_blank" rel="noopener" href="https://atelier.ztgdblog.icu">查看详情</a>
+          </div>
+          <div class="image">
+            <img src= "/img/loading.avif" data-lazy-src="img/Helukuru.jpg">
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="timeline-item">
+      <div class="content">
+        <div class="flex-container">
+          <div class="image">
+            <img src= "/img/loading.avif" data-lazy-src="img/futari.jpg">
+          </div>
+          <div class="text">
+            <div class="date">2001年10月25日</div>
+            <div class="event">玛莉&艾莉 ～两个人的炼金工房～ 发售</div>
+            <a class="link" target="_blank" rel="noopener" href="https://atelier.ztgdblog.icu">查看详情</a>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="timeline-item">
+      <div class="content">
+        <div class="flex-container">
+          <div class="text">
+            <div class="date">2001年06月21日</div>
+            <div class="event">莉莉的炼金工房 ～萨尔布鲁克的炼金术士3～ 发售</div>
+            <a class="link" target="_blank" rel="noopener" href="https://atelier.ztgdblog.icu">查看详情</a>
+          </div>
+          <div class="image">
+            <img src= "/img/loading.avif" data-lazy-src="img/riri.jpg">
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="timeline-item">
+      <div class="content">
+        <div class="flex-container">
+          <div class="image">
+            <img src= "/img/loading.avif" data-lazy-src="img/eri.jpg">
+          </div>
+          <div class="text">
+            <div class="date">1998年12月17日</div>
+            <div class="event">艾莉的炼金工房 ～萨尔布鲁克的炼金术士2～ 发售</div>
+            <a class="link" target="_blank" rel="noopener" href="https://atelier.ztgdblog.icu">查看详情</a>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="timeline-item">
+      <div class="content">
+        <div class="flex-container">
+          <div class="text">
+            <div class="date">1998年06月04日</div>
+            <div class="event">玛莉的炼金工房Plus ～萨尔布鲁克的炼金术士～ 发售</div>
+            <a class="link" target="_blank" rel="noopener" href="https://atelier.ztgdblog.icu">查看详情</a>
+          </div>
+          <div class="image">
+            <img src= "/img/loading.avif" data-lazy-src="img/mari2.jpg">
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="timeline-item">
+      <div class="content">
+        <div class="flex-container">
+          <div class="image">
+            <img src= "/img/loading.avif" data-lazy-src="img/mari.jpg">
+          </div>
+          <div class="text">
+            <div class="date">1997年05月23日</div>
+            <div class="event">玛莉的炼金工房 ～萨尔布鲁克的炼金术士～ 发售</div>
           </div>
         </div>
       </div>
@@ -290,7 +936,7 @@
 </body>
 
 </html></div></div></main><footer id="footer"><div id="footer_deal"></div><div id="st-footer"></div><div id="footer-bar"><div class="footer-bar-links"><div class="footer-bar-left"><div class="copyright">© 2024 By&nbsp;<a class="footer-bar-link" href="/">ZTGD</a></div></div><div class="footer-bar-right"><a class="footer-bar-link" target="_blank" rel="noopener" href="https://github.com/everfu/hexo-theme-solitude" alt="Theme">Theme</a></div></div></div></footer></div><!-- right_menu--><!-- inject body--><div><script src="/js/utils.js?v=2.0.6"></script><script src="/js/main.js?v=2.0.6"></script><script src="/js/third_party/waterfall.min.js?v=2.0.6"></script><script src="https://cdnjs.cloudflare.com/ajax/libs/pjax/0.2.8/pjax.min.js"></script><script src="https://cdnjs.cloudflare.com/ajax/libs/qrcodejs/1.0.0/qrcode.min.js"></script><script src="/js/third_party/universe.min.js?v=2.0.6"></script><script>dark()
-</script><script src="https://cdnjs.cloudflare.com/ajax/libs/node-snackbar/0.1.16/snackbar.min.js"></script><script src="https://cdnjs.cloudflare.com/ajax/libs/Swiper/11.0.5/swiper-bundle.min.js"></script><script src="https://cdnjs.cloudflare.com/ajax/libs/pace/1.2.4/pace.min.js"></script><div class="js-pjax"></div></div><!-- pjax--><script>const pjax = new Pjax({
+</script><script src="https://cdnjs.cloudflare.com/ajax/libs/vanilla-lazyload/19.1.3/lazyload.iife.min.js"></script><script src="https://cdnjs.cloudflare.com/ajax/libs/node-snackbar/0.1.16/snackbar.min.js"></script><script src="https://cdnjs.cloudflare.com/ajax/libs/fancyapps-ui/5.0.36/fancybox/fancybox.umd.min.js"></script><script src="https://cdnjs.cloudflare.com/ajax/libs/Swiper/11.0.5/swiper-bundle.min.js"></script><script src="https://cdnjs.cloudflare.com/ajax/libs/pace/1.2.4/pace.min.js"></script><div class="js-pjax"><script defer pjax src="https://cdnjs.cloudflare.com/ajax/libs/busuanzi/2.3.0/bsz.pure.mini.min.js"></script></div></div><!-- pjax--><script>const pjax = new Pjax({
     elements: 'a:not([target="_blank"])',
     selectors: ['title','#body-wrap','#site-config','meta[name="description"]','.js-pjax','meta[property^="og:"]','#config-diff'],
     cacheBust: false,
