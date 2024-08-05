@@ -1,23 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>玛莉的炼金工房 ～萨尔布鲁克的炼金术士～</title>
-    <url>/2024/08/04/a1/</url>
-    <content><![CDATA[<p><img src="https://s2.loli.net/2024/08/04/UbnThx6WX7f381p.jpg"></p>
-]]></content>
-      <categories>
-        <category>萨尔布鲁克</category>
-        <category>A1</category>
-        <category>A1</category>
-      </categories>
-      <tags>
-        <tag>游戏介绍</tag>
-        <tag>玛莉</tag>
-        <tag>A1</tag>
-        <tag>萨尔布鲁克</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>萝乐娜的炼金工房 ～亚兰德之炼金术士～</title>
     <url>/2024/08/05/a11/</url>
     <content><![CDATA[<p><img src="https://s2.loli.net/2024/08/05/lhgMckb5iB18YAT.jpg"></p>
@@ -75,60 +58,20 @@
       </tags>
   </entry>
   <entry>
-    <title>梅露露的炼金工房 ～亚兰德之炼金术士3～</title>
-    <url>/2024/08/05/a13/</url>
-    <content><![CDATA[<p><img src="https://s2.loli.net/2024/08/05/tmhPqWoN2QYBi5C.jpg"></p>
-<style>  
-  .button-container {  
-    display: flex;  
-    justify-content: center;
-    margin-top: 20px;
-  }  
-  .button-container button {  
-    text-decoration: none;
-    color: white;
-    background-color: #f88080;
-    padding: 10px 20px;
-    margin: 0 15px;
-    border: none;
-    border-radius: 5px;
-    cursor: pointer;
-  }  
-  .button-container button:hover {  
-    background-color: #d88080;
-    transform: scale(1.02);
-  }  
-</style>
-<div class="button-container">  
-  <button class="button" onclick="event.preventDefault(); window.location.href='https://atelier.ztgdblog.icu/buy/#a13';">前往购买</button>  
-  <button class="button" onclick="event.preventDefault(); window.location.href='#introduce';">角色介绍</button>  
-  <button class="button" onclick="event.preventDefault(); window.location.href='';">特色系统</button>  
-  <button class="button" onclick="event.preventDefault(); window.location.href='';">游戏攻略</button>  
-</div>  
-
-
-
-<blockquote>
-<p>界面内如有错误，欢迎指正，谢谢</p>
-<p>目录</p>
-<ul>
-<li><strong>游戏简介</strong></li>
-<li><strong>角色介绍</strong></li>
-</ul>
-<p>其余内容在特色系统页</p>
-</blockquote>
-<h2 id="游戏简介"><a href="#游戏简介" class="headerlink" title="游戏简介"></a>游戏简介</h2><div id="introduce"></div>
-
-<h2 id="角色介绍"><a href="#角色介绍" class="headerlink" title="角色介绍"></a>角色介绍</h2>]]></content>
+    <title>玛莉的炼金工房 ～萨尔布鲁克的炼金术士～</title>
+    <url>/2024/08/04/a1/</url>
+    <content><![CDATA[<p><img src="https://s2.loli.net/2024/08/04/UbnThx6WX7f381p.jpg"></p>
+]]></content>
       <categories>
-        <category>亚兰德</category>
-        <category>A13</category>
+        <category>萨尔布鲁克</category>
+        <category>A1</category>
+        <category>A1</category>
       </categories>
       <tags>
         <tag>游戏介绍</tag>
-        <tag>亚兰德</tag>
-        <tag>梅露露</tag>
-        <tag>A13</tag>
+        <tag>玛莉</tag>
+        <tag>A1</tag>
+        <tag>萨尔布鲁克</tag>
       </tags>
   </entry>
   <entry>
@@ -186,6 +129,63 @@
         <tag>亚兰德</tag>
         <tag>托托莉</tag>
         <tag>A12</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>梅露露的炼金工房 ～亚兰德之炼金术士3～</title>
+    <url>/2024/08/05/a13/</url>
+    <content><![CDATA[<p><img src="https://s2.loli.net/2024/08/05/tmhPqWoN2QYBi5C.jpg"></p>
+<style>  
+  .button-container {  
+    display: flex;  
+    justify-content: center;
+    margin-top: 20px;
+  }  
+  .button-container button {  
+    text-decoration: none;
+    color: white;
+    background-color: #f88080;
+    padding: 10px 20px;
+    margin: 0 15px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }  
+  .button-container button:hover {  
+    background-color: #d88080;
+    transform: scale(1.02);
+  }  
+</style>
+<div class="button-container">  
+  <button class="button" onclick="event.preventDefault(); window.location.href='https://atelier.ztgdblog.icu/buy/#a13';">前往购买</button>  
+  <button class="button" onclick="event.preventDefault(); window.location.href='#introduce';">角色介绍</button>  
+  <button class="button" onclick="event.preventDefault(); window.location.href='';">特色系统</button>  
+  <button class="button" onclick="event.preventDefault(); window.location.href='';">游戏攻略</button>  
+</div>  
+
+
+
+<blockquote>
+<p>界面内如有错误，欢迎指正，谢谢</p>
+<p>目录</p>
+<ul>
+<li><strong>游戏简介</strong></li>
+<li><strong>角色介绍</strong></li>
+</ul>
+<p>其余内容在特色系统页</p>
+</blockquote>
+<h2 id="游戏简介"><a href="#游戏简介" class="headerlink" title="游戏简介"></a>游戏简介</h2><div id="introduce"></div>
+
+<h2 id="角色介绍"><a href="#角色介绍" class="headerlink" title="角色介绍"></a>角色介绍</h2>]]></content>
+      <categories>
+        <category>亚兰德</category>
+        <category>A13</category>
+      </categories>
+      <tags>
+        <tag>游戏介绍</tag>
+        <tag>亚兰德</tag>
+        <tag>梅露露</tag>
+        <tag>A13</tag>
       </tags>
   </entry>
   <entry>
@@ -418,63 +418,6 @@
       </tags>
   </entry>
   <entry>
-    <title>菲莉丝的炼金工房 ～不可思议旅的炼金术士～</title>
-    <url>/2024/08/05/a18/</url>
-    <content><![CDATA[<p><img src="https://s2.loli.net/2024/08/05/MNldPL8cXGfInJC.jpg"></p>
-<style>  
-  .button-container {  
-    display: flex;  
-    justify-content: center;
-    margin-top: 20px;
-  }  
-  .button-container button {  
-    text-decoration: none;
-    color: white;
-    background-color: #f88080;
-    padding: 10px 20px;
-    margin: 0 15px;
-    border: none;
-    border-radius: 5px;
-    cursor: pointer;
-  }  
-  .button-container button:hover {  
-    background-color: #d88080;
-    transform: scale(1.02);
-  }  
-</style>
-<div class="button-container">  
-  <button class="button" onclick="event.preventDefault(); window.location.href='https://atelier.ztgdblog.icu/buy/#a18';">前往购买</button>  
-  <button class="button" onclick="event.preventDefault(); window.location.href='#introduce';">角色介绍</button>  
-  <button class="button" onclick="event.preventDefault(); window.location.href='';">特色系统</button>  
-  <button class="button" onclick="event.preventDefault(); window.location.href='';">游戏攻略</button>  
-</div>  
-
-
-
-<blockquote>
-<p>界面内如有错误，欢迎指正，谢谢</p>
-<p>目录</p>
-<ul>
-<li><strong>游戏简介</strong></li>
-<li><strong>角色介绍</strong></li>
-</ul>
-<p>其余内容在特色系统页</p>
-</blockquote>
-<h2 id="游戏简介"><a href="#游戏简介" class="headerlink" title="游戏简介"></a>游戏简介</h2><div id="introduce"></div>
-
-<h2 id="角色介绍"><a href="#角色介绍" class="headerlink" title="角色介绍"></a>角色介绍</h2>]]></content>
-      <categories>
-        <category>不可思议</category>
-        <category>A18</category>
-      </categories>
-      <tags>
-        <tag>游戏介绍</tag>
-        <tag>不可思议</tag>
-        <tag>菲莉丝</tag>
-        <tag>A18</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>莉迪&amp;苏瑞的炼金工房 ～不可思议绘画的炼金术士～</title>
     <url>/2024/08/05/a19/</url>
     <content><![CDATA[<p><img src="https://s2.loli.net/2024/08/05/hbrdTvcLmz2GIFP.jpg"></p>
@@ -533,9 +476,9 @@
       </tags>
   </entry>
   <entry>
-    <title>露露亚的炼金工房 ～亚兰德之炼金术士4～</title>
-    <url>/2024/08/05/a20/</url>
-    <content><![CDATA[<p><img src="https://s2.loli.net/2024/08/05/dV4Q3wft6ahWuE1.jpg"></p>
+    <title>菲莉丝的炼金工房 ～不可思议旅的炼金术士～</title>
+    <url>/2024/08/05/a18/</url>
+    <content><![CDATA[<p><img src="https://s2.loli.net/2024/08/05/MNldPL8cXGfInJC.jpg"></p>
 <style>  
   .button-container {  
     display: flex;  
@@ -558,7 +501,7 @@
   }  
 </style>
 <div class="button-container">  
-  <button class="button" onclick="event.preventDefault(); window.location.href='https://atelier.ztgdblog.icu/buy/#a20';">前往购买</button>  
+  <button class="button" onclick="event.preventDefault(); window.location.href='https://atelier.ztgdblog.icu/buy/#a18';">前往购买</button>  
   <button class="button" onclick="event.preventDefault(); window.location.href='#introduce';">角色介绍</button>  
   <button class="button" onclick="event.preventDefault(); window.location.href='';">特色系统</button>  
   <button class="button" onclick="event.preventDefault(); window.location.href='';">游戏攻略</button>  
@@ -579,14 +522,14 @@
 
 <h2 id="角色介绍"><a href="#角色介绍" class="headerlink" title="角色介绍"></a>角色介绍</h2>]]></content>
       <categories>
-        <category>亚兰德</category>
-        <category>A20</category>
+        <category>不可思议</category>
+        <category>A18</category>
       </categories>
       <tags>
         <tag>游戏介绍</tag>
-        <tag>亚兰德</tag>
-        <tag>露露亚</tag>
-        <tag>A20</tag>
+        <tag>不可思议</tag>
+        <tag>菲莉丝</tag>
+        <tag>A18</tag>
       </tags>
   </entry>
   <entry>
@@ -649,6 +592,79 @@
       </tags>
   </entry>
   <entry>
+    <title>艾莉的炼金工房 ～萨尔布鲁克的炼金术士2～</title>
+    <url>/2024/08/04/a2/</url>
+    <content><![CDATA[<h1 id="艾莉的炼金工房-～萨尔布鲁克的炼金术士2～"><a href="#艾莉的炼金工房-～萨尔布鲁克的炼金术士2～" class="headerlink" title="艾莉的炼金工房 ～萨尔布鲁克的炼金术士2～"></a>艾莉的炼金工房 ～萨尔布鲁克的炼金术士2～</h1><p><img src="https://s2.loli.net/2024/08/04/nClG1WxyHB42p73.jpg"></p>
+]]></content>
+      <categories>
+        <category>萨尔布鲁克</category>
+        <category>A2</category>
+      </categories>
+      <tags>
+        <tag>游戏介绍</tag>
+        <tag>萨尔布鲁克</tag>
+        <tag>艾莉</tag>
+        <tag>A2</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>露露亚的炼金工房 ～亚兰德之炼金术士4～</title>
+    <url>/2024/08/05/a20/</url>
+    <content><![CDATA[<p><img src="https://s2.loli.net/2024/08/05/dV4Q3wft6ahWuE1.jpg"></p>
+<style>  
+  .button-container {  
+    display: flex;  
+    justify-content: center;
+    margin-top: 20px;
+  }  
+  .button-container button {  
+    text-decoration: none;
+    color: white;
+    background-color: #f88080;
+    padding: 10px 20px;
+    margin: 0 15px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }  
+  .button-container button:hover {  
+    background-color: #d88080;
+    transform: scale(1.02);
+  }  
+</style>
+<div class="button-container">  
+  <button class="button" onclick="event.preventDefault(); window.location.href='https://atelier.ztgdblog.icu/buy/#a20';">前往购买</button>  
+  <button class="button" onclick="event.preventDefault(); window.location.href='#introduce';">角色介绍</button>  
+  <button class="button" onclick="event.preventDefault(); window.location.href='';">特色系统</button>  
+  <button class="button" onclick="event.preventDefault(); window.location.href='';">游戏攻略</button>  
+</div>  
+
+
+
+<blockquote>
+<p>界面内如有错误，欢迎指正，谢谢</p>
+<p>目录</p>
+<ul>
+<li><strong>游戏简介</strong></li>
+<li><strong>角色介绍</strong></li>
+</ul>
+<p>其余内容在特色系统页</p>
+</blockquote>
+<h2 id="游戏简介"><a href="#游戏简介" class="headerlink" title="游戏简介"></a>游戏简介</h2><div id="introduce"></div>
+
+<h2 id="角色介绍"><a href="#角色介绍" class="headerlink" title="角色介绍"></a>角色介绍</h2>]]></content>
+      <categories>
+        <category>亚兰德</category>
+        <category>A20</category>
+      </categories>
+      <tags>
+        <tag>游戏介绍</tag>
+        <tag>亚兰德</tag>
+        <tag>露露亚</tag>
+        <tag>A20</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>莱莎的炼金工房 ～常暗女王与秘密藏身处～</title>
     <url>/2024/08/05/a21/</url>
     <content><![CDATA[<p><img src="https://s2.loli.net/2024/08/05/Jx3WrUBjHR2PVTl.jpg"></p>
@@ -706,22 +722,6 @@
       </tags>
   </entry>
   <entry>
-    <title>艾莉的炼金工房 ～萨尔布鲁克的炼金术士2～</title>
-    <url>/2024/08/04/a2/</url>
-    <content><![CDATA[<h1 id="艾莉的炼金工房-～萨尔布鲁克的炼金术士2～"><a href="#艾莉的炼金工房-～萨尔布鲁克的炼金术士2～" class="headerlink" title="艾莉的炼金工房 ～萨尔布鲁克的炼金术士2～"></a>艾莉的炼金工房 ～萨尔布鲁克的炼金术士2～</h1><p><img src="https://s2.loli.net/2024/08/04/nClG1WxyHB42p73.jpg"></p>
-]]></content>
-      <categories>
-        <category>萨尔布鲁克</category>
-        <category>A2</category>
-      </categories>
-      <tags>
-        <tag>游戏介绍</tag>
-        <tag>萨尔布鲁克</tag>
-        <tag>艾莉</tag>
-        <tag>A2</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>莱莎的炼金工房2 ～失落传说与秘密妖精～</title>
     <url>/2024/08/05/a22/</url>
     <content><![CDATA[<p><img src="https://s2.loli.net/2024/08/05/YizCNobktSwpDA3.jpg"></p>
@@ -751,6 +751,7 @@
   <button class="button" onclick="event.preventDefault(); window.location.href='#introduce';">角色介绍</button>  
   <button class="button" onclick="event.preventDefault(); window.location.href='';">特色系统</button>  
   <button class="button" onclick="event.preventDefault(); window.location.href='';">游戏攻略</button>  
+  <button class="button" onclick="event.preventDefault(); window.location.href='https://www.gamecity.com.tw/atelier/ryza2/';">繁中官网</button>  
 </div>  
 
 
@@ -764,9 +765,156 @@
 </ul>
 <p>其余内容在特色系统页</p>
 </blockquote>
-<h2 id="游戏简介"><a href="#游戏简介" class="headerlink" title="游戏简介"></a>游戏简介</h2><div id="introduce"></div>
+<h2 id="游戏简介"><a href="#游戏简介" class="headerlink" title="游戏简介"></a>游戏简介</h2><style>  
+  img.float-left {  
+    float: left;  
+    margin-right: 20px;
+  }  
+  .clearfix::after {  
+    content: "";  
+    display: table;  
+    clear: both;  
+  }  
+  .indent-first-line {  
+    text-indent: 2em;
+  }
+</style>
+<div class="clearfix">  
+    <img src="https://www.gamecity.com.tw/atelier/ryza2/img/logo640.png" class="float-left" width=40%>  
+    <p class="indent-first-line">前作故事结束3年后在各自人生之路上前行的莱莎与同伴们重逢，经历过全新的邂逅与别离，又找到了另一种对于自己而言具有重大意义之物。</p>
+    <p class="indent-first-line">本作描绘了苏菲于梦幻世界「艾德维格」寻找失散的搭档普拉芙妲的冒险谈，以及与冒险过程中邂逅的伙伴间的羁绊与心灵的传承。</p>
+</div>  
 
-<h2 id="角色介绍"><a href="#角色介绍" class="headerlink" title="角色介绍"></a>角色介绍</h2>]]></content>
+
+<div id="introduce"></div>
+
+<h2 id="角色介绍"><a href="#角色介绍" class="headerlink" title="角色介绍"></a>角色介绍</h2><style>
+  .container {  
+    display: flex;
+    align-items: center;
+  }  
+  .text-content {  
+    flex: 1;
+    padding-right: 20px;  
+  }  
+  .image-content img {  
+    max-width: 150px;
+    height: auto;
+  }  
+  .card1 {
+    padding: 20px;
+    background-color: #f8f9fa;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    font-family: Arial, sans-serif; 
+    margin-bottom: 10px; 
+  }
+</style>
+<h3>萊莎琳·斯托特</h3>
+<div class="container">  
+    <div class="image-content">  
+        <img src="https://www.gamecity.com.tw/atelier/ryza2/img/characters/ryza/chara.webp">  
+    </div> 
+    <div class="text-content">  
+      <div class="card1">
+        <p>CV のぐちゆり</p>  
+        <p>我有预感，这次也会成为真正的冒险</p>  
+      </div>
+      <p class="indent-first-line">平凡的少女，开朗活泼是其优点。3年前的大冒险结束后，独自留在库肯岛。现在相当于岛上孩子们的老师。</p>  
+      <p class="indent-first-line">以前那种前所未闻的大胆言行似乎已经收敛了很多……？自学炼金术，并且仍在继续努力，但最近感觉遇到了瓶颈。</p>  
+    </div>   
+</div>  
+<h3>菲</h3>
+<div class="container">  
+    <div class="image-content">  
+        <img src="https://www.gamecity.com.tw/atelier/ryza2/img/characters/fi/chara.webp">  
+    </div> 
+    <div class="text-content">  
+      <div class="card1">
+        <p>CV 和多田 美咲</p>  
+        <p>谜之小动物</p>  
+      </div>
+      <p class="indent-first-line">莱莎在全新冒险途中遇见的谜样小动物。虽然不会说话，但感情丰富，会做出各种反应。很亲近莱莎，会与她一起行动。</p>    
+    </div>   
+</div>  
+<h3>科洛蒂娅·巴兰茨</h3>
+<div class="container">  
+    <div class="image-content">  
+        <img src="https://www.gamecity.com.tw/atelier/ryza2/img/characters/klaudia/chara.webp">  
+    </div> 
+    <div class="text-content">  
+      <div class="card1">
+        <p>CV 大和田 仁美</p>  
+        <p>......莱莎，不知道过得好不好？</p>  
+      </div>
+      <p class="indent-first-line">商人的独生女。如今已可独当一面负责王都的工作，日理万机。3年前与莱莎一行人的冒险，对她而言依然是无可替代的回忆。至今内心深处仍默默希望，能够再次回到那令人兴奋的冒险日常。</p>    
+    </div>   
+</div>
+<h3>兰托·马斯林克</h3>
+<div class="container">  
+    <div class="image-content">  
+        <img src="https://www.gamecity.com.tw/atelier/ryza2/img/characters/lent/chara.webp">  
+    </div> 
+    <div class="text-content">  
+      <div class="card1">
+        <p>CV 寺島 拓篤</p>  
+        <p>抱歉，不要管我了</p>  
+      </div>
+      <p class="indent-first-line">莱莎、塔奥、博斯的青梅竹马。3年前从库肯岛出发独自踏上武者修行的旅程。不知旅程之中究竟发生了什么，不复从前快乐的样子，变得粗野起来。途经王都时与莱莎等人偶然再会， 莱莎邀请他再次一同冒险时……</p>    
+    </div>   
+</div>
+<h3>塔奥·蒙伽特恩</h3>
+<div class="container">  
+    <div class="image-content">  
+        <img src="https://www.gamecity.com.tw/atelier/ryza2/img/characters/tao/chara.webp">  
+    </div> 
+    <div class="text-content">  
+      <div class="card1">
+        <p>CV 寺島 惇太</p>  
+        <p>在说什么啊？！是我啊！忘记我了吗？！</p>  
+      </div>
+      <p class="indent-first-line">莱莎的青梅竹马。与博斯一起到王都留学，为了成为独当一面的学者每日勤奋学习。三年之间长高很多，已经不是以前那副容易被欺负的模样。虽然还是喜欢独自读书，但因为在王都有许多值得一看的新事物，所以比以前在岛上时更经常外出。</p>
+    </div>
+</div>
+<h3>帕特莉夏·阿贝尔海姆</h3>
+<div class="container">  
+    <div class="image-content">  
+        <img src="https://www.gamecity.com.tw/atelier/ryza2/img/characters/patricia/chara.webp">  
+    </div> 
+    <div class="text-content">  
+      <div class="card1">
+        <p>CV 大空 直美</p>  
+        <p>请稍等，这次我也要一起去！</p>  
+      </div>
+      <p class="indent-first-line">王都资产家之女。昵称是派蒂。家庭教师塔奥的学生，和塔奥十分亲近。虽然在衣食无忧的环境下成长，但是对自己的境遇心情很复杂。在原骑士的父亲的指导之下，能够使用剑术。</p>  
+    </div>   
+</div>  
+<h3>克里佛德・迪斯威尔</h3>
+<div class="container">  
+    <div class="image-content">  
+        <img src="https://www.gamecity.com.tw/atelier/ryza2/img/characters/clifford/chara.webp">  
+    </div> 
+    <div class="text-content">  
+      <div class="card1">
+        <p>CV 竹本 英史</p>  
+        <p>在下寻宝猎人克利佛德，绝不会对宝物和女孩子的危机视而不见！！</p>  
+      </div>
+      <p class="indent-first-line">自称为寻宝猎人的青年。实际上已涉足盗贼一行，细究起来难登大雅之堂。多才多艺，本领高超，刻意表演的夸张言行之下，本性却认真而诚挚。</p>  
+    </div>   
+</div>  
+<h3>赛莉‧古劳斯</h3>
+<div class="container">  
+    <div class="image-content">  
+        <img src="https://www.gamecity.com.tw/atelier/ryza2/img/characters/serri/chara.webp">  
+    </div> 
+    <div class="text-content">  
+      <div class="card1">
+        <p>CV 藤井 ゆきよ</p>  
+        <p>...没想到会在这个地方遇到认识我们的人</p>  
+      </div>
+      <p class="indent-first-line">与莱莎昔日同伴莉拉同为欧兰族的女性。为了某个目的，踏上搜集各式各样植物种子的旅程，向探索遗迹的莱莎一行人提议同行。性格稳重，对待任何人都公正无私，但不知道为何对莱莎保持著些许距离。</p>  
+    </div>   
+</div>  ]]></content>
       <categories>
         <category>秘密</category>
         <category>A22</category>
@@ -808,9 +956,8 @@
   <button class="button" onclick="event.preventDefault(); window.location.href='#introduce';">角色介绍</button>  
   <button class="button" onclick="event.preventDefault(); window.location.href='';">特色系统</button>  
   <button class="button" onclick="event.preventDefault(); window.location.href='';">游戏攻略</button>  
+  <button class="button" onclick="event.preventDefault(); window.location.href='https://www.gamecity.com.tw/atelier/sophie2/';">繁中官网</button>  
 </div>  
-
-
 
 <blockquote>
 <p>界面内如有错误，欢迎指正，谢谢</p>
@@ -821,9 +968,204 @@
 </ul>
 <p>其余内容在特色系统页</p>
 </blockquote>
-<h2 id="游戏简介"><a href="#游戏简介" class="headerlink" title="游戏简介"></a>游戏简介</h2><div id="introduce"></div>
+<h2 id="游戏简介"><a href="#游戏简介" class="headerlink" title="游戏简介"></a>游戏简介</h2><style>  
+  img.float-left {  
+    float: left;  
+    margin-right: 20px;
+  }  
+  .clearfix::after {  
+    content: "";  
+    display: table;  
+    clear: both;  
+  }  
+  .indent-first-line {  
+    text-indent: 2em;
+  }
+</style>
+<div class="clearfix">  
+    <img src="https://www.gamecity.com.tw/atelier/sophie2/img/logo.webp" class="float-left" width=40%>  
+    <p class="indent-first-line">这是离开故乡基尔亨‧贝尔，踏上漫长旅程的炼金术士苏菲所经历的，无数冒险中的一段故事。</p>
+    <p class="indent-first-line">本作描绘了苏菲于梦幻世界「艾德维格」寻找失散的搭档普拉芙妲的冒险谈，以及与冒险过程中邂逅的伙伴间的羁绊与心灵的传承。</p>
+</div>  
 
-<h2 id="角色介绍"><a href="#角色介绍" class="headerlink" title="角色介绍"></a>角色介绍</h2>]]></content>
+<div id="introduce"></div>
+
+<h2 id="角色介绍"><a href="#角色介绍" class="headerlink" title="角色介绍"></a>角色介绍</h2><style>
+  .container {  
+    display: flex;
+    align-items: center;
+  }  
+  .text-content {  
+    flex: 1;
+    padding-right: 20px;  
+  }  
+  .image-content img {  
+    max-width: 150px;
+    height: auto;
+  }  
+  .card1 {
+    padding: 20px;
+    background-color: #f8f9fa;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    font-family: Arial, sans-serif;
+    margin-bottom: 10px;
+  }
+</style>
+<h3>苏菲‧诺伊恩缪拉</h3>
+<div class="container">  
+    <div class="image-content">  
+        <img src="https://www.gamecity.com.tw/atelier/sophie2/img/characters/01_sophie/chara2.webp">  
+    </div>
+    <div class="text-content">  
+      <div class="card1">
+        <p>CV 相坂 優歌</p>  
+        <p>因为我的梦想就是，用炼金术带给大家幸福！</p>  
+      </div>
+      <p class="indent-first-line" style="color: red;">希望成为能够让大家幸福的炼金术士少女</p>  
+      <p class="indent-first-line">想与已故祖母一样成为公认𨱈金术士，远离故乡在旅途中每天都在奋斗着。性格开朗热心，也是位认真的勤勉家。不擅长处理细节，出了问题总试图独自解决·懒散程度日渐升级，炼金工房时常情况凄惨.…</p>  
+    </div>
+</div>  
+<h3>普拉芙妲</h3>
+<div class="container">  
+    <div class="image-content">  
+        <img src="https://www.gamecity.com.tw/atelier/sophie2/img/characters/02_plachta_girl/chara2.webp">  
+    </div>
+    <div class="text-content">  
+      <div class="card1">
+        <p>CV 井口 裕香</p>  
+        <p>这是当然。这种小事，对炼金术来说不算什么。</p>  
+      </div>
+      <p class="indent-first-line" style="color: red;">尚未成熟的賢者</p>  
+      <p class="indent-first-line">比苏菲等人更早来到「艾德维格」的年轻炼金术士。日复一日在自己的炼金工房中积累知识，研究錬金术。平时是冷静的理论家，但也有展现情感丰富的一面，面对未知的研究眼神熠熠生辉，输掉比试之后双眼含泪。与苏菲的搭档普拉芙妲同名，但似乎并不认识苏菲……？</p>  
+    </div>
+</div>  
+<h3>拉米洁儿‧埃伦迈尔</h3>
+<div class="container">  
+    <div class="image-content">  
+        <img src="https://www.gamecity.com.tw/atelier/sophie2/img/characters/03_ramizel/chara2.webp">  
+    </div>
+    <div class="text-content">  
+      <div class="card1">
+        <p>CV 高橋 李依</p>  
+        <p>哎呀呀，总之先试试看嘛。俗话说坐而言不如起而行嘛！</p>  
+      </div>
+      <p class="indent-first-line" style="color: red;">豪爽的天才鍊金術士</p>  
+      <p class="indent-first-line">「艾德维格」居民们的领导角色。笑容明快，性格温和，颇受众人信赖。正义感强，性格豪爽，对身手颇有自信，时不时会与魔物对战。遇到与自己一样都是炼金术士的苏菲和普拉芙妲，决定守护她们的成长。</p>  
+    </div>
+</div>  
+<h3>阿蕾特‧克拉勒蒂</h3>
+<div class="container">  
+    <div class="image-content">  
+        <img src="https://www.gamecity.com.tw/atelier/sophie2/img/characters/05_alette/chara2.webp">  
+    </div>
+    <div class="text-content">  
+      <div class="card1">
+        <p>CV 悠木 碧</p>  
+        <p>我闻......不会错，是宝藏的气味！</p>  
+      </div>
+      <p class="indent-first-line" style="color: red;">夢想成為有錢人！得意的商人兼調貨商</p>  
+      <p class="indent-first-line">贩卖各地捡拾之物的商人兼调货商。经营调货商的同时，日复一日寻找著「只有艾德维格才存在的宝物」。莽撞冒失，活泼好动，容易得意忘形。虽然相当自信，但会毫无理由因冒失行为而失败，制造麻烦。</p>  
+    </div>
+</div> 
+<h3>奧利亞斯‧安德斯</h3>
+<div class="container">  
+    <div class="image-content">  
+        <img src="https://www.gamecity.com.tw/atelier/sophie2/img/characters/06_olias/chara2.webp">  
+    </div>
+    <div class="text-content">  
+      <div class="card1">
+        <p>CV 前野 智昭</p>  
+        <p>本大爷叫奥利亚斯‧安德斯，是世界最强的超级保镖！！</p>  
+      </div>
+      <p class="indent-first-line" style="color: red;">充满自信的「本大爷保镖」</p>  
+      <p class="indent-first-line">担任洛伊提尔保镖的男性。对自己充满信心，行为举止堂堂正正，本质纯真直率。善于照顾他人，妥善完成委托，颇受当地居民信赖。</p>  
+    </div>
+</div> 
+<h3>迪伯尔德‧莱韦伦茨</h3>
+<div class="container">  
+    <div class="image-content">  
+        <img src="https://www.gamecity.com.tw/atelier/sophie2/img/characters/07_diebold/chara2.webp">  
+    </div>
+    <div class="text-content">  
+      <div class="card1">
+        <p>CV 河西 健吾</p>  
+        <p>我会全力以赴，不辜负大家的期望</p>  
+      </div>
+      <p class="indent-first-line" style="color: red;">失意的前騎士團長</p>  
+      <p class="indent-first-line">使用双剑、与奥利亚斯一起担任保镳的男性，散发著忧郁气质。性格认真，为人诚实正直，亦有顽固不善言辞的一面。身为前骑士剑术精湛，其实力在这个世界也数一数二。</p>  
+    </div>
+</div> 
+<h3>普拉芙妲</h3>
+<div class="container">  
+    <div class="image-content">  
+        <img src="https://www.gamecity.com.tw/atelier/sophie2/img/characters/04_plachta_doll/chara.webp">  
+    </div>
+    <div class="text-content">  
+      <div class="card1">
+        <p>CV 井口 裕香</p>  
+        <p>简直像是【梦】的指引......难道我以前也来过这里......?</p>  
+      </div>
+      <p class="indent-first-line" style="color: red;">擁有人偶之身的蘇菲的搭檔</p>  
+      <p class="indent-first-line">苏菲的师父，也是搭档。人灵魂栖息于人偶之中，为了成为人类与苏菲一同旅行。但是，被卷入大树旋涡、飞进「艾德维格」时与苏菲失散。</p>  
+    </div>
+</div>  
+<h3>艾薇拉</h3>
+<div class="container">  
+    <div class="image-content">  
+        <img src="https://www.gamecity.com.tw/atelier/sophie2/img/characters/08_elvira/chara.webp">  
+    </div>
+    <div class="text-content">  
+      <div class="card1">
+        <p>CV 上田 麗奈</p>  
+        <p>欢迎来到我的世界————</p>  
+      </div>
+      <p class="indent-first-line" style="color: red;">夢想世界的創造者</p>  
+      <p class="indent-first-line">创造出梦幻世界「艾德维格」之神。外表是成熟艳丽的女性，但个性非常孩子气。因为心怀自卑，不会出现在拉米洁儿以外之人面前。身为「艾德维格」创造神，深受这个世界的居民崇拜。</p>  
+    </div>
+</div>  
+<h3>皮莉卡</h3>
+<div class="container">  
+    <div class="image-content">  
+        <img src="https://www.gamecity.com.tw/atelier/sophie2/img/characters/09_pirka/chara.webp">  
+    </div>
+    <div class="text-content">  
+      <div class="card1">
+        <p>CV 早瀨 雪未</p>  
+        <p>客人就是我的闹钟呢</p>  
+      </div>
+      <p class="indent-first-line" style="color: red;">擁有奇妙力量的商人</p>  
+      <p class="indent-first-line">在洛伊提尔经营「皮莉卡堂」的店长。拥有某一种族的血统，能够复制道具。虽然热衷工作，但因喜欢睡午觉，时常有人看到她在顾店时睡觉的样子。</p>  
+    </div>
+</div>  
+<h3>卡特丽娜‧巴尔巴斯特</h3>
+<div class="container">  
+    <div class="image-content">  
+        <img src="https://www.gamecity.com.tw/atelier/sophie2/img/characters/10_katrina/chara.webp">  
+    </div>
+    <div class="text-content">  
+      <div class="card1">
+        <p>CV 沼倉 愛美</p>  
+        <p>哎呀，欢迎。要点餐的话不要找我，请找诺姆。</p>  
+      </div>
+      <p class="indent-first-line" style="color: red;">不認真的愛偷懶店長</p>  
+      <p class="indent-first-line">位于洛伊提尔的餐厅「水晶光辉亭」的店长。暱称是卡蒂。拥有优秀的情报搜集能力，以此搜集有关于艾德维格的各种情报。虽然料理技术一流，但身为店长却不认真工作，时常可以看到她在店里光明正大地偷懒。</p>  
+    </div>
+</div>  
+<h3>诺姆‧杜摩提耶</h3>
+<div class="container">  
+    <div class="image-content">  
+        <img src="https://www.gamecity.com.tw/atelier/sophie2/img/characters/11_gnome/chara.webp">  
+    </div>
+    <div class="text-content">  
+      <div class="card1">
+        <p>CV 大野 柚布子</p>  
+        <p>欢迎光临。需要什么吗？</p>  
+      </div>
+      <p class="indent-first-line" style="color: red;">勤奮又心地善良的青年</p>  
+      <p class="indent-first-line">在餐厅「水晶光辉亭」工作、认真又心地善良的青年。代替几乎不工作的卡蒂，负责店内大部分的工作。希望自己能多少帮上忙，以表达自己对卡蒂的感恩之情。</p>  
+    </div>
+</div>  ]]></content>
       <categories>
         <category>不可思议</category>
         <category>A23</category>
@@ -833,6 +1175,56 @@
         <tag>苏菲</tag>
         <tag>不可思议</tag>
         <tag>A23</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>蕾丝莱莉安娜的炼金工房 ～被遗忘的炼金术与极夜的解放者～</title>
+    <url>/2024/08/05/a25/</url>
+    <content><![CDATA[<p><img src="https://s2.loli.net/2024/08/05/r2UYG67NTln9Ssp.jpg"></p>
+<style>  
+  .button-container {  
+    display: flex;  
+    justify-content: center;
+    margin-top: 20px;
+  }  
+  .button-container button {  
+    text-decoration: none;
+    color: white;
+    background-color: #f88080;
+    padding: 10px 20px;
+    margin: 0 15px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }  
+  .button-container button:hover {  
+    background-color: #d88080;
+    transform: scale(1.02);
+  }  
+</style>
+<div class="button-container">  
+  <button class="button" onclick="event.preventDefault(); window.location.href='https://store.steampowered.com/app/2594920/_/';">前往游玩</button>  
+  <button class="button" onclick="event.preventDefault(); window.location.href='';">特色系统</button>  
+</div>  
+
+
+
+<blockquote>
+<p>界面内如有错误，欢迎指正，谢谢</p>
+<p><em><strong>游玩链接为国际服Steam端</strong></em><br>目录</p>
+<ul>
+<li><strong>游戏简介</strong></li>
+</ul>
+<p>其余内容在特色系统页</p>
+</blockquote>
+<h2 id="游戏简介"><a href="#游戏简介" class="headerlink" title="游戏简介"></a>游戏简介</h2>]]></content>
+      <categories>
+        <category>a25</category>
+      </categories>
+      <tags>
+        <tag>蕾丝莱莉安娜</tag>
+        <tag>蕾丝娜</tag>
+        <tag>a25</tag>
       </tags>
   </entry>
   <entry>
@@ -865,7 +1257,7 @@
   <button class="button" onclick="event.preventDefault(); window.location.href='#introduce';">角色介绍</button>  
   <button class="button" onclick="event.preventDefault(); window.location.href='';">特色系统</button>  
   <button class="button" onclick="event.preventDefault(); window.location.href='';">游戏攻略</button>  
-  <button class="button" onclick="event.preventDefault(); window.location.href='https://www.gamecity.com.tw/atelier/ryza3/';">游戏官网</button>  
+  <button class="button" onclick="event.preventDefault(); window.location.href='https://www.gamecity.com.tw/atelier/ryza3/';">繁中官网</button>  
 </div>  
 
 <blockquote>
