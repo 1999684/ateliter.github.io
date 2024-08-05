@@ -75,63 +75,6 @@
       </tags>
   </entry>
   <entry>
-    <title>托托莉的炼金工房 ～亚兰德之炼金术士2～</title>
-    <url>/2024/08/05/a12/</url>
-    <content><![CDATA[<p><img src="https://s2.loli.net/2024/08/05/PkNGBWmZw4egt52.jpg"></p>
-<style>  
-  .button-container {  
-    display: flex;  
-    justify-content: center;
-    margin-top: 20px;
-  }  
-  .button-container button {  
-    text-decoration: none;
-    color: white;
-    background-color: #f88080;
-    padding: 10px 20px;
-    margin: 0 15px;
-    border: none;
-    border-radius: 5px;
-    cursor: pointer;
-  }  
-  .button-container button:hover {  
-    background-color: #d88080;
-    transform: scale(1.02);
-  }  
-</style>
-<div class="button-container">  
-  <button class="button" onclick="event.preventDefault(); window.location.href='https://atelier.ztgdblog.icu/buy/#a12';">前往购买</button>  
-  <button class="button" onclick="event.preventDefault(); window.location.href='#introduce';">角色介绍</button>  
-  <button class="button" onclick="event.preventDefault(); window.location.href='';">特色系统</button>  
-  <button class="button" onclick="event.preventDefault(); window.location.href='';">游戏攻略</button>  
-</div>  
-
-
-
-<blockquote>
-<p>界面内如有错误，欢迎指正，谢谢</p>
-<p>目录</p>
-<ul>
-<li><strong>游戏简介</strong></li>
-<li><strong>角色介绍</strong></li>
-</ul>
-<p>其余内容在特色系统页</p>
-</blockquote>
-<h2 id="游戏简介"><a href="#游戏简介" class="headerlink" title="游戏简介"></a>游戏简介</h2><div id="introduce"></div>
-
-<h2 id="角色介绍"><a href="#角色介绍" class="headerlink" title="角色介绍"></a>角色介绍</h2>]]></content>
-      <categories>
-        <category>亚兰德</category>
-        <category>A12</category>
-      </categories>
-      <tags>
-        <tag>游戏介绍</tag>
-        <tag>亚兰德</tag>
-        <tag>托托莉</tag>
-        <tag>A12</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>梅露露的炼金工房 ～亚兰德之炼金术士3～</title>
     <url>/2024/08/05/a13/</url>
     <content><![CDATA[<p><img src="https://s2.loli.net/2024/08/05/tmhPqWoN2QYBi5C.jpg"></p>
@@ -189,9 +132,9 @@
       </tags>
   </entry>
   <entry>
-    <title>爱丝卡&amp;罗吉的炼金工房 ～黄昏天空之炼金术士～</title>
-    <url>/2024/08/05/a15/</url>
-    <content><![CDATA[<p><img src="https://s2.loli.net/2024/08/05/mlfQdoOXpIaY5hW.jpg"></p>
+    <title>托托莉的炼金工房 ～亚兰德之炼金术士2～</title>
+    <url>/2024/08/05/a12/</url>
+    <content><![CDATA[<p><img src="https://s2.loli.net/2024/08/05/PkNGBWmZw4egt52.jpg"></p>
 <style>  
   .button-container {  
     display: flex;  
@@ -214,7 +157,7 @@
   }  
 </style>
 <div class="button-container">  
-  <button class="button" onclick="event.preventDefault(); window.location.href='https://atelier.ztgdblog.icu/buy/#a15';">前往购买</button>  
+  <button class="button" onclick="event.preventDefault(); window.location.href='https://atelier.ztgdblog.icu/buy/#a12';">前往购买</button>  
   <button class="button" onclick="event.preventDefault(); window.location.href='#introduce';">角色介绍</button>  
   <button class="button" onclick="event.preventDefault(); window.location.href='';">特色系统</button>  
   <button class="button" onclick="event.preventDefault(); window.location.href='';">游戏攻略</button>  
@@ -235,15 +178,14 @@
 
 <h2 id="角色介绍"><a href="#角色介绍" class="headerlink" title="角色介绍"></a>角色介绍</h2>]]></content>
       <categories>
-        <category>黄昏</category>
-        <category>A15</category>
+        <category>亚兰德</category>
+        <category>A12</category>
       </categories>
       <tags>
         <tag>游戏介绍</tag>
-        <tag>爱丝卡</tag>
-        <tag>罗吉</tag>
-        <tag>A15</tag>
-        <tag>黄昏</tag>
+        <tag>亚兰德</tag>
+        <tag>托托莉</tag>
+        <tag>A12</tag>
       </tags>
   </entry>
   <entry>
@@ -298,9 +240,67 @@
       </categories>
       <tags>
         <tag>游戏介绍</tag>
-        <tag>黄昏</tag>
         <tag>爱夏</tag>
         <tag>A14</tag>
+        <tag>黄昏</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>爱丝卡&amp;罗吉的炼金工房 ～黄昏天空之炼金术士～</title>
+    <url>/2024/08/05/a15/</url>
+    <content><![CDATA[<p><img src="https://s2.loli.net/2024/08/05/mlfQdoOXpIaY5hW.jpg"></p>
+<style>  
+  .button-container {  
+    display: flex;  
+    justify-content: center;
+    margin-top: 20px;
+  }  
+  .button-container button {  
+    text-decoration: none;
+    color: white;
+    background-color: #f88080;
+    padding: 10px 20px;
+    margin: 0 15px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }  
+  .button-container button:hover {  
+    background-color: #d88080;
+    transform: scale(1.02);
+  }  
+</style>
+<div class="button-container">  
+  <button class="button" onclick="event.preventDefault(); window.location.href='https://atelier.ztgdblog.icu/buy/#a15';">前往购买</button>  
+  <button class="button" onclick="event.preventDefault(); window.location.href='#introduce';">角色介绍</button>  
+  <button class="button" onclick="event.preventDefault(); window.location.href='';">特色系统</button>  
+  <button class="button" onclick="event.preventDefault(); window.location.href='';">游戏攻略</button>  
+</div>  
+
+
+
+<blockquote>
+<p>界面内如有错误，欢迎指正，谢谢</p>
+<p>目录</p>
+<ul>
+<li><strong>游戏简介</strong></li>
+<li><strong>角色介绍</strong></li>
+</ul>
+<p>其余内容在特色系统页</p>
+</blockquote>
+<h2 id="游戏简介"><a href="#游戏简介" class="headerlink" title="游戏简介"></a>游戏简介</h2><div id="introduce"></div>
+
+<h2 id="角色介绍"><a href="#角色介绍" class="headerlink" title="角色介绍"></a>角色介绍</h2>]]></content>
+      <categories>
+        <category>黄昏</category>
+        <category>A15</category>
+      </categories>
+      <tags>
+        <tag>游戏介绍</tag>
+        <tag>黄昏</tag>
+        <tag>爱丝卡</tag>
+        <tag>罗吉</tag>
+        <tag>A15</tag>
       </tags>
   </entry>
   <entry>
@@ -533,6 +533,63 @@
       </tags>
   </entry>
   <entry>
+    <title>露露亚的炼金工房 ～亚兰德之炼金术士4～</title>
+    <url>/2024/08/05/a20/</url>
+    <content><![CDATA[<p><img src="https://s2.loli.net/2024/08/05/dV4Q3wft6ahWuE1.jpg"></p>
+<style>  
+  .button-container {  
+    display: flex;  
+    justify-content: center;
+    margin-top: 20px;
+  }  
+  .button-container button {  
+    text-decoration: none;
+    color: white;
+    background-color: #f88080;
+    padding: 10px 20px;
+    margin: 0 15px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }  
+  .button-container button:hover {  
+    background-color: #d88080;
+    transform: scale(1.02);
+  }  
+</style>
+<div class="button-container">  
+  <button class="button" onclick="event.preventDefault(); window.location.href='https://atelier.ztgdblog.icu/buy/#a20';">前往购买</button>  
+  <button class="button" onclick="event.preventDefault(); window.location.href='#introduce';">角色介绍</button>  
+  <button class="button" onclick="event.preventDefault(); window.location.href='';">特色系统</button>  
+  <button class="button" onclick="event.preventDefault(); window.location.href='';">游戏攻略</button>  
+</div>  
+
+
+
+<blockquote>
+<p>界面内如有错误，欢迎指正，谢谢</p>
+<p>目录</p>
+<ul>
+<li><strong>游戏简介</strong></li>
+<li><strong>角色介绍</strong></li>
+</ul>
+<p>其余内容在特色系统页</p>
+</blockquote>
+<h2 id="游戏简介"><a href="#游戏简介" class="headerlink" title="游戏简介"></a>游戏简介</h2><div id="introduce"></div>
+
+<h2 id="角色介绍"><a href="#角色介绍" class="headerlink" title="角色介绍"></a>角色介绍</h2>]]></content>
+      <categories>
+        <category>亚兰德</category>
+        <category>A20</category>
+      </categories>
+      <tags>
+        <tag>游戏介绍</tag>
+        <tag>亚兰德</tag>
+        <tag>露露亚</tag>
+        <tag>A20</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>玛莉的炼金工房 Remake ～萨尔布鲁克的炼金术士～</title>
     <url>/2024/08/05/a1re/</url>
     <content><![CDATA[<p><img src="https://s2.loli.net/2024/08/05/mMp5Od1A3sR48BI.jpg"></p>
@@ -592,79 +649,6 @@
       </tags>
   </entry>
   <entry>
-    <title>艾莉的炼金工房 ～萨尔布鲁克的炼金术士2～</title>
-    <url>/2024/08/04/a2/</url>
-    <content><![CDATA[<h1 id="艾莉的炼金工房-～萨尔布鲁克的炼金术士2～"><a href="#艾莉的炼金工房-～萨尔布鲁克的炼金术士2～" class="headerlink" title="艾莉的炼金工房 ～萨尔布鲁克的炼金术士2～"></a>艾莉的炼金工房 ～萨尔布鲁克的炼金术士2～</h1><p><img src="https://s2.loli.net/2024/08/04/nClG1WxyHB42p73.jpg"></p>
-]]></content>
-      <categories>
-        <category>萨尔布鲁克</category>
-        <category>A2</category>
-      </categories>
-      <tags>
-        <tag>游戏介绍</tag>
-        <tag>萨尔布鲁克</tag>
-        <tag>艾莉</tag>
-        <tag>A2</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>露露亚的炼金工房 ～亚兰德之炼金术士4～</title>
-    <url>/2024/08/05/a20/</url>
-    <content><![CDATA[<p><img src="https://s2.loli.net/2024/08/05/dV4Q3wft6ahWuE1.jpg"></p>
-<style>  
-  .button-container {  
-    display: flex;  
-    justify-content: center;
-    margin-top: 20px;
-  }  
-  .button-container button {  
-    text-decoration: none;
-    color: white;
-    background-color: #f88080;
-    padding: 10px 20px;
-    margin: 0 15px;
-    border: none;
-    border-radius: 5px;
-    cursor: pointer;
-  }  
-  .button-container button:hover {  
-    background-color: #d88080;
-    transform: scale(1.02);
-  }  
-</style>
-<div class="button-container">  
-  <button class="button" onclick="event.preventDefault(); window.location.href='https://atelier.ztgdblog.icu/buy/#a20';">前往购买</button>  
-  <button class="button" onclick="event.preventDefault(); window.location.href='#introduce';">角色介绍</button>  
-  <button class="button" onclick="event.preventDefault(); window.location.href='';">特色系统</button>  
-  <button class="button" onclick="event.preventDefault(); window.location.href='';">游戏攻略</button>  
-</div>  
-
-
-
-<blockquote>
-<p>界面内如有错误，欢迎指正，谢谢</p>
-<p>目录</p>
-<ul>
-<li><strong>游戏简介</strong></li>
-<li><strong>角色介绍</strong></li>
-</ul>
-<p>其余内容在特色系统页</p>
-</blockquote>
-<h2 id="游戏简介"><a href="#游戏简介" class="headerlink" title="游戏简介"></a>游戏简介</h2><div id="introduce"></div>
-
-<h2 id="角色介绍"><a href="#角色介绍" class="headerlink" title="角色介绍"></a>角色介绍</h2>]]></content>
-      <categories>
-        <category>亚兰德</category>
-        <category>A20</category>
-      </categories>
-      <tags>
-        <tag>游戏介绍</tag>
-        <tag>亚兰德</tag>
-        <tag>露露亚</tag>
-        <tag>A20</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>莱莎的炼金工房 ～常暗女王与秘密藏身处～</title>
     <url>/2024/08/05/a21/</url>
     <content><![CDATA[<p><img src="https://s2.loli.net/2024/08/05/Jx3WrUBjHR2PVTl.jpg"></p>
@@ -719,6 +703,22 @@
         <tag>莱莎</tag>
         <tag>A21</tag>
         <tag>秘密</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>艾莉的炼金工房 ～萨尔布鲁克的炼金术士2～</title>
+    <url>/2024/08/04/a2/</url>
+    <content><![CDATA[<h1 id="艾莉的炼金工房-～萨尔布鲁克的炼金术士2～"><a href="#艾莉的炼金工房-～萨尔布鲁克的炼金术士2～" class="headerlink" title="艾莉的炼金工房 ～萨尔布鲁克的炼金术士2～"></a>艾莉的炼金工房 ～萨尔布鲁克的炼金术士2～</h1><p><img src="https://s2.loli.net/2024/08/04/nClG1WxyHB42p73.jpg"></p>
+]]></content>
+      <categories>
+        <category>萨尔布鲁克</category>
+        <category>A2</category>
+      </categories>
+      <tags>
+        <tag>游戏介绍</tag>
+        <tag>萨尔布鲁克</tag>
+        <tag>艾莉</tag>
+        <tag>A2</tag>
       </tags>
   </entry>
   <entry>
@@ -865,9 +865,8 @@
   <button class="button" onclick="event.preventDefault(); window.location.href='#introduce';">角色介绍</button>  
   <button class="button" onclick="event.preventDefault(); window.location.href='';">特色系统</button>  
   <button class="button" onclick="event.preventDefault(); window.location.href='';">游戏攻略</button>  
+  <button class="button" onclick="event.preventDefault(); window.location.href='https://www.gamecity.com.tw/atelier/ryza3/';">游戏官网</button>  
 </div>  
-
-
 
 <blockquote>
 <p>界面内如有错误，欢迎指正，谢谢</p>
@@ -878,9 +877,226 @@
 </ul>
 <p>其余内容在特色系统页</p>
 </blockquote>
-<h2 id="游戏简介"><a href="#游戏简介" class="headerlink" title="游戏简介"></a>游戏简介</h2><div id="introduce"></div>
+<h2 id="游戏简介"><a href="#游戏简介" class="headerlink" title="游戏简介"></a>游戏简介</h2><style>  
+  img.float-left {  
+    float: left;  
+    margin-right: 20px;
+  }  
+  .clearfix::after {  
+    content: "";  
+    display: table;  
+    clear: both;  
+  }  
+  .indent-first-line {  
+    text-indent: 2em;
+  }
+</style>
+<div class="clearfix">  
+    <img src="https://s2.loli.net/2024/08/05/1c9zCX7kZxST6V4.png" class="float-left" width=40%>  
+    <p class="indent-first-line">故事始于前作『莱莎的炼金工房２』结束约一年之后。</p> 
+    <p class="indent-first-line">成长之后的莱莎与同伴们即将开始“最后的夏日冒险”。</p> 
+    <p class="indent-first-line">广受好评的『莱莎的炼金工房』脚本家高桥弥七郎再次担纲本作剧本，以炼金术的根源、世界之谜以及莱莎与同伴们各自的目标终点为主题，描绘出符合莱莎等人最后冒险的最终乐章。</p> 
+    <div style="text-align: center; color: blue; font-size: 24px; font-weight: bold;">冒险舞台为广阔的原野！体验更加自由的冒险吧————</div> 
+    <p class="indent-first-line">本作中的原野由多个地图无缝连接而成，无需载入地图即可自由移动。'炼金工房'系列最高级别的原野充满生机，带来更加自由的冒险体验。</p>
+    <div style="text-align: center; color: blue; font-size: 24px; font-weight: bold;">队伍成员多达11人，堪称本系列最高级别！</div>
+    <p class="indent-first-line">本作中不仅可再次见到前作中登场的角色们，还有作为故事关键人物的新角色登场。将11名队伍成员组队出发，享受冒险吧</p>
+    <div style="text-align: center; color: blue; font-size: 24px; font-weight: bold;">更加生动！更具魅力！角色表现继续进化</div>
+    <p class="indent-first-line">本作在『莱莎的炼金工房２』、『苏菲的炼金工房２』等进化的画面之上，进一步提升角色画质与表现。作为次世代「炼金工房」画质，可以欣赏到登场角色更加鲜活灵动的表情！和充满魅力的角色们一起冒险吧。</p>
+</div>  
 
-<h2 id="角色介绍"><a href="#角色介绍" class="headerlink" title="角色介绍"></a>角色介绍</h2>]]></content>
+
+
+<h3 id="故事"><a href="#故事" class="headerlink" title="故事"></a>故事</h3><blockquote>
+<p> 莱莎的冒险，始于突然出现的谜之群岛一？！</p>
+</blockquote>
+<p>“莱莎的炼金工房2”的故事结束约一年之后。生活在库肯岛的莱莎等人，得知海岸附近突然出现了神秘群岛。这些被称为柯克群岛”的岛屿，对莱莎等人居住的库肯岛产生了负面影响。为了拯救库肯岛，莱莎一行人迅速前往调查一一</p>
+<p><img src="https://www.gamecity.com.tw/atelier/ryza3/img/about/slide01-01@pc.webp"></p>
+<blockquote>
+<p>开始调查柯克群岛！在前方等候莱莎他们的是—</p>
+</blockquote>
+<p>调查柯克群岛的过程中，他们到达了谜之遗迹。遗迹深处，莱莎等人见到一扇巨大的谜样门扉。为了进一步调查而靠近那扇门，莱莎的脑海中突然听到了引导她接近’万象大典’的谜之声音。这扇门后究竟有些什么，’万象大典’又是什么意思——</p>
+<p>为了寻找拯救库肯岛的方法，莱莎等人踏上了关于’钥匙’与’炼金术根源’的宏大冒险之旅。</p>
+<p><img src="https://www.gamecity.com.tw/atelier/ryza3/img/story/slide01-06.webp"></p>
+<div id="introduce"></div>
+
+<h2 id="角色介绍"><a href="#角色介绍" class="headerlink" title="角色介绍"></a>角色介绍</h2><style>
+  .container {  
+    display: flex;
+    align-items: center;
+  }  
+  .text-content {  
+    flex: 1;
+    padding-right: 20px;  
+  }  
+  .image-content img {  
+    max-width: 150px;
+    height: auto;
+  }  
+  .card1 {
+    padding: 20px;
+    background-color: #f8f9fa;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    font-family: Arial, sans-serif; 
+    margin-bottom: 10px; 
+  }
+</style>
+<h3>萊莎琳·斯托特</h3>
+<div class="container">  
+    <div class="image-content">  
+        <img src="https://www.gamecity.com.tw/atelier/ryza3/img/characters/ryza/archive.png">  
+    </div> 
+    <div class="text-content">  
+      <div class="card1">
+        <p>CV のぐちゆり</p>  
+        <p>超越平凡的年轻炼金术士</p>  
+      </div>
+      <p class="indent-first-line">曾经特立独行的少女，随著年龄的增长变成了一位「亲切的姐姐」。如今已成为众人依靠的对象，承接各式各样的委托</p>  
+      <p class="indent-first-line">向来在关键时刻发挥创意的莱莎愈加精进，本作中将展现她在重要场合时所带来的、成为突破关键的灵光一闪。</p>  
+    </div>   
+</div>  
+<h3>科洛蒂娅·巴兰茨</h3>
+<div class="container">  
+    <div class="image-content">  
+        <img src="https://www.gamecity.com.tw/atelier/ryza3/img/characters/klaudia/archive.png">  
+    </div> 
+    <div class="text-content">  
+      <div class="card1">
+        <p>CV 大和田 仁美</p>  
+        <p>心存远大志向的经商才女</p>  
+      </div>
+      <p class="indent-first-line">商人的独生女，亦是聪明能干的职业女性。如今在商会内的地位日益稳固，开始负责管理具有发展前景的部门。</p>  
+      <p class="indent-first-line">离开王都之后接到来自莱莎的邀请，再次踏上仅限一个夏天的冒险之旅。</p>  
+    </div>   
+</div>  
+<h3>塔奥·蒙伽特恩</h3>
+<div class="container">  
+    <div class="image-content">  
+        <img src="https://www.gamecity.com.tw/atelier/ryza3/img/characters/tao/archive.png">  
+    </div> 
+    <div class="text-content">  
+      <div class="card1">
+        <p>CV 寺島 惇太</p>  
+        <p>站在人生十字路口的博学青年</p>  
+      </div>
+      <p class="indent-first-line">在王都继续求学的同时，也一如往常致力于遗迹研究。言谈举止成熟不少，并练就一身能随时进入遗迹探险的实力，然而本质上却仍是当年热爱读书的少年。</p>
+      <p class="indent-first-line">似乎对柯克群岛上的遗迹十分感兴趣，在此可以充分发挥他过去所积累的知识。</p>
+    </div>   
+</div>  
+<h3>兰托·马斯林克</h3>
+<div class="container">  
+    <div class="image-content">  
+        <img src="https://www.gamecity.com.tw/atelier/ryza3/img/characters/lent/archive.png">  
+    </div> 
+    <div class="text-content">  
+      <div class="card1">
+        <p>CV 寺島 拓篤</p>  
+        <p>以诚实之心于自己坚信之途前进的流浪战士</p>  
+      </div>
+      <p class="indent-first-line">颇具常识，为人诚实谦虚。简言之就是「可靠的好人」。</p>  
+      <p class="indent-first-line">离开库肯岛后继续一个人的武者修行之旅。与科洛蒂娅同样接到莱莎的邀请，再次与旧友们一同踏上崭新的冒险旅程。</p> 
+    </div>   
+</div>  
+<h3>博斯·布伦嫩</h3>
+<div class="container">  
+    <div class="image-content">  
+        <img src="https://www.gamecity.com.tw/atelier/ryza3/img/characters/bos/archive.png">  
+    </div> 
+    <div class="text-content">  
+      <div class="card1">
+        <p>CV 阿座上 洋平</p>  
+        <p>为了和朋友一同旅行而持续不断修行的青年</p>  
+      </div>
+      <p class="indent-first-line">莱莎等人故乡的有力人士「布伦嫩家」的继承人。曾经阴差阳错与莱莎等人不和，但如今已和解，也成长为一名认真的男人。但是，对莱莎等人的说话态度依然很不客气。</p>  
+      <p class="indent-first-line">他有一个藏在心底多年的愿望，就是和青梅竹马们一同冒险。</p>  
+    </div>   
+</div>  
+<h3>菲德丽卡·兰伯蒂</h3>
+<div class="container">  
+    <div class="image-content">  
+        <img src="https://www.gamecity.com.tw/atelier/ryza3/img/characters/federica/archive.png">  
+    </div> 
+    <div class="text-content">  
+      <div class="card1">
+        <p>CV 諸星 すみれ</p>  
+        <p>夹在派系斗争之间苦恼不已的代理会长</p>  
+      </div>
+      <p class="indent-first-line">工艺都市「萨多尼卡」工匠公会代理会长。仪容端庄有礼，温柔贤淑的女性。个性坚强，一丝不苟有耐心。但有时会表现得太过客气。</p>  
+      <p class="indent-first-line">为了让对立的两个派系能合作，决定跟著莱莎他们到各地一起冒险，从中学习成长。</p>  
+    </div>   
+</div>  
+<h3>迪安·法雷尔</h3>
+<div class="container">  
+    <div class="image-content">  
+        <img src="https://www.gamecity.com.tw/atelier/ryza3/img/characters/dian/archive.png">  
+    </div> 
+    <div class="text-content">  
+      <div class="card1">
+        <p>CV 三野 雄大</p>  
+        <p>厌恶村庄旧习的少年战士</p>  
+      </div>
+      <p class="indent-first-line">边境之村「弗雷」的战士。相当厌恶反复挖掘他人遗迹的「采种人」行为，常年希望著能够离开村庄。</p>  
+      <p class="indent-first-line">遇到莱莎一行人便决心和他们一起冒险。道地的猎人，不时会给人一种粗鲁的印象，但事实上是非常懂事又坦率的人。</p>  
+    </div>   
+</div>  
+<h3>帕特莉夏·阿贝尔海姆</h3>
+<div class="container">  
+    <div class="image-content">  
+        <img src="https://www.gamecity.com.tw/atelier/ryza3/img/characters/patricia/archive.png">  
+    </div> 
+    <div class="text-content">  
+      <div class="card1">
+        <p>CV 大空 直美</p>  
+        <p>为了某个目的，再次加入冒险的贵族千金</p>  
+      </div>
+      <p class="indent-first-line">塔奥担任家庭教师时指导的学生。跟莱莎在王都的冒险时，累积了很多经验。虽然老成，但只要下定决心，就会不顾周围的阻止马上行动的个性还是没有变。</p>  
+      <p class="indent-first-line">和莱莎道别后，过了一阵子普通学生生活。但为了向塔奥取得学术院推荐信(真的？？)的回复，再度加入莱莎一行的冒险队伍。</p>  
+    </div>   
+</div>  
+<h3>卡菈·伊迪亚斯</h3>
+<div class="container">  
+    <div class="image-content">  
+        <img src="https://www.gamecity.com.tw/atelier/ryza3/img/characters/kala/archive.png">  
+    </div> 
+    <div class="text-content">  
+      <div class="card1">
+        <p>CV 羊宮 妃那</p>  
+        <p>知道「万象大典」的历史活证人</p>  
+      </div>
+      <p class="indent-first-line">拥有少女的外表，但实际是超过千岁的大长老。卡菈虽身为在欧兰族中也被称为是传说中的氏族，但不时会偷跑出部落到附近散步。</p>  
+      <p class="indent-first-line">性格开朗爱开玩笑，却散发著不可思议的威严。对于莱莎他们在找寻的门扉之谜以及「万象大典」，似乎知道些什么——？</p>  
+    </div>   
+</div>  
+<h3>莉拉·德西亞斯</h3>
+<div class="container">  
+    <div class="image-content">  
+        <img src="https://www.gamecity.com.tw/atelier/ryza3/img/characters/lila/archive.png">  
+    </div> 
+    <div class="text-content">  
+      <div class="card1">
+        <p>CV 照井 春佳</p>  
+        <p>为了恢复故乡的和平，在世界各地旅行的欧兰族战士</p>  
+      </div>
+      <p class="indent-first-line">与安佩尔一同在各地旅行，过去造访库肯岛时，曾向莱莎等人传授战斗技巧。</p>  
+      <p class="indent-first-line">个性冷静沉著，待人冷淡，但在战斗时坚毅且勇敢，对于经常前往危险地带的安佩尔，是非常可靠的保镳。与安佩尔一样在旅途中与莱莎一行会合。</p>  
+    </div>   
+</div>  
+<h3>安佩尔·沃尔默</h3>
+<div class="container">  
+    <div class="image-content">  
+        <img src="https://www.gamecity.com.tw/atelier/ryza3/img/characters/empel/archive.png">  
+    </div> 
+    <div class="text-content">  
+      <div class="card1">
+        <p>CV 野島 裕史</p>  
+        <p>为了赎罪而在世界中旅行的流浪炼金术士</p>  
+      </div>
+      <p class="indent-first-line">过去任职于王宫，曾教导莱莎炼金术的炼金术士。为了关闭过去炼金术士留下的「异界之门」，在世界各地旅行。性格爽朗总是超然以对，态度也很沉著。</p>  
+      <p class="indent-first-line">为了自己的目的在各地旅行途中，与莱莎一行会合，再次与他们踏上冒险旅途。</p>  
+    </div>   
+</div>  
+
+]]></content>
       <categories>
         <category>秘密</category>
         <category>A24</category>
