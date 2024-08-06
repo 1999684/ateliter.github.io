@@ -361,63 +361,6 @@
       </tags>
   </entry>
   <entry>
-    <title>菲莉丝的炼金工房 ～不可思议旅的炼金术士～</title>
-    <url>/2024/08/05/a18/</url>
-    <content><![CDATA[<p><img src="https://s2.loli.net/2024/08/05/MNldPL8cXGfInJC.jpg"></p>
-<style>  
-  .button-container {  
-    display: flex;  
-    justify-content: center;
-    margin-top: 20px;
-  }  
-  .button-container button {  
-    text-decoration: none;
-    color: white;
-    background-color: #f88080;
-    padding: 10px 20px;
-    margin: 0 15px;
-    border: none;
-    border-radius: 5px;
-    cursor: pointer;
-  }  
-  .button-container button:hover {  
-    background-color: #d88080;
-    transform: scale(1.02);
-  }  
-</style>
-<div class="button-container">  
-  <button class="button" onclick="event.preventDefault(); window.location.href='https://atelier.ztgdblog.icu/buy/#a18';">前往购买</button>  
-  <button class="button" onclick="event.preventDefault(); window.location.href='#introduce';">角色介绍</button>  
-  <button class="button" onclick="event.preventDefault(); window.location.href='';">特色系统</button>  
-  <button class="button" onclick="event.preventDefault(); window.location.href='';">游戏攻略</button>  
-</div>  
-
-
-
-<blockquote>
-<p>界面内如有错误，欢迎指正，谢谢</p>
-<p>目录</p>
-<ul>
-<li><strong>游戏简介</strong></li>
-<li><strong>角色介绍</strong></li>
-</ul>
-<p>其余内容在特色系统页</p>
-</blockquote>
-<h2 id="游戏简介"><a href="#游戏简介" class="headerlink" title="游戏简介"></a>游戏简介</h2><div id="introduce"></div>
-
-<h2 id="角色介绍"><a href="#角色介绍" class="headerlink" title="角色介绍"></a>角色介绍</h2>]]></content>
-      <categories>
-        <category>不可思议</category>
-        <category>A18</category>
-      </categories>
-      <tags>
-        <tag>游戏介绍</tag>
-        <tag>菲莉丝</tag>
-        <tag>A18</tag>
-        <tag>不可思议</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>苏菲的炼金工房 ～不可思议书的炼金术士～</title>
     <url>/2024/08/05/a17/</url>
     <content><![CDATA[<p><img src="https://s2.loli.net/2024/08/05/fwzoAmtDdMFVaY2.jpg"></p>
@@ -469,15 +412,15 @@
       </categories>
       <tags>
         <tag>游戏介绍</tag>
-        <tag>不可思议</tag>
         <tag>苏菲</tag>
         <tag>A17</tag>
+        <tag>不可思议</tag>
       </tags>
   </entry>
   <entry>
-    <title>莉迪&amp;苏瑞的炼金工房 ～不可思议绘画的炼金术士～</title>
-    <url>/2024/08/05/a19/</url>
-    <content><![CDATA[<p><img src="https://s2.loli.net/2024/08/05/hbrdTvcLmz2GIFP.jpg"></p>
+    <title>菲莉丝的炼金工房 ～不可思议旅的炼金术士～</title>
+    <url>/2024/08/05/a18/</url>
+    <content><![CDATA[<p><img src="https://s2.loli.net/2024/08/05/MNldPL8cXGfInJC.jpg"></p>
 <style>  
   .button-container {  
     display: flex;  
@@ -500,7 +443,7 @@
   }  
 </style>
 <div class="button-container">  
-  <button class="button" onclick="event.preventDefault(); window.location.href='https://atelier.ztgdblog.icu/buy/#a19';">前往购买</button>  
+  <button class="button" onclick="event.preventDefault(); window.location.href='https://atelier.ztgdblog.icu/buy/#a18';">前往购买</button>  
   <button class="button" onclick="event.preventDefault(); window.location.href='#introduce';">角色介绍</button>  
   <button class="button" onclick="event.preventDefault(); window.location.href='';">特色系统</button>  
   <button class="button" onclick="event.preventDefault(); window.location.href='';">游戏攻略</button>  
@@ -522,14 +465,13 @@
 <h2 id="角色介绍"><a href="#角色介绍" class="headerlink" title="角色介绍"></a>角色介绍</h2>]]></content>
       <categories>
         <category>不可思议</category>
-        <category>A19</category>
+        <category>A18</category>
       </categories>
       <tags>
         <tag>游戏介绍</tag>
         <tag>不可思议</tag>
-        <tag>莉迪</tag>
-        <tag>苏瑞</tag>
-        <tag>A19</tag>
+        <tag>菲莉丝</tag>
+        <tag>A18</tag>
       </tags>
   </entry>
   <entry>
@@ -592,6 +534,80 @@
       </tags>
   </entry>
   <entry>
+    <title>莉迪&amp;苏瑞的炼金工房 ～不可思议绘画的炼金术士～</title>
+    <url>/2024/08/05/a19/</url>
+    <content><![CDATA[<p><img src="https://s2.loli.net/2024/08/05/hbrdTvcLmz2GIFP.jpg"></p>
+<style>  
+  .button-container {  
+    display: flex;  
+    justify-content: center;
+    margin-top: 20px;
+  }  
+  .button-container button {  
+    text-decoration: none;
+    color: white;
+    background-color: #f88080;
+    padding: 10px 20px;
+    margin: 0 15px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }  
+  .button-container button:hover {  
+    background-color: #d88080;
+    transform: scale(1.02);
+  }  
+</style>
+<div class="button-container">  
+  <button class="button" onclick="event.preventDefault(); window.location.href='https://atelier.ztgdblog.icu/buy/#a19';">前往购买</button>  
+  <button class="button" onclick="event.preventDefault(); window.location.href='#introduce';">角色介绍</button>  
+  <button class="button" onclick="event.preventDefault(); window.location.href='';">特色系统</button>  
+  <button class="button" onclick="event.preventDefault(); window.location.href='';">游戏攻略</button>  
+</div>  
+
+
+
+<blockquote>
+<p>界面内如有错误，欢迎指正，谢谢</p>
+<p>目录</p>
+<ul>
+<li><strong>游戏简介</strong></li>
+<li><strong>角色介绍</strong></li>
+</ul>
+<p>其余内容在特色系统页</p>
+</blockquote>
+<h2 id="游戏简介"><a href="#游戏简介" class="headerlink" title="游戏简介"></a>游戏简介</h2><div id="introduce"></div>
+
+<h2 id="角色介绍"><a href="#角色介绍" class="headerlink" title="角色介绍"></a>角色介绍</h2>]]></content>
+      <categories>
+        <category>不可思议</category>
+        <category>A19</category>
+      </categories>
+      <tags>
+        <tag>游戏介绍</tag>
+        <tag>不可思议</tag>
+        <tag>莉迪</tag>
+        <tag>苏瑞</tag>
+        <tag>A19</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>艾莉的炼金工房 ～萨尔布鲁克的炼金术士2～</title>
+    <url>/2024/08/04/a2/</url>
+    <content><![CDATA[<h1 id="艾莉的炼金工房-～萨尔布鲁克的炼金术士2～"><a href="#艾莉的炼金工房-～萨尔布鲁克的炼金术士2～" class="headerlink" title="艾莉的炼金工房 ～萨尔布鲁克的炼金术士2～"></a>艾莉的炼金工房 ～萨尔布鲁克的炼金术士2～</h1><p><img src="https://s2.loli.net/2024/08/04/nClG1WxyHB42p73.jpg"></p>
+]]></content>
+      <categories>
+        <category>萨尔布鲁克</category>
+        <category>A2</category>
+      </categories>
+      <tags>
+        <tag>游戏介绍</tag>
+        <tag>萨尔布鲁克</tag>
+        <tag>艾莉</tag>
+        <tag>A2</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>露露亚的炼金工房 ～亚兰德之炼金术士4～</title>
     <url>/2024/08/05/a20/</url>
     <content><![CDATA[<p><img src="https://s2.loli.net/2024/08/05/dV4Q3wft6ahWuE1.jpg"></p>
@@ -646,22 +662,6 @@
         <tag>亚兰德</tag>
         <tag>露露亚</tag>
         <tag>A20</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>艾莉的炼金工房 ～萨尔布鲁克的炼金术士2～</title>
-    <url>/2024/08/04/a2/</url>
-    <content><![CDATA[<h1 id="艾莉的炼金工房-～萨尔布鲁克的炼金术士2～"><a href="#艾莉的炼金工房-～萨尔布鲁克的炼金术士2～" class="headerlink" title="艾莉的炼金工房 ～萨尔布鲁克的炼金术士2～"></a>艾莉的炼金工房 ～萨尔布鲁克的炼金术士2～</h1><p><img src="https://s2.loli.net/2024/08/04/nClG1WxyHB42p73.jpg"></p>
-]]></content>
-      <categories>
-        <category>萨尔布鲁克</category>
-        <category>A2</category>
-      </categories>
-      <tags>
-        <tag>游戏介绍</tag>
-        <tag>萨尔布鲁克</tag>
-        <tag>艾莉</tag>
-        <tag>A2</tag>
       </tags>
   </entry>
   <entry>
@@ -927,56 +927,6 @@
       </tags>
   </entry>
   <entry>
-    <title>蕾丝莱莉安娜的炼金工房 ～被遗忘的炼金术与极夜的解放者～</title>
-    <url>/2024/08/05/a25/</url>
-    <content><![CDATA[<p><img src="https://s2.loli.net/2024/08/05/r2UYG67NTln9Ssp.jpg"></p>
-<style>  
-  .button-container {  
-    display: flex;  
-    justify-content: center;
-    margin-top: 20px;
-  }  
-  .button-container button {  
-    text-decoration: none;
-    color: white;
-    background-color: #f88080;
-    padding: 10px 20px;
-    margin: 0 15px;
-    border: none;
-    border-radius: 5px;
-    cursor: pointer;
-  }  
-  .button-container button:hover {  
-    background-color: #d88080;
-    transform: scale(1.02);
-  }  
-</style>
-<div class="button-container">  
-  <button class="button" onclick="event.preventDefault(); window.location.href='https://store.steampowered.com/app/2594920/_/';">前往游玩</button>  
-  <button class="button" onclick="event.preventDefault(); window.location.href='';">特色系统</button>  
-</div>  
-
-
-
-<blockquote>
-<p>界面内如有错误，欢迎指正，谢谢</p>
-<p><em><strong>游玩链接为国际服Steam端</strong></em><br>目录</p>
-<ul>
-<li><strong>游戏简介</strong></li>
-</ul>
-<p>其余内容在特色系统页</p>
-</blockquote>
-<h2 id="游戏简介"><a href="#游戏简介" class="headerlink" title="游戏简介"></a>游戏简介</h2>]]></content>
-      <categories>
-        <category>a25</category>
-      </categories>
-      <tags>
-        <tag>蕾丝莱莉安娜</tag>
-        <tag>蕾丝娜</tag>
-        <tag>a25</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>苏菲的炼金工房2 ～不可思议梦的炼金术士～</title>
     <url>/2024/08/04/a23/</url>
     <content><![CDATA[<p><img src="https://s2.loli.net/2024/08/04/Sn3FPBNDJvC7kxG.jpg"></p>
@@ -1222,46 +1172,9 @@
       </categories>
       <tags>
         <tag>游戏介绍</tag>
-        <tag>不可思议</tag>
         <tag>苏菲</tag>
+        <tag>不可思议</tag>
         <tag>A23</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>炼金工房 ～亚兰德之炼金术士1・2・3～ DX</title>
-    <url>/2024/08/05/arlanddx/</url>
-    <content><![CDATA[<p><img src="https://s2.loli.net/2024/08/05/n3Ytb6sjWFM4mQ8.png"></p>
-<style>  
-  .button-container {  
-    display: flex;  
-    justify-content: center;
-    margin-top: 20px;
-  }  
-  .button-container button {  
-    text-decoration: none;
-    color: white;
-    background-color: #f88080;
-    padding: 10px 20px;
-    margin: 0 15px;
-    border: none;
-    border-radius: 5px;
-    cursor: pointer;
-  }  
-  .button-container button:hover {  
-    background-color: #d88080;
-    transform: scale(1.02);
-  }  
-</style>
-<div class="button-container">  
-  <button class="button" onclick="event.preventDefault(); window.location.href='https://atelier.ztgdblog.icu/buy/#arlanddx';">前往购买</button>  
-</div>  
-]]></content>
-      <categories>
-        <category>亚兰德</category>
-      </categories>
-      <tags>
-        <tag>亚兰德</tag>
-        <tag>DX</tag>
       </tags>
   </entry>
   <entry>
@@ -1538,9 +1451,9 @@
       </tags>
   </entry>
   <entry>
-    <title>炼金工房 ～黃昏之炼金术士三部曲～ DX</title>
-    <url>/2024/08/05/duskdx/</url>
-    <content><![CDATA[<p><img src="https://s2.loli.net/2024/08/05/KAGV84TJBSrtxWM.png"></p>
+    <title>蕾丝莱莉安娜的炼金工房 ～被遗忘的炼金术与极夜的解放者～</title>
+    <url>/2024/08/05/a25/</url>
+    <content><![CDATA[<p><img src="https://s2.loli.net/2024/08/05/r2UYG67NTln9Ssp.jpg"></p>
 <style>  
   .button-container {  
     display: flex;  
@@ -1563,14 +1476,804 @@
   }  
 </style>
 <div class="button-container">  
-  <button class="button" onclick="event.preventDefault(); window.location.href='https://atelier.ztgdblog.icu/buy/#duskdx';">前往购买</button>  
+  <button class="button" onclick="event.preventDefault(); window.location.href='https://store.steampowered.com/app/2594920/_/';">前往游玩</button>  
+  <button class="button" onclick="event.preventDefault(); window.location.href='';">特色系统</button>  
 </div>  
+
+
+
+<blockquote>
+<p>界面内如有错误，欢迎指正，谢谢</p>
+<p><em><strong>游玩链接为国际服Steam端</strong></em><br>目录</p>
+<ul>
+<li><strong>游戏简介</strong></li>
+</ul>
+<p>其余内容在特色系统页</p>
+</blockquote>
+<h2 id="游戏简介"><a href="#游戏简介" class="headerlink" title="游戏简介"></a>游戏简介</h2>]]></content>
+      <categories>
+        <category>a25</category>
+      </categories>
+      <tags>
+        <tag>蕾丝莱莉安娜</tag>
+        <tag>蕾丝娜</tag>
+        <tag>a25</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>炼金工房 ～亚兰德之炼金术士1・2・3～ DX</title>
+    <url>/2024/08/05/arlanddx/</url>
+    <content><![CDATA[<p><img src="https://s2.loli.net/2024/08/05/n3Ytb6sjWFM4mQ8.png"></p>
+<style>  
+body {
+        background-image: url(https://www.gamecity.com.tw/atelier/mysteriousdx/share/images/bg1.jpg);
+    }
+  .button-container {  
+    display: flex;  
+    justify-content: center;
+    margin-top: 20px;
+  }  
+  .button-container button {  
+    width: 150px;
+    text-decoration: none;
+    color: white;
+    background-color: #f88080;
+    padding: 10px 20px;
+    margin: 0 15px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }  
+  .button-container button:hover {  
+    background-color: #d88080;
+    transform: scale(1.02);
+  }  
+</style>
+<div class="button-container">  
+  <button class="button" onclick="event.preventDefault(); window.location.href='https://atelier.ztgdblog.icu/buy/#arlanddx';">前往购买</button>  
+  <button class="button" onclick="event.preventDefault(); window.location.href='https://atelier.ztgdblog.icu/2024/08/05/a11/';">萝乐娜</button>  
+  <button class="button" onclick="event.preventDefault(); window.location.href='https://atelier.ztgdblog.icu/2024/08/05/a12/';">托托莉</button>  
+  <button class="button" onclick="event.preventDefault(); window.location.href='https://atelier.ztgdblog.icu/2024/08/05/a13/';">梅露露</button>  
+</div>  
+
+<p><img src="https://www.gamecity.com.tw/atelier/arlanddx/images/series/h2.png"></p>
+<blockquote>
+<p>调合材料制作新道具，以炼金术为题材的「炼金工房」系列之一。聘请插画家岸田梅尔氏执笔，其创作的角色魅力及世界观，令众多玩家为之心醉。迄今发售了『萝乐娜的炼金工房 ～亚兰德之炼金术士～』、『托托莉的炼金工房 ～亚兰德之炼金术士２～』、『梅露露的炼金工房 ～亚兰德之炼金术士3～』的三部作品。</p>
+</blockquote>
+<style>
+  article {
+    background-image: url(https://www.gamecity.com.tw/atelier/mysteriousdx/share/images/features/text-bg-center.jpg);
+    background-size: 100% auto;
+  }
+  .container {  
+    display: flex;
+    align-items: center;
+  }  
+  .text-content {  
+    flex: 1;
+    padding-right: 20px;  
+  }  
+  .image-content img {  
+    max-width: 150px;
+    height: auto;
+  }  
+  .card1 {
+    background-image: url(https://www.gamecity.com.tw/atelier/arlanddx/images/series/bg_meru.png);
+    background-size: 100% auto;
+    padding: 18px;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    font-family: Arial, sans-serif; 
+    margin-bottom: 10px; 
+  }
+</style>
+<img src="https://www.gamecity.com.tw/atelier/arlanddx/images/top/first_03-text.png">
+<div class="container">  
+    <div class="image-content">  
+        <img src="https://www.gamecity.com.tw/atelier/arlanddx/images/top/kv01.png">  
+    </div> 
+    <div class="text-content">  
+      <div class="card1">
+        <p style="color: black;font-size: 30px;">大人氣「亞蘭德」系列於<br>最新遊戲平台登場！</p>  
+        <p style="color: black;">收錄許多至今為止的DLC</p>  
+      </div>
+      <img src="https://www.gamecity.com.tw/atelier/arlanddx/images/top/first_02-logo.png">
+    </div>   
+</div>
+
+<h2 id="萝乐娜的炼金工房-～亚兰德之炼金术士～-DX"><a href="#萝乐娜的炼金工房-～亚兰德之炼金术士～-DX" class="headerlink" title="萝乐娜的炼金工房 ～亚兰德之炼金术士～ DX"></a>萝乐娜的炼金工房 ～亚兰德之炼金术士～ DX</h2><p>『新・ロロナのアトリエ 〜アーランドの錬金術士〜』をベースにDLCをさらに収録！<br>オリジナル版（「ロロナのアトリエ」）から追加された要素<br>・重新设计了角色的 3D 模型<br>・添加了在清除游戏后开始的加时场景。<br>・添加了新事件，包括结局<br>・物品来自未来！ 添加了时间胶囊系统<br>・添加一个菜园来种植种子并获得材料<br>・添加改头换面以装饰配方商品<br>・改进的系统<br>・战斗系统经过重新设计，包括辅助攻击。<br>・添加新的怪物<br>・添加新地图<br>・活动插图、奖励图片等<br>・添加了新的派对角色（Totori &amp; Merle &gt; Astrid &amp; Esty）<br>・请求系统已经过重新设计，因此您还可以通过王国请求获得奖金。</p>
+<p>さらに追加されるコンテンツ<br>・追加服装：ピーチバケイション、みかん色の水着、淑女のたしなみ</p>
+<h2 id="托托莉的炼金工房-～亚兰德之炼金术士2～-DX"><a href="#托托莉的炼金工房-～亚兰德之炼金术士2～-DX" class="headerlink" title="托托莉的炼金工房 ～亚兰德之炼金术士2～ DX"></a>托托莉的炼金工房 ～亚兰德之炼金术士2～ DX</h2><p>『トトリのアトリエ Plus 〜アーランドの錬金術士２〜』をベースにDLCをさらに収録！<br>オリジナル版（「トトリのアトリエ」）から追加された要素<br>・添加了服装切换功能<br>・添加了服装调和功能<br>・添加了新的BOSS<br>・添加了新的采集地<br>・添加了活动插图、奖励插图等<br>・添加了新的派对角色（ツェツィ＆イクセル＆クーデリア）<br>・添加了查看模型功能</p>
+<p>さらに追加されるコンテンツ<br>・追加服装：天使の水着、小悪魔のビキニ、ひまわりワンピ、しましまビキニ</p>
+<h2 id="梅露露的炼金工房-～亚兰德之炼金术士3～-DX"><a href="#梅露露的炼金工房-～亚兰德之炼金术士3～-DX" class="headerlink" title="梅露露的炼金工房 ～亚兰德之炼金术士3～ DX"></a>梅露露的炼金工房 ～亚兰德之炼金术士3～ DX</h2><p>『メルルのアトリエ Plus 〜アーランドの錬金術士3〜』をベースにDLCをさらに収録！<br>オリジナル版（「メルルのアトリエ」）から追加された要素<br>・添加了新的服装（ミリタリースタイル、セーラーフリル、春色の衣装など）<br>・添加了新的结局<br>・添加了新的BOSS<br>・添加了新的派对角色（フアナ＆ルーフェス＆パメラ）<br>・添加了查看模型功能</p>
+<p>さらに追加されるコンテンツ<br>・追加服装：きのこ姫の水着、ミニわら帽子、ストライプヘヴン、サマーブロッサム</p>
 ]]></content>
+      <categories>
+        <category>亚兰德</category>
+      </categories>
+      <tags>
+        <tag>亚兰德</tag>
+        <tag>DX</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>炼金工房 ～黃昏之炼金术士三部曲～ DX</title>
+    <url>/2024/08/05/duskdx/</url>
+    <content><![CDATA[<p><img src="https://s2.loli.net/2024/08/05/KAGV84TJBSrtxWM.png"></p>
+<style>  
+body {
+        background-image: url(https://www.gamecity.com.tw/atelier/mysteriousdx/share/images/bg1.jpg);
+    }
+  .button-container {  
+    display: flex;  
+    justify-content: center;
+    margin-top: 20px;
+  }  
+  .button-container button {  
+    width: 150px;
+    text-decoration: none;
+    color: white;
+    background-color: #f88080;
+    padding: 10px 20px;
+    margin: 0 15px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }  
+  .button-container button:hover {  
+    background-color: #d88080;
+    transform: scale(1.02);
+  }  
+</style>
+<div class="button-container">  
+  <button class="button" onclick="event.preventDefault(); window.location.href='https://atelier.ztgdblog.icu/buy/#duskdx';">前往购买</button>  
+  <button class="button" onclick="event.preventDefault(); window.location.href='https://atelier.ztgdblog.icu/2024/08/05/a11/';">爱夏</button>  
+  <button class="button" onclick="event.preventDefault(); window.location.href='https://atelier.ztgdblog.icu/2024/08/05/a12/';">爱丝卡&罗吉</button>  
+  <button class="button" onclick="event.preventDefault(); window.location.href='https://atelier.ztgdblog.icu/2024/08/05/a13/';">夏莉</button>  
+</div>  
+
+<p><img src="https://www.gamecity.com.tw/atelier/duskdx/images/about/abtitle.png"></p>
+<style>
+  .card2 {
+    background-image: url(https://www.gamecity.com.tw/atelier/duskdx/images/bg03.jpg);
+    padding: 20px;
+    border-radius: 20px;
+  }
+</style>
+<div class="card2">
+<img src="https://www.gamecity.com.tw/atelier/duskdx/images/about/abtext.png">
+</div>
+
+<style>
+  article {
+    background-image: url(https://www.gamecity.com.tw/atelier/mysteriousdx/share/images/features/text-bg-center.jpg);
+    background-size: 100% auto;
+  }
+  .container {  
+    display: flex;
+    align-items: center;
+  }  
+  .text-content {  
+    flex: 1;
+    padding-right: 20px;  
+  }  
+  .image-content img {  
+    max-width: 150px;
+    height: auto;
+  }  
+  .card1 {
+    background-image: url(https://www.gamecity.com.tw/atelier/arlanddx/images/series/bg_meru.png);
+    background-size: 100% auto;
+    padding: 18px;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    font-family: Arial, sans-serif; 
+    margin-bottom: 10px; 
+  }
+</style>
+<p style="font-size: 40px; text-align: center; font-weight: bold;">黄昏三合一</p>
+<div class="container">  
+    <div class="image-content">  
+        <img src="https://www.gamecity.com.tw/atelier/duskdx/images/top_new.jpg">  
+    </div> 
+    <div class="text-content">  
+      <div class="card1">
+        <img src="https://www.gamecity.com.tw/atelier/duskdx/images/lead.png">
+      </div>
+      <img src="https://www.gamecity.com.tw/atelier/duskdx/images/logo_tri_tb.png">
+    </div>   
+</div>
+
+<style>
+  .background-image {  
+    position: relative;
+    width: 100%;
+    background-size: contain;
+    background-position: center;  
+    background-repeat: no-repeat;  
+  }  
+  #point01 {  
+    background-image: url('https://www.gamecity.com.tw/atelier/duskdx/images/point01.png');  
+  }  
+  #point02 {  
+    background-image: url('https://www.gamecity.com.tw/atelier/duskdx/images/point02.png');  
+  }  
+  #point-bg {  
+    background-image: url('https://s2.loli.net/2024/08/06/fw5qdDp8Yr4KyGA.png');  
+  }
+  .point1 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    position: absolute;
+    width: 30%;
+    top: 65%;
+    right: 10%;
+    transform: translate(0, -50%);
+  }
+  .point3 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    position: absolute;
+    width: 30%;
+    top: 50%;
+    right: 5%;
+    transform: translate(0, -50%);
+  }
+  .point2 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    position: absolute;
+    width: 30%;
+    top: 50%;
+    left: 10%;
+    transform: translate(0, -50%);
+  }
+</style>
+<div class="background-image" id="point01">
+  <div class="point1">
+    <img src="https://www.gamecity.com.tw/atelier/duskdx/images/point1text.png">
+    <p style="width:130%;">配合PlayStation®4、Nintendo Switch™等最新機種強化圖像解析度，享受更加鮮明的黃昏世界。(不新了！！！)</p>
+  </div>  
+</div>  
+<div class="background-image" id="point02">
+  <div class="point2">
+    <img src="https://www.gamecity.com.tw/atelier/duskdx/images/point2text.png">
+    <p style="width:130%;">追加了「跑步」機能使原野探索更加快速！ 同時追加了「加速戰鬥」機能，和強敵的戰鬥也能短時間解決♪</p>
+  </div>  
+</div>  
+<div class="background-image" id="point-bg">
+  <div class="point3">
+    <img src="https://www.gamecity.com.tw/atelier/duskdx/images/point3text.png">
+  </div>  
+</div>
+<script>  
+  document.addEventListener('DOMContentLoaded', function() {  
+    var images = document.querySelectorAll('.background-image');  
+    images.forEach(function(img) {  
+      var width = img.offsetWidth;  
+      img.style.height = width * 89.61 / 199.5 + 'px';  
+    });  
+    window.addEventListener('resize', function() {  
+      images.forEach(function(img) {  
+        var width = img.offsetWidth;  
+        img.style.height = width * 89.61 / 199.5 + 'px';  
+      });  
+    });  
+  });  
+</script>]]></content>
       <categories>
         <category>黄昏</category>
       </categories>
       <tags>
         <tag>黄昏</tag>
+        <tag>DX</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>炼金工房 ～不可思议之炼金术士三部曲～ DX</title>
+    <url>/2024/08/05/mysteriousdx/</url>
+    <content><![CDATA[<p><img src="https://s2.loli.net/2024/08/05/Yhk8Xob1rGFd547.png"></p>
+<style>  
+    body {
+        background-image: url(https://www.gamecity.com.tw/atelier/mysteriousdx/share/images/bg1.jpg);
+    }
+  .button-container {  
+    display: flex;  
+    justify-content: center;
+    margin-top: 20px;
+  }  
+  .button-container button {  
+    width: 150px;
+    text-decoration: none;
+    color: white;
+    background-color: #f88080;
+    padding: 10px 20px;
+    margin: 0 15px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }  
+  .button-container button:hover {  
+    background-color: #d88080;
+    transform: scale(1.02);
+  }  
+</style>
+<div class="button-container">  
+  <button class="button" onclick="event.preventDefault(); window.location.href='https://atelier.ztgdblog.icu/buy/#mysteriousdx';">前往购买</button>  
+    <button class="button" onclick="event.preventDefault(); window.location.href='https://atelier.ztgdblog.icu/2024/08/05/a17/';">苏菲</button>  
+    <button class="button" onclick="event.preventDefault(); window.location.href='https://atelier.ztgdblog.icu/2024/08/05/a18/';">菲利丝</button>  
+    <button class="button" onclick="event.preventDefault(); window.location.href='https://atelier.ztgdblog.icu/2024/08/05/a19/';">莉迪苏瑞</button>  
+</div>  
+<center></center>
+
+
+
+<p><img src="https://www.gamecity.com.tw/atelier/mysteriousdx/share/images/about/about_title.png"></p>
+<p><img src="https://www.gamecity.com.tw/atelier/mysteriousdx/share/images/about/about_text.png"></p>
+<style>
+article {
+  background-image: url(https://www.gamecity.com.tw/atelier/mysteriousdx/share/images/features/text-bg-center.jpg);
+}
+  article .mv {
+  background-image: url('https://www.gamecity.com.tw/atelier/mysteriousdx/share/images/bg.jpg');
+  background-size: 100% auto;
+  position: relative;
+  z-index: 1;
+  height: 440px;
+  overflow: hidden;
+}
+@media screen and (max-width: 1200px) {
+  article .mv {
+    width: 1000px;
+  }
+}
+article .mv:after {
+  content: "";
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  background-image: url(https://www.gamecity.com.tw/atelier/mysteriousdx/share/images/line.png);
+  background-size: cover;
+  width: 100%;
+  height: 4px;
+  z-index: 6;
+}
+article .mv p img {
+  width: 100%;
+}
+article .mv .mv_firis {
+  position: absolute;
+  z-index: 2;
+  /*bottom: -55px;*/
+  /*left: 172px;*/
+  top: 6px;
+  right: 77%;
+  -webkit-transform: translate(50%, 0%);
+  transform: translate(50%, 0%);
+  width: 38%;
+}
+article .mv .mv_sophie {
+  position: absolute;
+  z-index: 3;
+  /*bottom: -276px;*/
+  /*left: 575px;*/
+  top: -35px;
+  right: 50.5%;
+  -webkit-transform: translate(50%, 0%);
+  transform: translate(50%, 0%);
+  width: 37%;
+}
+@media screen and (max-width: 1200px) {
+  article .mv .mv_sophie {
+    bottom: -125px;
+    left: 200px;
+    right: auto;
+    width: 575px;
+    -webkit-transform: none;
+    transform: none;
+  }
+}
+article .mv .mv_lydie {
+  position: absolute;
+  z-index: 2;
+  /*bottom: 210px;*/
+  /*left: 1111px;*/
+  /*right: 24%;*/
+  top: 4px;
+  right: 0;
+  width: 40%;
+  /*max-width: 621px;*/
+}
+article .mv .mv_catch {
+  position: absolute;
+  z-index: 4;
+  top: 70px;
+  /* left: 945px; */
+  right: 30.3%;
+  -webkit-transform: translate(50%, 0%);
+  transform: translate(50%, 0%);
+  width: 50%;
+}
+article .mv ul {
+  /*width: 1470px;*/
+  width: 100%;
+  max-width: 1230px;
+  top: 200px;
+  margin: auto;
+  padding: 364px 0 25px;
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  position: relative;
+  z-index: 5;
+}
+  article .mv ul li1 {
+    width: 50%;
+  }
+  article .mv ul li1:nth-child(1) {
+    -webkit-box-ordinal-group: 1;
+    -ms-flex-order: 1;
+    -webkit-order: 1;
+    order: 1;
+  }
+  article .mv ul li1:nth-child(2) {
+    width: 50.01%;
+    -webkit-box-ordinal-group: 2;
+    -ms-flex-order: 2;
+    -webkit-order: 2;
+    order: 2;
+  }
+  article .mv ul li1:nth-child(3) {
+    -webkit-box-ordinal-group: 3;
+    -ms-flex-order: 3;
+    -webkit-order: 3;
+    order: 3;
+  }
+</style>
+<article>
+  <section class="mv">
+      <p class="mv_firis"><img src="https://www.gamecity.com.tw/atelier/mysteriousdx/share/images/firis.png"></p>
+      <p class="mv_sophie"><img src="https://www.gamecity.com.tw/atelier/mysteriousdx/share/images/sophie.png"></p>
+      <p class="mv_lydie"><img src="https://www.gamecity.com.tw/atelier/mysteriousdx/share/images/lydie_suelle.png"></p>
+      <p class="mv_catch"><img src="https://www.gamecity.com.tw/atelier/mysteriousdx/share/images/mv_catch.png"></p>
+      <ul>
+        <li1><img src="https://www.gamecity.com.tw/atelier/mysteriousdx/share/images/firis_text.png"></li1>
+        <li1><img src="https://www.gamecity.com.tw/atelier/mysteriousdx/share/images/sophie_text.png"></li1>
+        <li1><img src="https://www.gamecity.com.tw/atelier/mysteriousdx/share/images/lydie_suelle_text.png"></li1>
+      </ul>
+  </section>
+</article>
+
+
+
+<h2 id="追加内容"><a href="#追加内容" class="headerlink" title="追加内容"></a>追加内容</h2><h3 id="苏菲的炼金工房DX"><a href="#苏菲的炼金工房DX" class="headerlink" title="苏菲的炼金工房DX"></a>苏菲的炼金工房DX</h3><ul>
+<li><p>追加收录追寻伟大祖母的苏菲成长故事及新服装！</p>
+<blockquote>
+<p>苏菲的祖母是一名受到村民喜爱的炼金术士。 </p>
+<p>苏菲偶然发现祖母年轻时所穿的衣服’以此为契机，描绘苏菲为更接近伟大的祖母而努力奋斗的故事就此展开。</p>
+</blockquote>
+</li>
+</ul>
+<p><img src="https://www.gamecity.com.tw/atelier/mysteriousdx/share/images/features/sophie-h3.png"></p>
+<p><img src="https://www.gamecity.com.tw/atelier/mysteriousdx/share/images/features/sophie-SS-1.png"></p>
+<ul>
+<li>此外还将收录更多全新剧情</li>
+</ul>
+<p><img src="https://www.gamecity.com.tw/atelier/mysteriousdx/share/images/features/sophie-h3-2.png"></p>
+<p><img src="https://www.gamecity.com.tw/atelier/mysteriousdx/share/images/features/sophie-SS-2.png"></p>
+<table>
+<thead>
+<tr>
+<th><img src="https://www.gamecity.com.tw/atelier/mysteriousdx/share/images/features/sophie-h4.png"></th>
+<th><img src="https://www.gamecity.com.tw/atelier/mysteriousdx/share/images/features/sophie-h4-2.png"></th>
+</tr>
+</thead>
+<tbody><tr>
+<td><img src="https://www.gamecity.com.tw/atelier/mysteriousdx/share/images/features/sophie-SS-3.png"></td>
+<td><img src="https://www.gamecity.com.tw/atelier/mysteriousdx/share/images/features/sophie-SS-4.png"></td>
+</tr>
+</tbody></table>
+<h3 id="菲莉丝的炼金工房DX"><a href="#菲莉丝的炼金工房DX" class="headerlink" title="菲莉丝的炼金工房DX"></a>菲莉丝的炼金工房DX</h3><ul>
+<li><p>全新交通工具及探索道具，还有全新任务让旅程更加深奥！</p>
+<blockquote>
+<p>追加能够减少体力消耗、自动采集、高速移动等富有特色的4种全新交通工具。 </p>
+<p>探索道具随着故事进行增加，探索将变得更加便利。追加任务讨伐7只新魔物。讨伐7只新魔物后还可以挑战变得更强的帕迈拉。</p>
+</blockquote>
+<p><img src="https://www.gamecity.com.tw/atelier/mysteriousdx/share/images/features/firis-h3.png"></p>
+<table>
+<thead>
+<tr>
+<th>木桶飞机</th>
+<th>噗尼无人机</th>
+<th>玩具推土机</th>
+<th>潜水艇</th>
+</tr>
+</thead>
+<tbody><tr>
+<td><img src="https://www.gamecity.com.tw/atelier/mysteriousdx/share/images/features/firis-SS-5.png"></td>
+<td><img src="https://www.gamecity.com.tw/atelier/mysteriousdx/share/images/features/firis-SS-7.png"></td>
+<td><img src="https://www.gamecity.com.tw/atelier/mysteriousdx/share/images/features/firis-SS-9.png"></td>
+<td><img src="https://www.gamecity.com.tw/atelier/mysteriousdx/share/images/features/firis-SS-10.png"></td>
+</tr>
+</tbody></table>
+<p><img src="https://www.gamecity.com.tw/atelier/mysteriousdx/share/images/features/firis-h3-2.png"></p>
+<p><img src="https://www.gamecity.com.tw/atelier/mysteriousdx/share/images/features/firis-SS-2.png"></p>
+</li>
+</ul>
+<h3 id="莉迪＆苏瑞的炼金工房DX"><a href="#莉迪＆苏瑞的炼金工房DX" class="headerlink" title="莉迪＆苏瑞的炼金工房DX"></a>莉迪＆苏瑞的炼金工房DX</h3><ul>
+<li><p>全新绘画世界登场</p>
+<blockquote>
+<p>追加『奈尔克与传说之炼金术士们』世界的绘画。在绘画世界里展开协助领主「奈尔克」开发村庄的全新故事以及BOSS战。</p>
+<p> 通过收集在绘画世界中追加的宝箱中的「不可思议绘画的碎片」，即可访问「奈尔克的世界」。</p>
+</blockquote>
+<p><img src="https://www.gamecity.com.tw/atelier/mysteriousdx/share/images/features/lydie_suelle-h3.png"></p>
+<p><img src="https://www.gamecity.com.tw/atelier/mysteriousdx/share/images/features/lydie_suelle-SS-1.png"></p>
+<p><img src="https://www.gamecity.com.tw/atelier/mysteriousdx/share/images/features/lydie_suelle-h3-2.png"></p>
+<p><img src="https://www.gamecity.com.tw/atelier/mysteriousdx/share/images/features/lydie_suelle-SS-2.png"></p>
+</li>
+</ul>
+<h2 id="收录DLC"><a href="#收录DLC" class="headerlink" title="收录DLC"></a>收录DLC</h2><h3 id="苏菲的炼金工房DX-1"><a href="#苏菲的炼金工房DX-1" class="headerlink" title="苏菲的炼金工房DX"></a>苏菲的炼金工房DX</h3><table>
+<thead>
+<tr>
+<th>服裝</th>
+<th>BGM包</th>
+<th>道具包</th>
+<th>事件</th>
+<th>地图</th>
+<th>追加功能</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>水之套装</td>
+<td>炼金工房系列精选BGM包</td>
+<td>苏菲的炼金工房 <br />游戏内可使用的道具・5件套组<br />（收录于原特典版中）</td>
+<td>后日谈篇章</td>
+<td>追加采集地<br />「隐密的书架」</td>
+<td>追加难度<br />「DESPAIR」</td>
+</tr>
+<tr>
+<td>淑女剑士</td>
+<td>电玩通特典精选BGM包</td>
+<td>有助益的道具・GUST官方特典精选</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>森林传说</td>
+<td>电击PlayStation®特典精选BGM包</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>维奥幻象</td>
+<td>GUST特殊BGM包</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>神圣夜晚</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>吉祥物</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody></table>
+<h3 id="菲莉丝的炼金工房DX-1"><a href="#菲莉丝的炼金工房DX-1" class="headerlink" title="菲莉丝的炼金工房DX"></a>菲莉丝的炼金工房DX</h3><table>
+<thead>
+<tr>
+<th>人物</th>
+<th>菲莉丝追加服装</th>
+<th>轻装系列服装</th>
+<th>泳装系列服装</th>
+<th>BGM包</th>
+<th>地图</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>夏农</td>
+<td>无夜剑士</td>
+<td>菲莉丝 - 圣仪僧侣</td>
+<td>菲莉丝 - 天空色之蝶</td>
+<td>炼金工房系列精选BGM包</td>
+<td>圣地维斯提亚</td>
+</tr>
+<tr>
+<td>海因兹</td>
+<td>水蓝学生服</td>
+<td>莉亚妮 - 英勇射手</td>
+<td>莉亚妮 - 黑夜玛瑙</td>
+<td>电玩通特典精选BGM包</td>
+<td>利杰特列聂</td>
+</tr>
+<tr>
+<td></td>
+<td>度假悠闲</td>
+<td>伊尔梅莉亚 - 崇高魔法师</td>
+<td>伊尔梅莉亚 - 红白之恋</td>
+<td>电击PlayStation®特典精选BGM包</td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>梦幻仙境</td>
+<td>多萝瑟尔 - 决斗战士</td>
+<td>多萝瑟尔 - 新绿之叶</td>
+<td>GUST历代游戏BGM包</td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>苏菲 - 至耀之贤</td>
+<td>苏菲 - 热情之阳</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>夏农 - 巅峰骑士</td>
+<td>夏农 - 桃色蜜语</td>
+<td></td>
+<td></td>
+</tr>
+</tbody></table>
+<h3 id="莉迪＆苏瑞的炼金工房DX-1"><a href="#莉迪＆苏瑞的炼金工房DX-1" class="headerlink" title="莉迪＆苏瑞的炼金工房DX"></a>莉迪＆苏瑞的炼金工房DX</h3><table>
+<thead>
+<tr>
+<th>人物</th>
+<th>服装</th>
+<th>BGM包</th>
+<th>道具包</th>
+<th>地图</th>
+<th>追加功能</th>
+<th>其他</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>露夏</td>
+<td>莉迪＆苏瑞<br />变装成玛莉&amp;艾莉</td>
+<td>炼金工房系列精选BGM包</td>
+<td>名品珍品道具包</td>
+<td>吊钟杯平原</td>
+<td>追加稀有道具商人</td>
+<td>配方 - 秘传调合研究笔记</td>
+</tr>
+<tr>
+<td>伊尔梅莉亚</td>
+<td>莉迪<br />Smart&amp;Sweet</td>
+<td>电击PlayStation®特典 改编版战斗BGM</td>
+<td>特殊精选道具组</td>
+<td></td>
+<td>追加小型事件</td>
+<td>配方 - 探索者们的口传集</td>
+</tr>
+<tr>
+<td></td>
+<td>苏瑞<br />Active☆Lovely</td>
+<td>BLUE REFLECTION BGM包</td>
+<td>新天地大冒险组合第１波</td>
+<td></td>
+<td>追加再战弗尔基欧尔</td>
+<td>任务 - 经验值加成任务</td>
+</tr>
+<tr>
+<td></td>
+<td>苏菲<br />最佳搭档</td>
+<td>GUST历代游戏BGM包</td>
+<td>新天地大冒险组合第２波</td>
+<td></td>
+<td>苏菲老师的测验</td>
+<td>任务 - 金钱加成任务</td>
+</tr>
+<tr>
+<td></td>
+<td>菲莉丝<br />老师的最爱</td>
+<td>无夜国度2 BGM包</td>
+<td>特典版精选道具组</td>
+<td></td>
+<td>追加道具特性</td>
+<td>战斗调和 - 战斗调和的精髓</td>
+</tr>
+<tr>
+<td></td>
+<td>露夏<br />兔尾巴</td>
+<td></td>
+<td></td>
+<td></td>
+<td>角色的战斗等级上限解锁</td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>伊尔梅莉亚<br />柯尔梅莉亚？</td>
+<td></td>
+<td></td>
+<td></td>
+<td>追加角色技能</td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>帕迈拉、泰尔米娜的等级上限解锁</td>
+<td></td>
+</tr>
+</tbody></table>
+<h2 id="实体海报图"><a href="#实体海报图" class="headerlink" title="实体海报图"></a>实体海报图</h2><img src="https://www.gamecity.com.tw/atelier/mysteriousdx/share/images/point3_box_zoom.png"  />
+
+<table>
+<thead>
+<tr>
+<th align="left">對應機種</th>
+<th>PlayStation®4、Nintendo Switch™、Steam®</th>
+</tr>
+</thead>
+<tbody><tr>
+<td align="left">遊戲類型</td>
+<td>舊約鍊金術RPG</td>
+</tr>
+<tr>
+<td align="left">發售日期</td>
+<td>好評發售中</td>
+</tr>
+<tr>
+<td align="left">實體版特典</td>
+<td>不可思議DX 原聲音樂集<br />※（2024&#x2F;4&#x2F;19更新） <br />下載期限已延長。停止提供特典時下載序號將失效。</td>
+</tr>
+<tr>
+<td align="left">購買特典</td>
+<td>不可思議DX 數位藝廊</td>
+</tr>
+<tr>
+<td align="left">中文實體版 首批特典</td>
+<td>A4 蘇菲布海報</td>
+</tr>
+<tr>
+<td align="left">遊戲人數</td>
+<td>1人</td>
+</tr>
+<tr>
+<td align="left">遊戲分級</td>
+<td>輔12級</td>
+</tr>
+</tbody></table>
+]]></content>
+      <categories>
+        <category>不可思议</category>
+      </categories>
+      <tags>
+        <tag>苏菲</tag>
+        <tag>不可思议</tag>
+        <tag>菲莉丝</tag>
+        <tag>莉迪</tag>
+        <tag>苏瑞</tag>
         <tag>DX</tag>
       </tags>
   </entry>
@@ -2210,504 +2913,6 @@
       </categories>
       <tags>
         <tag>一览表</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>炼金工房 ～不可思议之炼金术士三部曲～ DX</title>
-    <url>/2024/08/05/mysteriousdx/</url>
-    <content><![CDATA[<p><img src="https://s2.loli.net/2024/08/05/Yhk8Xob1rGFd547.png"></p>
-<style>  
-    body {
-        background-image: url(https://www.gamecity.com.tw/atelier/mysteriousdx/share/images/bg1.jpg);
-    }
-  .button-container {  
-    display: flex;  
-    justify-content: center;
-    margin-top: 20px;
-  }  
-  .button-container button {  
-    width: 150px;
-    text-decoration: none;
-    color: white;
-    background-color: #f88080;
-    padding: 10px 20px;
-    margin: 0 15px;
-    border: none;
-    border-radius: 5px;
-    cursor: pointer;
-  }  
-  .button-container button:hover {  
-    background-color: #d88080;
-    transform: scale(1.02);
-  }  
-</style>
-<div class="button-container">  
-  <button class="button" onclick="event.preventDefault(); window.location.href='https://atelier.ztgdblog.icu/buy/#mysteriousdx';">前往购买</button>  
-    <button class="button" onclick="event.preventDefault(); window.location.href='https://atelier.ztgdblog.icu/2024/08/05/a17/';">苏菲</button>  
-    <button class="button" onclick="event.preventDefault(); window.location.href='https://atelier.ztgdblog.icu/2024/08/05/a18/';">菲利丝</button>  
-    <button class="button" onclick="event.preventDefault(); window.location.href='https://atelier.ztgdblog.icu/2024/08/05/a19/';">莉迪苏瑞</button>  
-</div>  
-<center></center>
-
-
-
-<p><img src="https://www.gamecity.com.tw/atelier/mysteriousdx/share/images/about/about_title.png"></p>
-<p><img src="https://www.gamecity.com.tw/atelier/mysteriousdx/share/images/about/about_text.png"></p>
-<style>
-article {
-  background-image: url(https://www.gamecity.com.tw/atelier/mysteriousdx/share/images/features/text-bg-center.jpg);
-}
-  article .mv {
-  background-image: url('https://www.gamecity.com.tw/atelier/mysteriousdx/share/images/bg.jpg');
-  position: relative;
-  z-index: 1;
-  height: 440px;
-  overflow: hidden;
-}
-@media screen and (max-width: 1200px) {
-  article .mv {
-    width: 1000px;
-  }
-}
-article .mv:after {
-  content: "";
-  position: absolute;
-  bottom: 0;
-  left: 0;
-  background-image: url(https://www.gamecity.com.tw/atelier/mysteriousdx/share/images/line.png);
-  background-size: cover;
-  width: 100%;
-  height: 4px;
-  z-index: 6;
-}
-article .mv p img {
-  width: 100%;
-}
-article .mv .mv_firis {
-  position: absolute;
-  z-index: 2;
-  /*bottom: -55px;*/
-  /*left: 172px;*/
-  top: 6px;
-  right: 77%;
-  -webkit-transform: translate(50%, 0%);
-  transform: translate(50%, 0%);
-  width: 38%;
-}
-article .mv .mv_sophie {
-  position: absolute;
-  z-index: 3;
-  /*bottom: -276px;*/
-  /*left: 575px;*/
-  top: -35px;
-  right: 50.5%;
-  -webkit-transform: translate(50%, 0%);
-  transform: translate(50%, 0%);
-  width: 37%;
-}
-@media screen and (max-width: 1200px) {
-  article .mv .mv_sophie {
-    bottom: -125px;
-    left: 200px;
-    right: auto;
-    width: 575px;
-    -webkit-transform: none;
-    transform: none;
-  }
-}
-article .mv .mv_lydie {
-  position: absolute;
-  z-index: 2;
-  /*bottom: 210px;*/
-  /*left: 1111px;*/
-  /*right: 24%;*/
-  top: 4px;
-  right: 0;
-  width: 40%;
-  /*max-width: 621px;*/
-}
-article .mv .mv_catch {
-  position: absolute;
-  z-index: 4;
-  top: 70px;
-  /* left: 945px; */
-  right: 30.3%;
-  -webkit-transform: translate(50%, 0%);
-  transform: translate(50%, 0%);
-  width: 50%;
-}
-article .mv ul {
-  /*width: 1470px;*/
-  width: 100%;
-  max-width: 1230px;
-  top: 200px;
-  margin: auto;
-  padding: 364px 0 25px;
-  display: flex;
-  align-items: flex-start;
-  justify-content: space-between;
-  position: relative;
-  z-index: 5;
-}
-  article .mv ul li1 {
-    width: 50%;
-  }
-  article .mv ul li1:nth-child(1) {
-    -webkit-box-ordinal-group: 1;
-    -ms-flex-order: 1;
-    -webkit-order: 1;
-    order: 1;
-  }
-  article .mv ul li1:nth-child(2) {
-    width: 50.01%;
-    -webkit-box-ordinal-group: 2;
-    -ms-flex-order: 2;
-    -webkit-order: 2;
-    order: 2;
-  }
-  article .mv ul li1:nth-child(3) {
-    -webkit-box-ordinal-group: 3;
-    -ms-flex-order: 3;
-    -webkit-order: 3;
-    order: 3;
-  }
-</style>
-<article>
-  <section class="mv">
-      <p class="mv_firis"><img src="https://www.gamecity.com.tw/atelier/mysteriousdx/share/images/firis.png"></p>
-      <p class="mv_sophie"><img src="https://www.gamecity.com.tw/atelier/mysteriousdx/share/images/sophie.png"></p>
-      <p class="mv_lydie"><img src="https://www.gamecity.com.tw/atelier/mysteriousdx/share/images/lydie_suelle.png"></p>
-      <p class="mv_catch"><img src="https://www.gamecity.com.tw/atelier/mysteriousdx/share/images/mv_catch.png"></p>
-      <ul>
-        <li1><img src="https://www.gamecity.com.tw/atelier/mysteriousdx/share/images/firis_text.png"></li1>
-        <li1><img src="https://www.gamecity.com.tw/atelier/mysteriousdx/share/images/sophie_text.png"></li1>
-        <li1><img src="https://www.gamecity.com.tw/atelier/mysteriousdx/share/images/lydie_suelle_text.png"></li1>
-      </ul>
-  </section>
-</article>
-
-
-
-<h2 id="追加内容"><a href="#追加内容" class="headerlink" title="追加内容"></a>追加内容</h2><h3 id="苏菲的炼金工房DX"><a href="#苏菲的炼金工房DX" class="headerlink" title="苏菲的炼金工房DX"></a>苏菲的炼金工房DX</h3><ul>
-<li><p>追加收录追寻伟大祖母的苏菲成长故事及新服装！</p>
-<blockquote>
-<p>苏菲的祖母是一名受到村民喜爱的炼金术士。 </p>
-<p>苏菲偶然发现祖母年轻时所穿的衣服’以此为契机，描绘苏菲为更接近伟大的祖母而努力奋斗的故事就此展开。</p>
-</blockquote>
-</li>
-</ul>
-<p><img src="https://www.gamecity.com.tw/atelier/mysteriousdx/share/images/features/sophie-h3.png"></p>
-<p><img src="https://www.gamecity.com.tw/atelier/mysteriousdx/share/images/features/sophie-SS-1.png"></p>
-<ul>
-<li>此外还将收录更多全新剧情</li>
-</ul>
-<p><img src="https://www.gamecity.com.tw/atelier/mysteriousdx/share/images/features/sophie-h3-2.png"></p>
-<p><img src="https://www.gamecity.com.tw/atelier/mysteriousdx/share/images/features/sophie-SS-2.png"></p>
-<table>
-<thead>
-<tr>
-<th><img src="https://www.gamecity.com.tw/atelier/mysteriousdx/share/images/features/sophie-h4.png"></th>
-<th><img src="https://www.gamecity.com.tw/atelier/mysteriousdx/share/images/features/sophie-h4-2.png"></th>
-</tr>
-</thead>
-<tbody><tr>
-<td><img src="https://www.gamecity.com.tw/atelier/mysteriousdx/share/images/features/sophie-SS-3.png"></td>
-<td><img src="https://www.gamecity.com.tw/atelier/mysteriousdx/share/images/features/sophie-SS-4.png"></td>
-</tr>
-</tbody></table>
-<h3 id="菲莉丝的炼金工房DX"><a href="#菲莉丝的炼金工房DX" class="headerlink" title="菲莉丝的炼金工房DX"></a>菲莉丝的炼金工房DX</h3><ul>
-<li><p>全新交通工具及探索道具，还有全新任务让旅程更加深奥！</p>
-<blockquote>
-<p>追加能够减少体力消耗、自动采集、高速移动等富有特色的4种全新交通工具。 </p>
-<p>探索道具随着故事进行增加，探索将变得更加便利。追加任务讨伐7只新魔物。讨伐7只新魔物后还可以挑战变得更强的帕迈拉。</p>
-</blockquote>
-<p><img src="https://www.gamecity.com.tw/atelier/mysteriousdx/share/images/features/firis-h3.png"></p>
-<table>
-<thead>
-<tr>
-<th>木桶飞机</th>
-<th>噗尼无人机</th>
-<th>玩具推土机</th>
-<th>潜水艇</th>
-</tr>
-</thead>
-<tbody><tr>
-<td><img src="https://www.gamecity.com.tw/atelier/mysteriousdx/share/images/features/firis-SS-5.png"></td>
-<td><img src="https://www.gamecity.com.tw/atelier/mysteriousdx/share/images/features/firis-SS-7.png"></td>
-<td><img src="https://www.gamecity.com.tw/atelier/mysteriousdx/share/images/features/firis-SS-9.png"></td>
-<td><img src="https://www.gamecity.com.tw/atelier/mysteriousdx/share/images/features/firis-SS-10.png"></td>
-</tr>
-</tbody></table>
-<p><img src="https://www.gamecity.com.tw/atelier/mysteriousdx/share/images/features/firis-h3-2.png"></p>
-<p><img src="https://www.gamecity.com.tw/atelier/mysteriousdx/share/images/features/firis-SS-2.png"></p>
-</li>
-</ul>
-<h3 id="莉迪＆苏瑞的炼金工房DX"><a href="#莉迪＆苏瑞的炼金工房DX" class="headerlink" title="莉迪＆苏瑞的炼金工房DX"></a>莉迪＆苏瑞的炼金工房DX</h3><ul>
-<li><p>全新绘画世界登场</p>
-<blockquote>
-<p>追加『奈尔克与传说之炼金术士们』世界的绘画。在绘画世界里展开协助领主「奈尔克」开发村庄的全新故事以及BOSS战。</p>
-<p> 通过收集在绘画世界中追加的宝箱中的「不可思议绘画的碎片」，即可访问「奈尔克的世界」。</p>
-</blockquote>
-<p><img src="https://www.gamecity.com.tw/atelier/mysteriousdx/share/images/features/lydie_suelle-h3.png"></p>
-<p><img src="https://www.gamecity.com.tw/atelier/mysteriousdx/share/images/features/lydie_suelle-SS-1.png"></p>
-<p><img src="https://www.gamecity.com.tw/atelier/mysteriousdx/share/images/features/lydie_suelle-h3-2.png"></p>
-<p><img src="https://www.gamecity.com.tw/atelier/mysteriousdx/share/images/features/lydie_suelle-SS-2.png"></p>
-</li>
-</ul>
-<h2 id="收录DLC"><a href="#收录DLC" class="headerlink" title="收录DLC"></a>收录DLC</h2><h3 id="苏菲的炼金工房DX-1"><a href="#苏菲的炼金工房DX-1" class="headerlink" title="苏菲的炼金工房DX"></a>苏菲的炼金工房DX</h3><table>
-<thead>
-<tr>
-<th>服裝</th>
-<th>BGM包</th>
-<th>道具包</th>
-<th>事件</th>
-<th>地图</th>
-<th>追加功能</th>
-</tr>
-</thead>
-<tbody><tr>
-<td>水之套装</td>
-<td>炼金工房系列精选BGM包</td>
-<td>苏菲的炼金工房 <br />游戏内可使用的道具・5件套组<br />（收录于原特典版中）</td>
-<td>后日谈篇章</td>
-<td>追加采集地<br />「隐密的书架」</td>
-<td>追加难度<br />「DESPAIR」</td>
-</tr>
-<tr>
-<td>淑女剑士</td>
-<td>电玩通特典精选BGM包</td>
-<td>有助益的道具・GUST官方特典精选</td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>森林传说</td>
-<td>电击PlayStation®特典精选BGM包</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>维奥幻象</td>
-<td>GUST特殊BGM包</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>神圣夜晚</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>吉祥物</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-</tbody></table>
-<h3 id="菲莉丝的炼金工房DX-1"><a href="#菲莉丝的炼金工房DX-1" class="headerlink" title="菲莉丝的炼金工房DX"></a>菲莉丝的炼金工房DX</h3><table>
-<thead>
-<tr>
-<th>人物</th>
-<th>菲莉丝追加服装</th>
-<th>轻装系列服装</th>
-<th>泳装系列服装</th>
-<th>BGM包</th>
-<th>地图</th>
-</tr>
-</thead>
-<tbody><tr>
-<td>夏农</td>
-<td>无夜剑士</td>
-<td>菲莉丝 - 圣仪僧侣</td>
-<td>菲莉丝 - 天空色之蝶</td>
-<td>炼金工房系列精选BGM包</td>
-<td>圣地维斯提亚</td>
-</tr>
-<tr>
-<td>海因兹</td>
-<td>水蓝学生服</td>
-<td>莉亚妮 - 英勇射手</td>
-<td>莉亚妮 - 黑夜玛瑙</td>
-<td>电玩通特典精选BGM包</td>
-<td>利杰特列聂</td>
-</tr>
-<tr>
-<td></td>
-<td>度假悠闲</td>
-<td>伊尔梅莉亚 - 崇高魔法师</td>
-<td>伊尔梅莉亚 - 红白之恋</td>
-<td>电击PlayStation®特典精选BGM包</td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td>梦幻仙境</td>
-<td>多萝瑟尔 - 决斗战士</td>
-<td>多萝瑟尔 - 新绿之叶</td>
-<td>GUST历代游戏BGM包</td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td>苏菲 - 至耀之贤</td>
-<td>苏菲 - 热情之阳</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td>夏农 - 巅峰骑士</td>
-<td>夏农 - 桃色蜜语</td>
-<td></td>
-<td></td>
-</tr>
-</tbody></table>
-<h3 id="莉迪＆苏瑞的炼金工房DX-1"><a href="#莉迪＆苏瑞的炼金工房DX-1" class="headerlink" title="莉迪＆苏瑞的炼金工房DX"></a>莉迪＆苏瑞的炼金工房DX</h3><table>
-<thead>
-<tr>
-<th>人物</th>
-<th>服装</th>
-<th>BGM包</th>
-<th>道具包</th>
-<th>地图</th>
-<th>追加功能</th>
-<th>其他</th>
-</tr>
-</thead>
-<tbody><tr>
-<td>露夏</td>
-<td>莉迪＆苏瑞<br />变装成玛莉&amp;艾莉</td>
-<td>炼金工房系列精选BGM包</td>
-<td>名品珍品道具包</td>
-<td>吊钟杯平原</td>
-<td>追加稀有道具商人</td>
-<td>配方 - 秘传调合研究笔记</td>
-</tr>
-<tr>
-<td>伊尔梅莉亚</td>
-<td>莉迪<br />Smart&amp;Sweet</td>
-<td>电击PlayStation®特典 改编版战斗BGM</td>
-<td>特殊精选道具组</td>
-<td></td>
-<td>追加小型事件</td>
-<td>配方 - 探索者们的口传集</td>
-</tr>
-<tr>
-<td></td>
-<td>苏瑞<br />Active☆Lovely</td>
-<td>BLUE REFLECTION BGM包</td>
-<td>新天地大冒险组合第１波</td>
-<td></td>
-<td>追加再战弗尔基欧尔</td>
-<td>任务 - 经验值加成任务</td>
-</tr>
-<tr>
-<td></td>
-<td>苏菲<br />最佳搭档</td>
-<td>GUST历代游戏BGM包</td>
-<td>新天地大冒险组合第２波</td>
-<td></td>
-<td>苏菲老师的测验</td>
-<td>任务 - 金钱加成任务</td>
-</tr>
-<tr>
-<td></td>
-<td>菲莉丝<br />老师的最爱</td>
-<td>无夜国度2 BGM包</td>
-<td>特典版精选道具组</td>
-<td></td>
-<td>追加道具特性</td>
-<td>战斗调和 - 战斗调和的精髓</td>
-</tr>
-<tr>
-<td></td>
-<td>露夏<br />兔尾巴</td>
-<td></td>
-<td></td>
-<td></td>
-<td>角色的战斗等级上限解锁</td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td>伊尔梅莉亚<br />柯尔梅莉亚？</td>
-<td></td>
-<td></td>
-<td></td>
-<td>追加角色技能</td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>帕迈拉、泰尔米娜的等级上限解锁</td>
-<td></td>
-</tr>
-</tbody></table>
-<h2 id="实体海报图"><a href="#实体海报图" class="headerlink" title="实体海报图"></a>实体海报图</h2><img src="https://www.gamecity.com.tw/atelier/mysteriousdx/share/images/point3_box_zoom.png"  />
-
-<table>
-<thead>
-<tr>
-<th align="left">對應機種</th>
-<th>PlayStation®4、Nintendo Switch™、Steam®</th>
-</tr>
-</thead>
-<tbody><tr>
-<td align="left">遊戲類型</td>
-<td>舊約鍊金術RPG</td>
-</tr>
-<tr>
-<td align="left">發售日期</td>
-<td>好評發售中</td>
-</tr>
-<tr>
-<td align="left">實體版特典</td>
-<td>不可思議DX 原聲音樂集<br />※（2024&#x2F;4&#x2F;19更新） <br />下載期限已延長。停止提供特典時下載序號將失效。</td>
-</tr>
-<tr>
-<td align="left">購買特典</td>
-<td>不可思議DX 數位藝廊</td>
-</tr>
-<tr>
-<td align="left">中文實體版 首批特典</td>
-<td>A4 蘇菲布海報</td>
-</tr>
-<tr>
-<td align="left">遊戲人數</td>
-<td>1人</td>
-</tr>
-<tr>
-<td align="left">遊戲分級</td>
-<td>輔12級</td>
-</tr>
-</tbody></table>
-]]></content>
-      <categories>
-        <category>不可思议</category>
-      </categories>
-      <tags>
-        <tag>菲莉丝</tag>
-        <tag>不可思议</tag>
-        <tag>苏菲</tag>
-        <tag>莉迪</tag>
-        <tag>苏瑞</tag>
-        <tag>DX</tag>
       </tags>
   </entry>
 </search>
