@@ -1,6 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>玛莉的炼金工房 ～萨尔布鲁克的炼金术士～</title>
+    <url>/2024/08/04/a1/</url>
+    <content><![CDATA[<p><img src="https://s2.loli.net/2024/08/04/UbnThx6WX7f381p.jpg"></p>
+]]></content>
+      <categories>
+        <category>萨尔布鲁克</category>
+        <category>A1</category>
+        <category>A1</category>
+      </categories>
+      <tags>
+        <tag>游戏介绍</tag>
+        <tag>玛莉</tag>
+        <tag>A1</tag>
+        <tag>萨尔布鲁克</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>萝乐娜的炼金工房 ～亚兰德之炼金术士～</title>
     <url>/2024/08/05/a11/</url>
     <content><![CDATA[<p><img src="https://s2.loli.net/2024/08/05/lhgMckb5iB18YAT.jpg"></p>
@@ -172,23 +189,6 @@
       </tags>
   </entry>
   <entry>
-    <title>玛莉的炼金工房 ～萨尔布鲁克的炼金术士～</title>
-    <url>/2024/08/04/a1/</url>
-    <content><![CDATA[<p><img src="https://s2.loli.net/2024/08/04/UbnThx6WX7f381p.jpg"></p>
-]]></content>
-      <categories>
-        <category>萨尔布鲁克</category>
-        <category>A1</category>
-        <category>A1</category>
-      </categories>
-      <tags>
-        <tag>游戏介绍</tag>
-        <tag>玛莉</tag>
-        <tag>A1</tag>
-        <tag>萨尔布鲁克</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>爱夏的炼金工房 ～黄昏大地之炼金术士～</title>
     <url>/2024/08/05/a14/</url>
     <content><![CDATA[<p><img src="https://s2.loli.net/2024/08/05/G7AjaVdnw416Myr.jpg"></p>
@@ -218,6 +218,7 @@
   <button class="button" onclick="event.preventDefault(); window.location.href='#introduce';">角色介绍</button>  
   <button class="button" onclick="event.preventDefault(); window.location.href='';">特色系统</button>  
   <button class="button" onclick="event.preventDefault(); window.location.href='';">游戏攻略</button>  
+  <button class="button" onclick="event.preventDefault(); window.location.href='http://atelier-ps3.jp/ayesha/';">日文官网</button>  
 </div>  
 
 
@@ -231,7 +232,27 @@
 </ul>
 <p>其余内容在特色系统页</p>
 </blockquote>
-<h2 id="游戏简介"><a href="#游戏简介" class="headerlink" title="游戏简介"></a>游戏简介</h2><div id="introduce"></div>
+<h2 id="游戏简介"><a href="#游戏简介" class="headerlink" title="游戏简介"></a>游戏简介</h2><style>  
+  img.float-left {  
+    float: left;  
+    margin-right: 20px;
+  }  
+  .clearfix::after {  
+    content: "";  
+    display: table;  
+    clear: both;  
+  }  
+  .indent-first-line {  
+    text-indent: 2em;
+  }
+</style>
+<div class="clearfix">  
+    <img src="/img/a14/enter_logo3.png" class="float-left" width=40%>  
+    <h3 class="indent-first-line">アーシャのアトリエ</h3>
+    <p class="indent-first-line">水源日渐干涸，草木日渐凋零，生物日益消瘦。未来的海洋如今黄沙滚滚，海洋中的生命无所归依。即便如此，太阳光辉依旧照在大地之上，将所剩无几的水分残酷地蒸发掉。慢慢地……世界褪去了它原有的色彩……在黄昏的世界中，在仿佛连人们要活下去的力气都要榨干的沙砾之海中，存在着辉煌，散发着光芒的绿洲城镇。在此处相遇的两位炼金术士，而这股泉源相异的两条涓涓细流。合而为一，源源不绝，不断向前迈进。</p>
+</div>  
+
+<div id="introduce"></div>
 
 <h2 id="角色介绍"><a href="#角色介绍" class="headerlink" title="角色介绍"></a>角色介绍</h2>]]></content>
       <categories>
@@ -275,6 +296,7 @@
   <button class="button" onclick="event.preventDefault(); window.location.href='#introduce';">角色介绍</button>  
   <button class="button" onclick="event.preventDefault(); window.location.href='';">特色系统</button>  
   <button class="button" onclick="event.preventDefault(); window.location.href='';">游戏攻略</button>  
+  <button class="button" onclick="event.preventDefault(); window.location.href='http://atelier-ps3.jp/escha-logy/';">日文官网</button>  
 </div>  
 
 
@@ -288,9 +310,150 @@
 </ul>
 <p>其余内容在特色系统页</p>
 </blockquote>
-<h2 id="游戏简介"><a href="#游戏简介" class="headerlink" title="游戏简介"></a>游戏简介</h2><div id="introduce"></div>
+<h2 id="游戏简介"><a href="#游戏简介" class="headerlink" title="游戏简介"></a>游戏简介</h2><style>  
+  img.float-left {  
+    float: left;  
+    margin-right: 20px;
+  }  
+  .clearfix::after {  
+    content: "";  
+    display: table;  
+    clear: both;  
+  }  
+  .indent-first-line {  
+    text-indent: 2em;
+  }
+</style>
+<div class="clearfix">  
+    <img src="/img/a15/home_maintitle_logo3.png" class="float-left" width=40%>  
+    <h3 class="indent-first-line">エスカ＆ロジーのアトリエ</h3>
+    <p class="indent-first-line">在这里不知经历了多少次的黄昏时刻，在黄昏大地的西部，有一个依靠炼金术发展的国家存在的地方。</p>
+    <p class="indent-first-line">当地人为了避开【黄昏终结】花费了不少精力，发现和复原了古代失传已久的炼金术，他们利用复原后的古代炼金术汇集在中央地区阻止黄昏的发展。</p>
+    <p class="indent-first-line">在边境处有一个叫做科尔先特的小镇，住着一名名为爱丝卡的少女，以及一名被中央调派到此处的青年罗吉他们都被分到了该地区的开发班，他们将共同使用炼金术的力量，来阻止黄昏的发展。</p>
+</div>  
 
-<h2 id="角色介绍"><a href="#角色介绍" class="headerlink" title="角色介绍"></a>角色介绍</h2>]]></content>
+<div id="introduce"></div>
+
+<h2 id="角色介绍"><a href="#角色介绍" class="headerlink" title="角色介绍"></a>角色介绍</h2><style>
+  .container {  
+    background-image: url(/img/a15/bg.jpg);
+    background-size: 100% auto;
+    display: flex;
+    align-items: center;
+  }  
+  .text-content {  
+    flex: 1;
+    padding-right: 20px;  
+  }  
+  .image-content img {  
+    max-width: 150px;
+    height: auto;
+  }  
+  .card1 {
+    padding: 20px;
+    background-color: #f8f9fa;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    font-family: Arial, sans-serif; 
+    margin-bottom: 10px; 
+  }
+</style>
+<div class="container">  
+    <div class="image-content" style="display: flex; align-items: center;">  
+      <img src="/img/a15/chara_01_mainimg.png">  
+    </div>
+    <div class="text-content">  
+        <img src="/img/a15/chara_01_spec.png">
+    </div>
+</div>  
+<div class="container">  
+    <div class="image-content" style="display: flex; align-items: center;">  
+      <img src="/img/a15/chara_02_mainimg.png">  
+    </div>
+    <div class="text-content">  
+        <img src="/img/a15/chara_02_spec.png">
+    </div>
+</div>
+<div class="container">  
+    <div class="image-content" style="display: flex; align-items: center;">  
+      <img src="/img/a15/chara_03_mainimg.png">  
+    </div>
+    <div class="text-content">  
+        <img src="/img/a15/chara_03_spec.png">
+    </div>
+</div>
+<div class="container">  
+    <div class="image-content" style="display: flex; align-items: center;">  
+      <img src="/img/a15/chara_04_mainimg.png">  
+    </div>
+    <div class="text-content">  
+        <img src="/img/a15/chara_04_spec.png">
+    </div>
+</div>
+<div class="container">  
+    <div class="image-content" style="display: flex; align-items: center;">  
+      <img src="/img/a15/chara_05_mainimg.png">  
+    </div>
+    <div class="text-content">  
+        <img src="/img/a15/chara_05_spec.png">
+    </div>
+</div>
+<div class="container">  
+    <div class="image-content" style="display: flex; align-items: center;">  
+      <img src="/img/a15/chara_06_mainimg.png">  
+    </div>
+    <div class="text-content">  
+        <img src="/img/a15/chara_06_spec.png">
+    </div>
+</div>
+<div class="container">  
+    <div class="image-content" style="display: flex; align-items: center;">  
+      <img src="/img/a15/chara_07_mainimg.png">  
+    </div>
+    <div class="text-content">  
+        <img src="/img/a15/chara_07_spec.png">
+    </div>
+</div>
+<div class="container">  
+    <div class="image-content" style="display: flex; align-items: center;">  
+      <img src="/img/a15/chara_08_mainimg.png">  
+    </div>
+    <div class="text-content">  
+        <img src="/img/a15/chara_08_spec.png">
+    </div>
+</div>
+<div class="container">  
+    <div class="image-content" style="display: flex; align-items: center;">  
+      <img src="/img/a15/chara_09_mainimg.png">  
+    </div>
+    <div class="text-content">  
+        <img src="/img/a15/chara_09_spec.png">
+    </div>
+</div>
+<div class="container">  
+    <div class="image-content" style="display: flex; align-items: center;">  
+      <img src="/img/a15/chara_10_mainimg.png">  
+    </div>
+    <div class="text-content">  
+        <img src="/img/a15/chara_10_spec.png">
+    </div>
+</div>
+<div class="container">  
+    <div class="image-content" style="display: flex; align-items: center;">  
+      <img src="/img/a15/chara_11_mainimg.png">  
+    </div>
+    <div class="text-content">  
+        <img src="/img/a15/chara_11_spec.png">
+    </div>
+</div>
+<div class="container">  
+    <div class="image-content" style="display: flex; align-items: center;">  
+      <img src="/img/a15/chara_12_mainimg.png">  
+    </div>
+    <div class="text-content">  
+        <img src="/img/a15/chara_12_spec.png">
+    </div>
+</div>]]></content>
       <categories>
         <category>黄昏</category>
         <category>A15</category>
@@ -362,7 +525,7 @@
   }
 </style>
 <div class="clearfix">  
-    <img src="http://atelier-ps3.jp/shallie/img/top_mainlogo.png" class="float-left" width=40%>  
+    <img src="/img/a16/top_mainlogo.png" class="float-left" width=40%>  
     <h3 class="indent-first-line">シャリーのアトリエ</h3>
     <p class="indent-first-line">水源日渐干涸，草木日渐凋零，生物日益消瘦。未来的海洋如今黄沙滚滚，海洋中的生命无所归依。即便如此，太阳光辉依旧照在大地之上，将所剩无几的水分残酷地蒸发掉。慢慢地……世界褪去了它原有的色彩……在黄昏的世界中，在仿佛连人们要活下去的力气都要榨干的沙砾之海中，存在着辉煌，散发着光芒的绿洲城镇。在此处相遇的两位炼金术士，而这股泉源相异的两条涓涓细流。合而为一，源源不绝，不断向前迈进。</p>
 </div>  
@@ -393,102 +556,102 @@
 </style>
 <div class="container">  
     <div class="image-content" style="display: flex; align-items: center;">  
-      <img src="http://atelier-ps3.jp/shallie/img/cha01_chara.png">  
+      <img src="/img/a16/cha01_chara.png">  
     </div>
     <div class="text-content">  
       <div class="card1">
-        <img src="http://atelier-ps3.jp/shallie/img/cha01_status.png">
+        <img src="/img/a16/cha01_status.png">
       </div>
     </div>   
 </div>  
 <div class="container">  
     <div class="image-content" style="display: flex; align-items: center;">  
-      <img src="http://atelier-ps3.jp/shallie/img/cha02_chara.png">  
+      <img src="/img/a16/cha02_chara.png">  
     </div>
     <div class="text-content">  
       <div class="card1">
-        <img src="http://atelier-ps3.jp/shallie/img/cha02_status.png">
+        <img src="/img/a16/cha02_status.png">
       </div>
     </div>   
 </div>  
 <div class="container">  
     <div class="image-content" style="display: flex; align-items: center;">  
-        <img src="http://atelier-ps3.jp/shallie/img/cha03_chara.png">  
+        <img src="/img/a16/cha03_chara.png">  
     </div>  
     <div class="text-content">  
         <div class="card1">  
-            <img src="http://atelier-ps3.jp/shallie/img/cha03_status.png">  
+            <img src="/img/a16/cha03_status.png">  
         </div>  
     </div>  
 </div>
 <div class="container">  
     <div class="image-content" style="display: flex; align-items: center;">  
-        <img src="http://atelier-ps3.jp/shallie/img/cha04_chara.png">  
+        <img src="/img/a16/cha04_chara.png">  
     </div>  
     <div class="text-content">  
         <div class="card1">  
-            <img src="http://atelier-ps3.jp/shallie/img/cha04_status.png">  
+            <img src="/img/a16/cha04_status.png">  
         </div>  
     </div>  
 </div>
 <div class="container">  
     <div class="image-content" style="display: flex; align-items: center;">  
-        <img src="http://atelier-ps3.jp/shallie/img/cha06_chara.png">  
+        <img src="/img/a16/cha06_chara.png">  
     </div>  
     <div class="text-content">  
         <div class="card1">  
-            <img src="http://atelier-ps3.jp/shallie/img/cha06_status.png">  
+            <img src="/img/a16/cha06_status.png">  
         </div>  
     </div>  
 </div>
 <div class="container">  
     <div class="image-content" style="display: flex; align-items: center;">  
-        <img src="http://atelier-ps3.jp/shallie/img/cha07_chara.png">  
+        <img src="/img/a16/cha07_chara.png">  
     </div>  
     <div class="text-content">  
         <div class="card1">  
-            <img src="http://atelier-ps3.jp/shallie/img/cha07_status.png">  
+            <img src="/img/a16/cha07_status.png">  
         </div>  
     </div>  
 </div>
 <div class="container">  
     <div class="image-content" style="display: flex; align-items: center;">  
-        <img src="http://atelier-ps3.jp/shallie/img/cha09_chara.png">  
+        <img src="/img/a16/cha09_chara.png">  
     </div>  
     <div class="text-content">  
         <div class="card1">  
-            <img src="http://atelier-ps3.jp/shallie/img/cha09_status.png">  
+            <img src="/img/a16/cha09_status.png">  
         </div>  
     </div>  
 </div>
 
 <div class="container">  
     <div class="image-content" style="display: flex; align-items: center;">  
-        <img src="http://atelier-ps3.jp/shallie/img/cha10_chara.png">  
+        <img src="/img/a16/cha10_chara.png">  
     </div>  
     <div class="text-content">  
         <div class="card1">  
-            <img src="http://atelier-ps3.jp/shallie/img/cha10_status.png">  
+            <img src="/img/a16/cha10_status.png">  
         </div>  
     </div>  
 </div>
 <div class="container">  
     <div class="image-content" style="display: flex; align-items: center;">  
-        <img src="http://atelier-ps3.jp/shallie/img/cha11_chara.png">  
+        <img src="/img/a16/cha11_chara.png">  
     </div>  
     <div class="text-content">  
         <div class="card1">  
-            <img src="http://atelier-ps3.jp/shallie/img/cha11_status.png">  
+            <img src="/img/a16/cha11_status.png">  
         </div>  
     </div>  
 </div>
 <div class="container">  
     <div class="image-content" style="display: flex; align-items: center;">  
-        <img src="http://atelier-ps3.jp/shallie/img/cha14_chara.png">  
+        <img src="/img/a16/cha14_chara.png">  
     </div>  
     <div class="text-content">  
         <div class="card1">  
-            <img src="http://atelier-ps3.jp/shallie/img/cha14_status.png">  
+            <img src="/img/a16/cha14_status.png">  
         </div>  
     </div>  
 </div>]]></content>
@@ -562,7 +725,7 @@
   }
 </style>
 <div class="clearfix">  
-    <img src="https://social.gust.co.jp/sophie/img/mainmenu_logo.png" class="float-left" width=40%>  
+    <img src="/img/a17/mainmenu_logo.png" class="float-left" width=40%>  
     <h3 class="indent-first-line">ソフィーのアトリエとは？</h3>
     <p class="indent-first-line">在继续制作《炼金工房》系列的过程中，Gust不断思考如何创造出全新的《炼金工房》。他们提出了一个问题：“怎样才能使游戏变得更加有趣呢？”经过不断思考，他们得出的答案是：“从头开始重新思考炼金术的概念。”</p>
     <p class="indent-first-line">于是，《苏菲的炼金工房》应运而生。游戏邀请了两位插画师——NOCO和ゆーげん，通过时间变化来展现世界的风貌，并围绕炼金术发展了一套全新的系统，融入了以往未曾尝试或实现的内容。</p>
@@ -583,7 +746,7 @@
 <h2 id="角色介绍"><a href="#角色介绍" class="headerlink" title="角色介绍"></a>角色介绍</h2><style>
 .container {
   position: relative;
-  background-image: linear-gradient(to right, blue, yellow);
+  background-image: linear-gradient(to right, blue, red);
   overflow: hidden;
 }
 .background-image {
@@ -598,43 +761,43 @@
 </style>
 <h3>苏菲·诺伊恩缪拉</h3>
 <div class="container">
-  <img src="https://social.gust.co.jp/sophie/img/sub/chara_02_text02.png" class="background-image">
-  <img src="https://social.gust.co.jp/sophie/img/sub/chara_02_charaimg01.png" class="overlay-image">
+  <img src="/img/a17/chara_02_text02.png" class="background-image">
+  <img src="/img/a17/chara_02_charaimg01.png" class="overlay-image">
 </div>
 <h3>普拉芙妲</h3>
 <div class="container">
-  <img src="https://social.gust.co.jp/sophie/img/sub/chara_03_text02.png" class="background-image">
-  <img src="https://social.gust.co.jp/sophie/img/sub/chara_03_charaimg01.png" class="overlay-image">
+  <img src="/img/a17/chara_03_text02.png" class="background-image">
+  <img src="/img/a17/chara_03_charaimg01.png" class="overlay-image">
 </div>
 <h3>莫妮卡·艾门莱希</h3>
 <div class="container">
-  <img src="https://social.gust.co.jp/sophie/img/sub/chara_04_text02.png" class="background-image">
-  <img src="https://social.gust.co.jp/sophie/img/sub/chara_04_charaimg01.png" class="overlay-image">
+  <img src="/img/a17/chara_04_text02.png" class="background-image">
+  <img src="/img/a17/chara_04_charaimg01.png" class="overlay-image">
 </div>
 <h3>奥斯卡·贝尔玛</h3>
 <div class="container">
-  <img src="https://social.gust.co.jp/sophie/img/sub/chara_05_text02.png" class="background-image">
-  <img src="https://social.gust.co.jp/sophie/img/sub/chara_05_charaimg01.png" class="overlay-image">
+  <img src="/img/a17/chara_05_text02.png" class="background-image">
+  <img src="/img/a17/chara_05_charaimg01.png" class="overlay-image">
 </div>
 <h3>科尔涅莉雅</h3>
 <div class="container">
-  <img src="https://social.gust.co.jp/sophie/img/sub/chara_06_text02.png" class="background-image">
-  <img src="https://social.gust.co.jp/sophie/img/sub/chara_06_charaimg01.png" class="overlay-image">
+  <img src="/img/a17/chara_06_text02.png" class="background-image">
+  <img src="/img/a17/chara_06_charaimg01.png" class="overlay-image">
 </div>
 <h3>哈罗尔·吉曼斯</h3>
 <div class="container">
-  <img src="https://social.gust.co.jp/sophie/img/sub/chara_07_text02.png" class="background-image">
-  <img src="https://social.gust.co.jp/sophie/img/sub/chara_07_charaimg01.png" class="overlay-image">
+  <img src="/img/a17/chara_07_text02.png" class="background-image">
+  <img src="/img/a17/chara_07_charaimg01.png" class="overlay-image">
 </div>
 <h3>朱利欧·赛巴鲁特·雷汀夏弗特</h3>
 <div class="container">
-  <img src="https://social.gust.co.jp/sophie/img/sub/chara_09_text02.png" class="background-image">
-  <img src="https://social.gust.co.jp/sophie/img/sub/chara_09_charaimg01.png" class="overlay-image">
+  <img src="/img/a17/chara_09_text02.png" class="background-image">
+  <img src="/img/a17/chara_09_charaimg01.png" class="overlay-image">
 </div>
 <h3>弗里兹·怀斯贝尔克</h3>
 <div class="container">
-  <img src="https://social.gust.co.jp/sophie/img/sub/chara_10_text02.png" class="background-image">
-  <img src="https://social.gust.co.jp/sophie/img/sub/chara_10_charaimg01.png" class="overlay-image">
+  <img src="/img/a17/chara_10_text02.png" class="background-image">
+  <img src="/img/a17/chara_10_charaimg01.png" class="overlay-image">
 </div>]]></content>
       <categories>
         <category>不可思议</category>
@@ -1218,6 +1381,22 @@
       </tags>
   </entry>
   <entry>
+    <title>艾莉的炼金工房 ～萨尔布鲁克的炼金术士2～</title>
+    <url>/2024/08/04/a2/</url>
+    <content><![CDATA[<h1 id="艾莉的炼金工房-～萨尔布鲁克的炼金术士2～"><a href="#艾莉的炼金工房-～萨尔布鲁克的炼金术士2～" class="headerlink" title="艾莉的炼金工房 ～萨尔布鲁克的炼金术士2～"></a>艾莉的炼金工房 ～萨尔布鲁克的炼金术士2～</h1><p><img src="https://s2.loli.net/2024/08/04/nClG1WxyHB42p73.jpg"></p>
+]]></content>
+      <categories>
+        <category>萨尔布鲁克</category>
+        <category>A2</category>
+      </categories>
+      <tags>
+        <tag>游戏介绍</tag>
+        <tag>萨尔布鲁克</tag>
+        <tag>艾莉</tag>
+        <tag>A2</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>玛莉的炼金工房 Remake ～萨尔布鲁克的炼金术士～</title>
     <url>/2024/08/05/a1re/</url>
     <content><![CDATA[<p><img src="https://s2.loli.net/2024/08/05/mMp5Od1A3sR48BI.jpg"></p>
@@ -1274,22 +1453,6 @@
         <tag>A1</tag>
         <tag>萨尔布鲁克</tag>
         <tag>A1Re</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>艾莉的炼金工房 ～萨尔布鲁克的炼金术士2～</title>
-    <url>/2024/08/04/a2/</url>
-    <content><![CDATA[<h1 id="艾莉的炼金工房-～萨尔布鲁克的炼金术士2～"><a href="#艾莉的炼金工房-～萨尔布鲁克的炼金术士2～" class="headerlink" title="艾莉的炼金工房 ～萨尔布鲁克的炼金术士2～"></a>艾莉的炼金工房 ～萨尔布鲁克的炼金术士2～</h1><p><img src="https://s2.loli.net/2024/08/04/nClG1WxyHB42p73.jpg"></p>
-]]></content>
-      <categories>
-        <category>萨尔布鲁克</category>
-        <category>A2</category>
-      </categories>
-      <tags>
-        <tag>游戏介绍</tag>
-        <tag>萨尔布鲁克</tag>
-        <tag>艾莉</tag>
-        <tag>A2</tag>
       </tags>
   </entry>
   <entry>
@@ -2219,56 +2382,6 @@
       </tags>
   </entry>
   <entry>
-    <title>蕾丝莱莉安娜的炼金工房 ～被遗忘的炼金术与极夜的解放者～</title>
-    <url>/2024/08/05/a25/</url>
-    <content><![CDATA[<p><img src="https://s2.loli.net/2024/08/05/r2UYG67NTln9Ssp.jpg"></p>
-<style>  
-  .button-container {  
-    display: flex;  
-    justify-content: center;
-    margin-top: 20px;
-  }  
-  .button-container button {  
-    text-decoration: none;
-    color: white;
-    background-color: #f88080;
-    padding: 10px 20px;
-    margin: 0 15px;
-    border: none;
-    border-radius: 5px;
-    cursor: pointer;
-  }  
-  .button-container button:hover {  
-    background-color: #d88080;
-    transform: scale(1.02);
-  }  
-</style>
-<div class="button-container">  
-  <button class="button" onclick="event.preventDefault(); window.location.href='https://store.steampowered.com/app/2594920/_/';">前往游玩</button>  
-  <button class="button" onclick="event.preventDefault(); window.location.href='';">特色系统</button>  
-</div>  
-
-
-
-<blockquote>
-<p>界面内如有错误，欢迎指正，谢谢</p>
-<p><em><strong>游玩链接为国际服Steam端</strong></em><br>目录</p>
-<ul>
-<li><strong>游戏简介</strong></li>
-</ul>
-<p>其余内容在特色系统页</p>
-</blockquote>
-<h2 id="游戏简介"><a href="#游戏简介" class="headerlink" title="游戏简介"></a>游戏简介</h2>]]></content>
-      <categories>
-        <category>a25</category>
-      </categories>
-      <tags>
-        <tag>蕾丝莱莉安娜</tag>
-        <tag>蕾丝娜</tag>
-        <tag>a25</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>莱莎的炼金工房3 ～终结之炼金术士与秘密钥匙～</title>
     <url>/2024/08/04/a24/</url>
     <content><![CDATA[<p><img src="https://s2.loli.net/2024/08/05/OBw2DelxEJvodNu.jpg"></p>
@@ -2539,6 +2652,56 @@
         <tag>莱莎</tag>
         <tag>秘密</tag>
         <tag>A24</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>蕾丝莱莉安娜的炼金工房 ～被遗忘的炼金术与极夜的解放者～</title>
+    <url>/2024/08/05/a25/</url>
+    <content><![CDATA[<p><img src="https://s2.loli.net/2024/08/05/r2UYG67NTln9Ssp.jpg"></p>
+<style>  
+  .button-container {  
+    display: flex;  
+    justify-content: center;
+    margin-top: 20px;
+  }  
+  .button-container button {  
+    text-decoration: none;
+    color: white;
+    background-color: #f88080;
+    padding: 10px 20px;
+    margin: 0 15px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }  
+  .button-container button:hover {  
+    background-color: #d88080;
+    transform: scale(1.02);
+  }  
+</style>
+<div class="button-container">  
+  <button class="button" onclick="event.preventDefault(); window.location.href='https://store.steampowered.com/app/2594920/_/';">前往游玩</button>  
+  <button class="button" onclick="event.preventDefault(); window.location.href='';">特色系统</button>  
+</div>  
+
+
+
+<blockquote>
+<p>界面内如有错误，欢迎指正，谢谢</p>
+<p><em><strong>游玩链接为国际服Steam端</strong></em><br>目录</p>
+<ul>
+<li><strong>游戏简介</strong></li>
+</ul>
+<p>其余内容在特色系统页</p>
+</blockquote>
+<h2 id="游戏简介"><a href="#游戏简介" class="headerlink" title="游戏简介"></a>游戏简介</h2>]]></content>
+      <categories>
+        <category>a25</category>
+      </categories>
+      <tags>
+        <tag>蕾丝莱莉安娜</tag>
+        <tag>蕾丝娜</tag>
+        <tag>a25</tag>
       </tags>
   </entry>
   <entry>
