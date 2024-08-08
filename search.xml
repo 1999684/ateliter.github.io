@@ -18,63 +18,6 @@
       </tags>
   </entry>
   <entry>
-    <title>萝乐娜的炼金工房 ～亚兰德之炼金术士～</title>
-    <url>/2024/08/05/a11/</url>
-    <content><![CDATA[<p><img src="https://s2.loli.net/2024/08/05/lhgMckb5iB18YAT.jpg"></p>
-<style>  
-  .button-container {  
-    display: flex;  
-    justify-content: center;
-    margin-top: 20px;
-  }  
-  .button-container button {  
-    text-decoration: none;
-    color: white;
-    background-color: #f88080;
-    padding: 10px 20px;
-    margin: 0 15px;
-    border: none;
-    border-radius: 5px;
-    cursor: pointer;
-  }  
-  .button-container button:hover {  
-    background-color: #d88080;
-    transform: scale(1.02);
-  }  
-</style>
-<div class="button-container">  
-  <button class="button" onclick="event.preventDefault(); window.location.href='https://atelier.ztgdblog.icu/buy/#a11';">前往购买</button>  
-  <button class="button" onclick="event.preventDefault(); window.location.href='#introduce';">角色介绍</button>  
-  <button class="button" onclick="event.preventDefault(); window.location.href='';">特色系统</button>  
-  <button class="button" onclick="event.preventDefault(); window.location.href='';">游戏攻略</button>  
-</div>  
-
-
-
-<blockquote>
-<p>界面内如有错误，欢迎指正，谢谢</p>
-<p>目录</p>
-<ul>
-<li><strong>游戏简介</strong></li>
-<li><strong>角色介绍</strong></li>
-</ul>
-<p>其余内容在特色系统页</p>
-</blockquote>
-<h2 id="游戏简介"><a href="#游戏简介" class="headerlink" title="游戏简介"></a>游戏简介</h2><div id="introduce"></div>
-
-<h2 id="角色介绍"><a href="#角色介绍" class="headerlink" title="角色介绍"></a>角色介绍</h2>]]></content>
-      <categories>
-        <category>亚兰德</category>
-        <category>A11</category>
-      </categories>
-      <tags>
-        <tag>游戏介绍</tag>
-        <tag>萝乐娜</tag>
-        <tag>A11</tag>
-        <tag>亚兰德</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>托托莉的炼金工房 ～亚兰德之炼金术士2～</title>
     <url>/2024/08/05/a12/</url>
     <content><![CDATA[<p><img src="https://s2.loli.net/2024/08/05/PkNGBWmZw4egt52.jpg"></p>
@@ -104,9 +47,8 @@
   <button class="button" onclick="event.preventDefault(); window.location.href='#introduce';">角色介绍</button>  
   <button class="button" onclick="event.preventDefault(); window.location.href='';">特色系统</button>  
   <button class="button" onclick="event.preventDefault(); window.location.href='';">游戏攻略</button>  
+  <button class="button" onclick="event.preventDefault(); window.location.href='http://atelier-ps3.jp/totori/';">日文官网</button>
 </div>  
-
-
 
 <blockquote>
 <p>界面内如有错误，欢迎指正，谢谢</p>
@@ -117,24 +59,105 @@
 </ul>
 <p>其余内容在特色系统页</p>
 </blockquote>
-<h2 id="游戏简介"><a href="#游戏简介" class="headerlink" title="游戏简介"></a>游戏简介</h2><div id="introduce"></div>
+<h2 id="游戏简介"><a href="#游戏简介" class="headerlink" title="游戏简介"></a>游戏简介</h2><style>  
+  img.float-left {  
+    float: left;  
+    margin-right: 20px;
+  }  
+  .clearfix::after {  
+    content: "";  
+    display: table;  
+    clear: both;  
+  }  
+  .indent-first-line {  
+    text-indent: 2em;
+  }
+</style>
+<div class="clearfix">  
+    <img src="/img/a12/logo.png" class="float-left" width=40%>  
+    <h3 class="indent-first-line">トトリのアトリエ</h3>
+    <p class="indent-first-line">在阿兰德边境的阿兰亚村的小渔村里，曾有一位叱咤风云的女战士（冒险者），她的名字是吉泽拉·赫尔莫德，但是在数年前，她失踪了。</p>
+    <p class="indent-first-line">吉泽拉之女托托莉，从小有一个成为冒险家的梦想。这对于她来说很容易，但是，难的是【冒险者许可证】的更新。没取得好成绩的冒险者，【冒险者许可证】就会被吊销。</p>
+    <p class="indent-first-line">但是，托托莉最大的目的却是为了寻找下落不明的母亲。拜入了前来拜访阿兰亚村的炼金术士萝乐娜的门下。自此，少女托托莉，踏上了寻找母亲的旅途。</p>
+    <img src="/img/a12/world_caption_01.png">
+    <img src="/img/a12/world_cap01_text_01.png">
+</div>  
 
-<h2 id="角色介绍"><a href="#角色介绍" class="headerlink" title="角色介绍"></a>角色介绍</h2>]]></content>
+<div id="introduce"></div>
+
+<h2 id="角色介绍"><a href="#角色介绍" class="headerlink" title="角色介绍"></a>角色介绍</h2><style>
+.cont {
+  position: relative;
+  background-image: url(/img/a12/bg.jpg);
+  overflow: hidden;
+}
+.container {  
+    display: flex;  
+    justify-content: space-between;
+    align-items: flex-start;
+    width: 100%;
+    overflow: hidden;
+}
+.container img {  
+    height: auto;
+}
+.middle-high {  
+    order: -1;
+}
+.middle {  
+    order: 0;
+}
+.middle-low {  
+    order: 1;
+}
+.middle-high {  
+    position: relative;  
+    top: -10px;
+}
+.middle-low {  
+    position: relative;  
+    top: 10px;
+}
+</style>
+<div class="container">  
+    <img src="/img/a12/chara_img_04.png" class="image middle-low">  
+    <img src="/img/a12/chara_img_05.png" class="image">  
+    <img src="/img/a12/chara_img_03.png" class="image middle-high">  
+    <img src="/img/a12/chara_img_01.png" class="image middle-high">  
+    <img src="/img/a12/chara_img_02.png" class="image">  
+    <img src="/img/a12/chara_img_06.png" class="image middle-low">  
+</div>
+<h3>托托莉亞·赫爾默德&蘿樂萊娜·菲立克塞爾</h3>
+<div class="cont">
+  <img src="/img/a12/mnl004.jpg">
+</div>
+<h3>賽希莉亞·赫爾默德&吉諾·克納布</h3>
+<div class="cont">
+  <img src="/img/a12/mnl005.jpg">
+</div>
+<h3>梅爾維亞·希伯&敏敏·霍利爾·馮·修瓦兹雨格</h3>
+<div class="cont">
+  <img src="/img/a12/mnl006.jpg">
+</div>
+<h3>史特爾肯布鲁克·庫拉哈&小姆&馬克·麦克布萊恩</h3>
+<div class="cont">
+  <img src="/img/a12/mnl007.jpg">
+</div>]]></content>
       <categories>
         <category>亚兰德</category>
         <category>A12</category>
       </categories>
       <tags>
         <tag>游戏介绍</tag>
-        <tag>亚兰德</tag>
         <tag>托托莉</tag>
         <tag>A12</tag>
+        <tag>亚兰德</tag>
       </tags>
   </entry>
   <entry>
-    <title>梅露露的炼金工房 ～亚兰德之炼金术士3～</title>
-    <url>/2024/08/05/a13/</url>
-    <content><![CDATA[<p><img src="https://s2.loli.net/2024/08/05/tmhPqWoN2QYBi5C.jpg"></p>
+    <title>萝乐娜的炼金工房 ～亚兰德之炼金术士～</title>
+    <url>/2024/08/05/a11/</url>
+    <content><![CDATA[<p><img src="https://s2.loli.net/2024/08/05/lhgMckb5iB18YAT.jpg"></p>
 <style>  
   .button-container {  
     display: flex;  
@@ -157,13 +180,12 @@
   }  
 </style>
 <div class="button-container">  
-  <button class="button" onclick="event.preventDefault(); window.location.href='https://atelier.ztgdblog.icu/buy/#a13';">前往购买</button>  
+  <button class="button" onclick="event.preventDefault(); window.location.href='https://atelier.ztgdblog.icu/buy/#a11';">前往购买</button>  
   <button class="button" onclick="event.preventDefault(); window.location.href='#introduce';">角色介绍</button>  
   <button class="button" onclick="event.preventDefault(); window.location.href='';">特色系统</button>  
   <button class="button" onclick="event.preventDefault(); window.location.href='';">游戏攻略</button>  
+  <button class="button" onclick="event.preventDefault(); window.location.href='http://atelier-ps3.jp/rorona/';">日文官网</button>
 </div>  
-
-
 
 <blockquote>
 <p>界面内如有错误，欢迎指正，谢谢</p>
@@ -174,18 +196,144 @@
 </ul>
 <p>其余内容在特色系统页</p>
 </blockquote>
-<h2 id="游戏简介"><a href="#游戏简介" class="headerlink" title="游戏简介"></a>游戏简介</h2><div id="introduce"></div>
+<h2 id="游戏简介"><a href="#游戏简介" class="headerlink" title="游戏简介"></a>游戏简介</h2><style>  
+  img.float-left {  
+    float: left;  
+    margin-right: 20px;
+  }  
+  .clearfix::after {  
+    content: "";  
+    display: table;  
+    clear: both;  
+  }  
+  .indent-first-line {  
+    text-indent: 2em;
+  }
+</style>
+<div class="clearfix">  
+    <img src="/img/a11/logo.png" class="float-left" width=40%>  
+    <h3 class="indent-first-line">ロロナのアトリエ</h3>
+    <p class="indent-first-line">位於大陸一隅的小王國亞蘭德·過去曾經是貧困的國家，但是自從在遺跡中發現所謂’機械‘的文明之後，變成人民個個生活富裕的富有王國。</p>
+    <p class="indent-first-line">王國的城街中矗立著一幢鍊金術的鍊金工房。過去曾經繁榮一時，但不知是因為機械镶人們生活變得富裕，抑或是因懶惰的店主总慢工作，工房終日門可羅雀·</p>
+    <p class="indent-first-line">某日，國家派使者前來告知。告知内容是，三年内若無法證明工房的營運業精，即吊销營業執照。但是，店主接獲告知後，將所有的事推給弟子，失去了蹤影。留下一名對突如其來的重任，驚慌失措的少女。</p>
+    <p class="indent-first-line">少女名叫蘿樂莱娜·菲立克塞爾，城裡的人們稱呼她蘿樂娜。因為機械的發達，逐漸被人們遺忘的辣金術，蘿樂娜是否能夠守住工房，藉著鍊金術對大眾有所貢獻呢？急速發展的國家和逐漸被遺忘的鍊金術。亞蘭德的鍊金術士的故事，即將揭開序幕一一</p>
+</div>
 
-<h2 id="角色介绍"><a href="#角色介绍" class="headerlink" title="角色介绍"></a>角色介绍</h2>]]></content>
+<div id="introduce"></div>
+
+<h2 id="角色介绍"><a href="#角色介绍" class="headerlink" title="角色介绍"></a>角色介绍</h2><style>
+  .container {  
+    background-image: url(/img/a11/bg.jpg);
+    background-size: 100% auto;
+    display: flex;
+    align-items: center;
+  }  
+  .text-content {  
+    flex: 1;
+    padding-right: 20px;  
+  }  
+  .image-content img {
+    height: auto;
+  }  
+  .card1 {
+    padding: 20px;
+    background-color: #f8f9fa;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    font-family: Arial, sans-serif;
+    margin-bottom: 10px;
+  }
+</style>
+<h3>蘿樂萊娜·菲立克塞爾</h3>
+<div class="container">  
+  <div class="text-content">  
+    <img src="/img/a11/chara_status01b.png">
+  </div>
+  <div class="image-content" style="display: flex; align-items: center;">  
+    <img src="/img/a11/chara_img01.png">  
+  </div>
+</div>
+<h3>庫蝶莉亞·馮·費爾巴哈</h3>
+<div class="container">  
+  <div class="text-content">  
+    <img src="/img/a11/chara_status02b.png">
+  </div>
+  <div class="image-content" style="display: flex; align-items: center;">  
+    <img src="/img/a11/chara_img02.png">  
+  </div>
+</div>
+<h3>里歐涅技·海因兹</h3>
+<div class="container">  
+  <div class="text-content">  
+    <img src="/img/a11/chara_status03b.png">
+  </div>
+  <div class="image-content" style="display: flex; align-items: center;">  
+    <img src="/img/a11/chara_img03.png">  
+  </div>
+</div>
+<h3>亞斯特麗德·潔克西絲</h3>
+<div class="container">  
+  <div class="text-content">  
+    <img src="/img/a11/chara_status04b.png">
+  </div>
+  <div class="image-content" style="display: flex; align-items: center;">  
+    <img src="/img/a11/chara_img04.png">  
+  </div>
+</div>
+<h3>霍姆</h3>
+<div class="container">  
+  <div class="text-content">  
+    <img src="/img/a11/chara_status05b.png">
+  </div>
+  <div class="image-content" style="display: flex; align-items: center;">  
+    <img src="/img/a11/chara_img05.png">  
+  </div>
+</div>
+<h3>伊克賽爾·楊</h3>
+<div class="container">  
+  <div class="text-content">  
+    <img src="/img/a11/chara_status06b.png">
+  </div>
+  <div class="image-content" style="display: flex; align-items: center;">  
+    <img src="/img/a11/chara_img06.png">  
+  </div>
+</div>
+<h3>史特爾肯布魯克·庫拉哈</h3>
+<div class="container">  
+  <div class="text-content">  
+    <img src="/img/a11/chara_status07b.png">
+  </div>
+  <div class="image-content" style="display: flex; align-items: center;">  
+    <img src="/img/a11/chara_img07.png">  
+  </div>
+</div>
+<h3>坦特里斯</h3>
+<div class="container">  
+  <div class="text-content">  
+    <img src="/img/a11/chara_status08b.png">
+  </div>
+  <div class="image-content" style="display: flex; align-items: center;">  
+    <img src="/img/a11/chara_img08.png">  
+  </div>
+</div>
+<h3>路德维格·乔班尼·阿兰德</h3>
+<div class="container">  
+  <div class="text-content">  
+    <img src="/img/a11/chara_status09b.png">
+  </div>
+  <div class="image-content" style="display: flex; align-items: center;">  
+    <img src="/img/a11/chara_img09.png">  
+  </div>
+</div>]]></content>
       <categories>
         <category>亚兰德</category>
-        <category>A13</category>
+        <category>A11</category>
       </categories>
       <tags>
         <tag>游戏介绍</tag>
         <tag>亚兰德</tag>
-        <tag>梅露露</tag>
-        <tag>A13</tag>
+        <tag>萝乐娜</tag>
+        <tag>A11</tag>
       </tags>
   </entry>
   <entry>
@@ -254,7 +402,120 @@
 
 <div id="introduce"></div>
 
-<h2 id="角色介绍"><a href="#角色介绍" class="headerlink" title="角色介绍"></a>角色介绍</h2>]]></content>
+<h2 id="角色介绍"><a href="#角色介绍" class="headerlink" title="角色介绍"></a>角色介绍</h2><style>
+  .container {  
+    background-image: url(/img/a14/bg.jpg);
+    background-size: 100% auto;
+    display: flex;
+    align-items: center;
+  }  
+  .text-content {  
+    flex: 1;
+    padding-right: 20px;  
+  }  
+  .image-content img {  
+    max-width: 150px;
+    height: auto;
+  }  
+  .card1 {
+    padding: 20px;
+    background-color: #f8f9fa;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    font-family: Arial, sans-serif;
+    margin-bottom: 10px;
+  }
+</style>
+<h3>爱夏·阿图尔</h3>
+<div class="container">  
+    <div class="image-content" style="display: flex; align-items: center;">  
+      <img src="/img/a14/chara01_illust.png">  
+    </div>
+    <div class="text-content">  
+        <img src="/img/a14/chara01_detail.png">
+        <img src="/img/a14/chara01_catch.png">
+    </div>
+</div>  
+<h3>薇尔贝儿·沃·耶斯礼特</h3>
+<div class="container">  
+    <div class="image-content" style="display: flex; align-items: center;">  
+      <img src="/img/a14/chara02_illust.png">  
+    </div>
+    <div class="text-content">  
+        <img src="/img/a14/chara02_detail.png">
+        <img src="/img/a14/chara02_catch.png">
+    </div>
+</div>  
+<h3>瑞吉娜·卡蒂斯</h3>
+<div class="container">  
+    <div class="image-content" style="display: flex; align-items: center;">  
+      <img src="/img/a14/chara03_illust.png">  
+    </div>
+    <div class="text-content">  
+        <img src="/img/a14/chara03_detail.png">
+        <img src="/img/a14/chara03_catch.png">
+    </div>
+</div>  
+<h3>尤里斯·戈伦登</h3>
+<div class="container">  
+    <div class="image-content" style="display: flex; align-items: center;">  
+      <img src="/img/a14/chara04_illust.png">  
+    </div>
+    <div class="text-content">  
+        <img src="/img/a14/chara04_detail.png">
+        <img src="/img/a14/chara04_catch.png">
+    </div>
+</div>  
+<h3>奇斯葛里夫·赫瑟达因</h3>
+<div class="container">  
+    <div class="image-content" style="display: flex; align-items: center;">  
+      <img src="/img/a14/chara05_illust.png">  
+    </div>
+    <div class="text-content">  
+        <img src="/img/a14/chara05_detail.png">
+        <img src="/img/a14/chara05_catch.png">
+    </div>
+</div>  
+<h3>琳卡</h3>
+<div class="container">  
+    <div class="image-content" style="display: flex; align-items: center;">  
+      <img src="/img/a14/chara06_illust.png">  
+    </div>
+    <div class="text-content">  
+        <img src="/img/a14/chara06_detail.png">
+        <img src="/img/a14/chara06_catch.png">
+    </div>
+</div>  
+<h3>玛利翁·奎因</h3>
+<div class="container">  
+    <div class="image-content" style="display: flex; align-items: center;">  
+      <img src="/img/a14/chara07_illust.png">  
+    </div>
+    <div class="text-content">  
+        <img src="/img/a14/chara07_detail.png">
+        <img src="/img/a14/chara07_catch.png">
+    </div>
+</div>  
+<h3>妮欧·阿图尔</h3>
+<div class="container">  
+    <div class="image-content" style="display: flex; align-items: center;">  
+      <img src="/img/a14/chara08_illust.png">  
+    </div>
+    <div class="text-content">  
+        <img src="/img/a14/chara08_detail.png">
+        <img src="/img/a14/chara08_catch.png">
+    </div>
+</div>  
+<h3>奥迪莉雅</h3>
+<div class="container">  
+    <div class="image-content" style="display: flex; align-items: center;">  
+      <img src="/img/a14/chara09_illust.png">  
+    </div>
+    <div class="text-content">  
+        <img src="/img/a14/chara09_detail.png">
+        <img src="/img/a14/chara09_catch.png">
+    </div>
+</div>]]></content>
       <categories>
         <category>黄昏</category>
         <category>A14</category>
@@ -267,9 +528,9 @@
       </tags>
   </entry>
   <entry>
-    <title>爱丝卡&amp;罗吉的炼金工房 ～黄昏天空之炼金术士～</title>
-    <url>/2024/08/05/a15/</url>
-    <content><![CDATA[<p><img src="https://s2.loli.net/2024/08/05/mlfQdoOXpIaY5hW.jpg"></p>
+    <title>梅露露的炼金工房 ～亚兰德之炼金术士3～</title>
+    <url>/2024/08/05/a13/</url>
+    <content><![CDATA[<p><img src="https://s2.loli.net/2024/08/05/tmhPqWoN2QYBi5C.jpg"></p>
 <style>  
   .button-container {  
     display: flex;  
@@ -292,11 +553,11 @@
   }  
 </style>
 <div class="button-container">  
-  <button class="button" onclick="event.preventDefault(); window.location.href='https://atelier.ztgdblog.icu/buy/#a15';">前往购买</button>  
+  <button class="button" onclick="event.preventDefault(); window.location.href='https://atelier.ztgdblog.icu/buy/#a13';">前往购买</button>  
   <button class="button" onclick="event.preventDefault(); window.location.href='#introduce';">角色介绍</button>  
   <button class="button" onclick="event.preventDefault(); window.location.href='';">特色系统</button>  
   <button class="button" onclick="event.preventDefault(); window.location.href='';">游戏攻略</button>  
-  <button class="button" onclick="event.preventDefault(); window.location.href='http://atelier-ps3.jp/escha-logy/';">日文官网</button>  
+  <button class="button" onclick="event.preventDefault(); window.location.href='http://atelier-ps3.jp/meruru/';">日文官网</button> 
 </div>  
 
 
@@ -325,18 +586,18 @@
   }
 </style>
 <div class="clearfix">  
-    <img src="/img/a15/home_maintitle_logo3.png" class="float-left" width=40%>  
-    <h3 class="indent-first-line">エスカ＆ロジーのアトリエ</h3>
-    <p class="indent-first-line">在这里不知经历了多少次的黄昏时刻，在黄昏大地的西部，有一个依靠炼金术发展的国家存在的地方。</p>
-    <p class="indent-first-line">当地人为了避开【黄昏终结】花费了不少精力，发现和复原了古代失传已久的炼金术，他们利用复原后的古代炼金术汇集在中央地区阻止黄昏的发展。</p>
-    <p class="indent-first-line">在边境处有一个叫做科尔先特的小镇，住着一名名为爱丝卡的少女，以及一名被中央调派到此处的青年罗吉他们都被分到了该地区的开发班，他们将共同使用炼金术的力量，来阻止黄昏的发展。</p>
+    <img src="/img/a13/logo.png" class="float-left" width=40%>  
+    <h3 class="indent-first-line">メルルのアトリエ</h3>
+    <p class="indent-first-line">故事发生在五年后，阿兰德共和国与阿鲁兹王国决定合并，且开荒。</p>
+    <p class="indent-first-line">在阿兰德共和国北西方向有个阿鲁兹王国，与阿兰德不同，这里没有发达的机械技术和炼金术，就连人口也很缺。但仍有许多未开发地区的小国家，阿鲁兹王国国王是阿兰德国王的好友，他希望阿兰德方面能给予阿鲁兹一些帮助，而托托莉便成为了阿兰德派遣队中的一员，前来协助阿鲁兹王国的发展。</p>
+    <p class="indent-first-line">在与托托莉的初次见面中，阿鲁兹王国的公主梅露露被托托莉施展的炼金术所感动，为了成为一名炼金术士，经过一整死缠烂打之后，拜入了托托莉的门下。</p>
 </div>  
 
 <div id="introduce"></div>
 
 <h2 id="角色介绍"><a href="#角色介绍" class="headerlink" title="角色介绍"></a>角色介绍</h2><style>
   .container {  
-    background-image: url(/img/a15/bg.jpg);
+    background-image: url(/img/a13/bg.jpg);
     background-size: 100% auto;
     display: flex;
     align-items: center;
@@ -354,116 +615,154 @@
     background-color: #f8f9fa;
     border: 1px solid #ccc;
     border-radius: 8px;
-    font-family: Arial, sans-serif; 
-    margin-bottom: 10px; 
+    font-family: Arial, sans-serif;
+    margin-bottom: 10px;
   }
 </style>
+<h3>梅露露琳丝·蕾蒂·阿鲁兹</h3>
 <div class="container">  
     <div class="image-content" style="display: flex; align-items: center;">  
-      <img src="/img/a15/chara_01_mainimg.png">  
+      <img src="/img/a13/a13v_chara_img_01.png">  
     </div>
     <div class="text-content">  
-        <img src="/img/a15/chara_01_spec.png">
-    </div>
-</div>  
-<div class="container">  
-    <div class="image-content" style="display: flex; align-items: center;">  
-      <img src="/img/a15/chara_02_mainimg.png">  
-    </div>
-    <div class="text-content">  
-        <img src="/img/a15/chara_02_spec.png">
+        <img src="/img/a13/a13v_chara_name_01.png">
     </div>
 </div>
+<h3>托特莉亚·赫尔莫德</h3>
 <div class="container">  
     <div class="image-content" style="display: flex; align-items: center;">  
-      <img src="/img/a15/chara_03_mainimg.png">  
+      <img src="/img/a13/a13v_chara_img_02.png">  
     </div>
     <div class="text-content">  
-        <img src="/img/a15/chara_03_spec.png">
+        <img src="/img/a13/a13v_chara_name_02.png">
     </div>
 </div>
+<h3>萝洛莱娜·弗莉克希尔</h3>
 <div class="container">  
     <div class="image-content" style="display: flex; align-items: center;">  
-      <img src="/img/a15/chara_04_mainimg.png">  
+      <img src="/img/a13/a13v_chara_img_03.png">  
     </div>
     <div class="text-content">  
-        <img src="/img/a15/chara_04_spec.png">
+        <img src="/img/a13/a13v_chara_name_03.png">
     </div>
 </div>
+<h3>凯娜·斯维娅</h3>
 <div class="container">  
     <div class="image-content" style="display: flex; align-items: center;">  
-      <img src="/img/a15/chara_05_mainimg.png">  
+      <img src="/img/a13/a13v_chara_img_04.png">  
     </div>
     <div class="text-content">  
-        <img src="/img/a15/chara_05_spec.png">
+        <img src="/img/a13/a13v_chara_name_04.png">
     </div>
 </div>
+<h3>鲁菲斯·佛肯</h3>
 <div class="container">  
     <div class="image-content" style="display: flex; align-items: center;">  
-      <img src="/img/a15/chara_06_mainimg.png">  
+      <img src="/img/a13/a13v_chara_img_05.png">  
     </div>
     <div class="text-content">  
-        <img src="/img/a15/chara_06_spec.png">
+        <img src="/img/a13/a13v_chara_name_05.png">
     </div>
 </div>
+<h3>咪咪·霍利尔·冯·修沃兹兰格</h3>
 <div class="container">  
     <div class="image-content" style="display: flex; align-items: center;">  
-      <img src="/img/a15/chara_07_mainimg.png">  
+      <img src="/img/a13/a13v_chara_img_06.png">  
     </div>
     <div class="text-content">  
-        <img src="/img/a15/chara_07_spec.png">
+        <img src="/img/a13/a13v_chara_name_06.png">
     </div>
 </div>
+<h3>莱亚斯·佛肯</h3>
 <div class="container">  
     <div class="image-content" style="display: flex; align-items: center;">  
-      <img src="/img/a15/chara_08_mainimg.png">  
+      <img src="/img/a13/a13v_chara_img_07.png">  
     </div>
     <div class="text-content">  
-        <img src="/img/a15/chara_08_spec.png">
+        <img src="/img/a13/a13v_chara_name_07.png">
     </div>
 </div>
+<h3>基诺·科纳布</h3>
 <div class="container">  
     <div class="image-content" style="display: flex; align-items: center;">  
-      <img src="/img/a15/chara_09_mainimg.png">  
+      <img src="/img/a13/a13v_chara_img_08.png">  
     </div>
     <div class="text-content">  
-        <img src="/img/a15/chara_09_spec.png">
+        <img src="/img/a13/a13v_chara_name_08.png">
     </div>
 </div>
+<h3>菲丽·艾哈特</h3>
 <div class="container">  
     <div class="image-content" style="display: flex; align-items: center;">  
-      <img src="/img/a15/chara_10_mainimg.png">  
+      <img src="/img/a13/a13v_chara_img_09.png">  
     </div>
     <div class="text-content">  
-        <img src="/img/a15/chara_10_spec.png">
+        <img src="/img/a13/a13v_chara_name_09.png">
     </div>
 </div>
+<h3>迪杰·霍斯特纳·阿鲁兹</h3>
 <div class="container">  
     <div class="image-content" style="display: flex; align-items: center;">  
-      <img src="/img/a15/chara_11_mainimg.png">  
+      <img src="/img/a13/a13v_chara_img_10.png">  
     </div>
     <div class="text-content">  
-        <img src="/img/a15/chara_11_spec.png">
+        <img src="/img/a13/a13v_chara_name_10.png">
     </div>
 </div>
+<h3>霍姆</h3>
 <div class="container">  
     <div class="image-content" style="display: flex; align-items: center;">  
-      <img src="/img/a15/chara_12_mainimg.png">  
+      <img src="/img/a13/a13v_chara_img_11.png">  
     </div>
     <div class="text-content">  
-        <img src="/img/a15/chara_12_spec.png">
+        <img src="/img/a13/a13v_chara_name_11.png">
+    </div>
+</div>
+<h3>法娜·奥尔希斯</h3>
+<div class="container">  
+    <div class="image-content" style="display: flex; align-items: center;">  
+      <img src="/img/a13/a13v_chara_img_12.png">  
+    </div>
+    <div class="text-content">  
+        <img src="/img/a13/a13v_chara_name_12.png">
+    </div>
+</div>
+<h3>斯特尔肯伯格·克拉纳哈</h3>
+<div class="container">  
+    <div class="image-content" style="display: flex; align-items: center;">  
+      <img src="/img/a13/a13v_chara_img_13.png">  
+    </div>
+    <div class="text-content">  
+        <img src="/img/a13/a13v_chara_name_13.png">
+    </div>
+</div>
+<h3>艾斯蒂·艾哈特</h3>
+<div class="container">  
+    <div class="image-content" style="display: flex; align-items: center;">  
+      <img src="/img/a13/a13v_chara_img_14.png">  
+    </div>
+    <div class="text-content">  
+        <img src="/img/a13/a13v_chara_name_14.png">
+    </div>
+</div>
+<h3>吉歐</h3>
+<div class="container">  
+    <div class="image-content" style="display: flex; align-items: center;">  
+      <img src="/img/a13/a13v_chara_img_15.png">  
+    </div>
+    <div class="text-content">  
+        <img src="/img/a13/a13v_chara_name_15.png">
     </div>
 </div>]]></content>
       <categories>
-        <category>黄昏</category>
-        <category>A15</category>
+        <category>亚兰德</category>
+        <category>A13</category>
       </categories>
       <tags>
         <tag>游戏介绍</tag>
-        <tag>黄昏</tag>
-        <tag>爱丝卡</tag>
-        <tag>罗吉</tag>
-        <tag>A15</tag>
+        <tag>亚兰德</tag>
+        <tag>梅露露</tag>
+        <tag>A13</tag>
       </tags>
   </entry>
   <entry>
@@ -808,6 +1107,218 @@
         <tag>苏菲</tag>
         <tag>A17</tag>
         <tag>不可思议</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>爱丝卡&amp;罗吉的炼金工房 ～黄昏天空之炼金术士～</title>
+    <url>/2024/08/05/a15/</url>
+    <content><![CDATA[<p><img src="https://s2.loli.net/2024/08/05/mlfQdoOXpIaY5hW.jpg"></p>
+<style>  
+  .button-container {  
+    display: flex;  
+    justify-content: center;
+    margin-top: 20px;
+  }  
+  .button-container button {  
+    text-decoration: none;
+    color: white;
+    background-color: #f88080;
+    padding: 10px 20px;
+    margin: 0 15px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }  
+  .button-container button:hover {  
+    background-color: #d88080;
+    transform: scale(1.02);
+  }  
+</style>
+<div class="button-container">  
+  <button class="button" onclick="event.preventDefault(); window.location.href='https://atelier.ztgdblog.icu/buy/#a15';">前往购买</button>  
+  <button class="button" onclick="event.preventDefault(); window.location.href='#introduce';">角色介绍</button>  
+  <button class="button" onclick="event.preventDefault(); window.location.href='';">特色系统</button>  
+  <button class="button" onclick="event.preventDefault(); window.location.href='';">游戏攻略</button>  
+  <button class="button" onclick="event.preventDefault(); window.location.href='http://atelier-ps3.jp/escha-logy/';">日文官网</button>  
+</div>  
+
+
+
+<blockquote>
+<p>界面内如有错误，欢迎指正，谢谢</p>
+<p>目录</p>
+<ul>
+<li><strong>游戏简介</strong></li>
+<li><strong>角色介绍</strong></li>
+</ul>
+<p>其余内容在特色系统页</p>
+</blockquote>
+<h2 id="游戏简介"><a href="#游戏简介" class="headerlink" title="游戏简介"></a>游戏简介</h2><style>  
+  img.float-left {  
+    float: left;  
+    margin-right: 20px;
+  }  
+  .clearfix::after {  
+    content: "";  
+    display: table;  
+    clear: both;  
+  }  
+  .indent-first-line {  
+    text-indent: 2em;
+  }
+</style>
+<div class="clearfix">  
+    <img src="/img/a15/home_maintitle_logo3.png" class="float-left" width=40%>  
+    <h3 class="indent-first-line">エスカ＆ロジーのアトリエ</h3>
+    <p class="indent-first-line">在这里不知经历了多少次的黄昏时刻，在黄昏大地的西部，有一个依靠炼金术发展的国家存在的地方。</p>
+    <p class="indent-first-line">当地人为了避开【黄昏终结】花费了不少精力，发现和复原了古代失传已久的炼金术，他们利用复原后的古代炼金术汇集在中央地区阻止黄昏的发展。</p>
+    <p class="indent-first-line">在边境处有一个叫做科尔先特的小镇，住着一名名为爱丝卡的少女，以及一名被中央调派到此处的青年罗吉他们都被分到了该地区的开发班，他们将共同使用炼金术的力量，来阻止黄昏的发展。</p>
+</div>  
+
+<div id="introduce"></div>
+
+<h2 id="角色介绍"><a href="#角色介绍" class="headerlink" title="角色介绍"></a>角色介绍</h2><style>
+  .container {  
+    background-image: url(/img/a15/bg.jpg);
+    background-size: 100% auto;
+    display: flex;
+    align-items: center;
+  }  
+  .text-content {  
+    flex: 1;
+    padding-right: 20px;  
+  }  
+  .image-content img {  
+    max-width: 150px;
+    height: auto;
+  }  
+  .card1 {
+    padding: 20px;
+    background-color: #f8f9fa;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    font-family: Arial, sans-serif; 
+    margin-bottom: 10px; 
+  }
+</style>
+<h3>爱丝卡·梅莉耶</h3>
+<div class="container">  
+    <div class="image-content" style="display: flex; align-items: center;">  
+      <img src="/img/a15/chara_01_mainimg.png">  
+    </div>
+    <div class="text-content">  
+        <img src="/img/a15/chara_01_spec.png">
+    </div>
+</div>  
+<h3>罗吉库斯·菲库萨立欧</h3>
+<div class="container">  
+    <div class="image-content" style="display: flex; align-items: center;">  
+      <img src="/img/a15/chara_02_mainimg.png">  
+    </div>
+    <div class="text-content">  
+        <img src="/img/a15/chara_02_spec.png">
+    </div>
+</div>
+<h3>露希儿·耶鲁内拉</h3>
+<div class="container">  
+    <div class="image-content" style="display: flex; align-items: center;">  
+      <img src="/img/a15/chara_03_mainimg.png">  
+    </div>
+    <div class="text-content">  
+        <img src="/img/a15/chara_03_spec.png">
+    </div>
+</div>
+<h3>薇尔贝儿·沃·耶斯礼特</h3>
+<div class="container">  
+    <div class="image-content" style="display: flex; align-items: center;">  
+      <img src="/img/a15/chara_04_mainimg.png">  
+    </div>
+    <div class="text-content">  
+        <img src="/img/a15/chara_04_spec.png">
+    </div>
+</div>
+<h3>亚文·赛特雷特</h3>
+<div class="container">  
+    <div class="image-content" style="display: flex; align-items: center;">  
+      <img src="/img/a15/chara_05_mainimg.png">  
+    </div>
+    <div class="text-content">  
+        <img src="/img/a15/chara_05_spec.png">
+    </div>
+</div>
+<h3>希蕾雅·海赛尔格利姆</h3>
+<div class="container">  
+    <div class="image-content" style="display: flex; align-items: center;">  
+      <img src="/img/a15/chara_06_mainimg.png">  
+    </div>
+    <div class="text-content">  
+        <img src="/img/a15/chara_06_spec.png">
+    </div>
+</div>
+<h3>雷法·拉达贝里</h3>
+<div class="container">  
+    <div class="image-content" style="display: flex; align-items: center;">  
+      <img src="/img/a15/chara_07_mainimg.png">  
+    </div>
+    <div class="text-content">  
+        <img src="/img/a15/chara_07_spec.png">
+    </div>
+</div>
+<h3>米歇尔·桑·谬仙布露达</h3>
+<div class="container">  
+    <div class="image-content" style="display: flex; align-items: center;">  
+      <img src="/img/a15/chara_08_mainimg.png">  
+    </div>
+    <div class="text-content">  
+        <img src="/img/a15/chara_08_spec.png">
+    </div>
+</div>
+<h3>卡朵拉·拉齐卡</h3>
+<div class="container">  
+    <div class="image-content" style="display: flex; align-items: center;">  
+      <img src="/img/a15/chara_09_mainimg.png">  
+    </div>
+    <div class="text-content">  
+        <img src="/img/a15/chara_09_spec.png">
+    </div>
+</div>
+<h3>索尔·格鲁曼</h3>
+<div class="container">  
+    <div class="image-content" style="display: flex; align-items: center;">  
+      <img src="/img/a15/chara_10_mainimg.png">  
+    </div>
+    <div class="text-content">  
+        <img src="/img/a15/chara_10_spec.png">
+    </div>
+</div>
+<h3>琳卡</h3>
+<div class="container">  
+    <div class="image-content" style="display: flex; align-items: center;">  
+      <img src="/img/a15/chara_11_mainimg.png">  
+    </div>
+    <div class="text-content">  
+        <img src="/img/a15/chara_11_spec.png">
+    </div>
+</div>
+<h3>玛利翁·奎因</h3>
+<div class="container">  
+    <div class="image-content" style="display: flex; align-items: center;">  
+      <img src="/img/a15/chara_12_mainimg.png">  
+    </div>
+    <div class="text-content">  
+        <img src="/img/a15/chara_12_spec.png">
+    </div>
+</div>]]></content>
+      <categories>
+        <category>黄昏</category>
+        <category>A15</category>
+      </categories>
+      <tags>
+        <tag>游戏介绍</tag>
+        <tag>黄昏</tag>
+        <tag>爱丝卡</tag>
+        <tag>罗吉</tag>
+        <tag>A15</tag>
       </tags>
   </entry>
   <entry>
@@ -1381,22 +1892,6 @@
       </tags>
   </entry>
   <entry>
-    <title>艾莉的炼金工房 ～萨尔布鲁克的炼金术士2～</title>
-    <url>/2024/08/04/a2/</url>
-    <content><![CDATA[<h1 id="艾莉的炼金工房-～萨尔布鲁克的炼金术士2～"><a href="#艾莉的炼金工房-～萨尔布鲁克的炼金术士2～" class="headerlink" title="艾莉的炼金工房 ～萨尔布鲁克的炼金术士2～"></a>艾莉的炼金工房 ～萨尔布鲁克的炼金术士2～</h1><p><img src="https://s2.loli.net/2024/08/04/nClG1WxyHB42p73.jpg"></p>
-]]></content>
-      <categories>
-        <category>萨尔布鲁克</category>
-        <category>A2</category>
-      </categories>
-      <tags>
-        <tag>游戏介绍</tag>
-        <tag>萨尔布鲁克</tag>
-        <tag>艾莉</tag>
-        <tag>A2</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>玛莉的炼金工房 Remake ～萨尔布鲁克的炼金术士～</title>
     <url>/2024/08/05/a1re/</url>
     <content><![CDATA[<p><img src="https://s2.loli.net/2024/08/05/mMp5Od1A3sR48BI.jpg"></p>
@@ -1733,6 +2228,22 @@
       </tags>
   </entry>
   <entry>
+    <title>艾莉的炼金工房 ～萨尔布鲁克的炼金术士2～</title>
+    <url>/2024/08/04/a2/</url>
+    <content><![CDATA[<h1 id="艾莉的炼金工房-～萨尔布鲁克的炼金术士2～"><a href="#艾莉的炼金工房-～萨尔布鲁克的炼金术士2～" class="headerlink" title="艾莉的炼金工房 ～萨尔布鲁克的炼金术士2～"></a>艾莉的炼金工房 ～萨尔布鲁克的炼金术士2～</h1><p><img src="https://s2.loli.net/2024/08/04/nClG1WxyHB42p73.jpg"></p>
+]]></content>
+      <categories>
+        <category>萨尔布鲁克</category>
+        <category>A2</category>
+      </categories>
+      <tags>
+        <tag>游戏介绍</tag>
+        <tag>萨尔布鲁克</tag>
+        <tag>艾莉</tag>
+        <tag>A2</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>莱莎的炼金工房 ～常暗女王与秘密藏身处～</title>
     <url>/2024/08/05/a21/</url>
     <content><![CDATA[<p><img src="https://s2.loli.net/2024/08/05/Jx3WrUBjHR2PVTl.jpg"></p>
@@ -1923,211 +2434,6 @@
         <tag>莱莎</tag>
         <tag>A21</tag>
         <tag>秘密</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>莱莎的炼金工房2 ～失落传说与秘密妖精～</title>
-    <url>/2024/08/05/a22/</url>
-    <content><![CDATA[<p><img src="https://s2.loli.net/2024/08/05/YizCNobktSwpDA3.jpg"></p>
-<style>  
-  .button-container {  
-    display: flex;  
-    justify-content: center;
-    margin-top: 20px;
-  }  
-  .button-container button {  
-    text-decoration: none;
-    color: white;
-    background-color: #f88080;
-    padding: 10px 20px;
-    margin: 0 15px;
-    border: none;
-    border-radius: 5px;
-    cursor: pointer;
-  }  
-  .button-container button:hover {  
-    background-color: #d88080;
-    transform: scale(1.02);
-  }  
-</style>
-<div class="button-container">  
-  <button class="button" onclick="event.preventDefault(); window.location.href='https://atelier.ztgdblog.icu/buy/#a22';">前往购买</button>  
-  <button class="button" onclick="event.preventDefault(); window.location.href='#introduce';">角色介绍</button>  
-  <button class="button" onclick="event.preventDefault(); window.location.href='';">特色系统</button>  
-  <button class="button" onclick="event.preventDefault(); window.location.href='';">游戏攻略</button>  
-  <button class="button" onclick="event.preventDefault(); window.location.href='https://www.gamecity.com.tw/atelier/ryza2/';">繁中官网</button>  
-</div>  
-
-
-
-<blockquote>
-<p>界面内如有错误，欢迎指正，谢谢</p>
-<p>目录</p>
-<ul>
-<li><strong>游戏简介</strong></li>
-<li><strong>角色介绍</strong></li>
-</ul>
-<p>其余内容在特色系统页</p>
-</blockquote>
-<h2 id="游戏简介"><a href="#游戏简介" class="headerlink" title="游戏简介"></a>游戏简介</h2><style>  
-  img.float-left {  
-    float: left;  
-    margin-right: 20px;
-  }  
-  .clearfix::after {  
-    content: "";  
-    display: table;  
-    clear: both;  
-  }  
-  .indent-first-line {  
-    text-indent: 2em;
-  }
-</style>
-<div class="clearfix">  
-    <img src="https://www.gamecity.com.tw/atelier/ryza2/img/logo640.png" class="float-left" width=40%>  
-    <p class="indent-first-line">前作故事结束3年后在各自人生之路上前行的莱莎与同伴们重逢，经历过全新的邂逅与别离，又找到了另一种对于自己而言具有重大意义之物。</p>
-    <p class="indent-first-line">本作描绘了苏菲于梦幻世界「艾德维格」寻找失散的搭档普拉芙妲的冒险谈，以及与冒险过程中邂逅的伙伴间的羁绊与心灵的传承。</p>
-</div>  
-
-
-<div id="introduce"></div>
-
-<h2 id="角色介绍"><a href="#角色介绍" class="headerlink" title="角色介绍"></a>角色介绍</h2><style>
-  .container {  
-    display: flex;
-    align-items: center;
-  }  
-  .text-content {  
-    flex: 1;
-    padding-right: 20px;  
-  }  
-  .image-content img {  
-    max-width: 150px;
-    height: auto;
-  }  
-  .card1 {
-    padding: 20px;
-    background-color: #f8f9fa;
-    border: 1px solid #ccc;
-    border-radius: 8px;
-    font-family: Arial, sans-serif; 
-    margin-bottom: 10px; 
-  }
-</style>
-<h3>萊莎琳·斯托特</h3>
-<div class="container">  
-    <div class="image-content">  
-        <img src="https://www.gamecity.com.tw/atelier/ryza2/img/characters/ryza/chara.webp">  
-    </div> 
-    <div class="text-content">  
-      <div class="card1">
-        <p>CV のぐちゆり</p>  
-        <p>我有预感，这次也会成为真正的冒险</p>  
-      </div>
-      <p class="indent-first-line">平凡的少女，开朗活泼是其优点。3年前的大冒险结束后，独自留在库肯岛。现在相当于岛上孩子们的老师。</p>  
-      <p class="indent-first-line">以前那种前所未闻的大胆言行似乎已经收敛了很多……？自学炼金术，并且仍在继续努力，但最近感觉遇到了瓶颈。</p>  
-    </div>   
-</div>  
-<h3>菲</h3>
-<div class="container">  
-    <div class="image-content">  
-        <img src="https://www.gamecity.com.tw/atelier/ryza2/img/characters/fi/chara.webp">  
-    </div> 
-    <div class="text-content">  
-      <div class="card1">
-        <p>CV 和多田 美咲</p>  
-        <p>谜之小动物</p>  
-      </div>
-      <p class="indent-first-line">莱莎在全新冒险途中遇见的谜样小动物。虽然不会说话，但感情丰富，会做出各种反应。很亲近莱莎，会与她一起行动。</p>    
-    </div>   
-</div>  
-<h3>科洛蒂娅·巴兰茨</h3>
-<div class="container">  
-    <div class="image-content">  
-        <img src="https://www.gamecity.com.tw/atelier/ryza2/img/characters/klaudia/chara.webp">  
-    </div> 
-    <div class="text-content">  
-      <div class="card1">
-        <p>CV 大和田 仁美</p>  
-        <p>......莱莎，不知道过得好不好？</p>  
-      </div>
-      <p class="indent-first-line">商人的独生女。如今已可独当一面负责王都的工作，日理万机。3年前与莱莎一行人的冒险，对她而言依然是无可替代的回忆。至今内心深处仍默默希望，能够再次回到那令人兴奋的冒险日常。</p>    
-    </div>   
-</div>
-<h3>兰托·马斯林克</h3>
-<div class="container">  
-    <div class="image-content">  
-        <img src="https://www.gamecity.com.tw/atelier/ryza2/img/characters/lent/chara.webp">  
-    </div> 
-    <div class="text-content">  
-      <div class="card1">
-        <p>CV 寺島 拓篤</p>  
-        <p>抱歉，不要管我了</p>  
-      </div>
-      <p class="indent-first-line">莱莎、塔奥、博斯的青梅竹马。3年前从库肯岛出发独自踏上武者修行的旅程。不知旅程之中究竟发生了什么，不复从前快乐的样子，变得粗野起来。途经王都时与莱莎等人偶然再会， 莱莎邀请他再次一同冒险时……</p>    
-    </div>   
-</div>
-<h3>塔奥·蒙伽特恩</h3>
-<div class="container">  
-    <div class="image-content">  
-        <img src="https://www.gamecity.com.tw/atelier/ryza2/img/characters/tao/chara.webp">  
-    </div> 
-    <div class="text-content">  
-      <div class="card1">
-        <p>CV 寺島 惇太</p>  
-        <p>在说什么啊？！是我啊！忘记我了吗？！</p>  
-      </div>
-      <p class="indent-first-line">莱莎的青梅竹马。与博斯一起到王都留学，为了成为独当一面的学者每日勤奋学习。三年之间长高很多，已经不是以前那副容易被欺负的模样。虽然还是喜欢独自读书，但因为在王都有许多值得一看的新事物，所以比以前在岛上时更经常外出。</p>
-    </div>
-</div>
-<h3>帕特莉夏·阿贝尔海姆</h3>
-<div class="container">  
-    <div class="image-content">  
-        <img src="https://www.gamecity.com.tw/atelier/ryza2/img/characters/patricia/chara.webp">  
-    </div> 
-    <div class="text-content">  
-      <div class="card1">
-        <p>CV 大空 直美</p>  
-        <p>请稍等，这次我也要一起去！</p>  
-      </div>
-      <p class="indent-first-line">王都资产家之女。昵称是派蒂。家庭教师塔奥的学生，和塔奥十分亲近。虽然在衣食无忧的环境下成长，但是对自己的境遇心情很复杂。在原骑士的父亲的指导之下，能够使用剑术。</p>  
-    </div>   
-</div>  
-<h3>克里佛德・迪斯威尔</h3>
-<div class="container">  
-    <div class="image-content">  
-        <img src="https://www.gamecity.com.tw/atelier/ryza2/img/characters/clifford/chara.webp">  
-    </div> 
-    <div class="text-content">  
-      <div class="card1">
-        <p>CV 竹本 英史</p>  
-        <p>在下寻宝猎人克利佛德，绝不会对宝物和女孩子的危机视而不见！！</p>  
-      </div>
-      <p class="indent-first-line">自称为寻宝猎人的青年。实际上已涉足盗贼一行，细究起来难登大雅之堂。多才多艺，本领高超，刻意表演的夸张言行之下，本性却认真而诚挚。</p>  
-    </div>   
-</div>  
-<h3>赛莉‧古劳斯</h3>
-<div class="container">  
-    <div class="image-content">  
-        <img src="https://www.gamecity.com.tw/atelier/ryza2/img/characters/serri/chara.webp">  
-    </div> 
-    <div class="text-content">  
-      <div class="card1">
-        <p>CV 藤井 ゆきよ</p>  
-        <p>...没想到会在这个地方遇到认识我们的人</p>  
-      </div>
-      <p class="indent-first-line">与莱莎昔日同伴莉拉同为欧兰族的女性。为了某个目的，踏上搜集各式各样植物种子的旅程，向探索遗迹的莱莎一行人提议同行。性格稳重，对待任何人都公正无私，但不知道为何对莱莎保持著些许距离。</p>  
-    </div>   
-</div>  ]]></content>
-      <categories>
-        <category>秘密</category>
-        <category>A22</category>
-      </categories>
-      <tags>
-        <tag>游戏介绍</tag>
-        <tag>莱莎</tag>
-        <tag>秘密</tag>
-        <tag>A22</tag>
       </tags>
   </entry>
   <entry>
@@ -2379,6 +2685,357 @@
         <tag>苏菲</tag>
         <tag>不可思议</tag>
         <tag>A23</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>莱莎的炼金工房2 ～失落传说与秘密妖精～</title>
+    <url>/2024/08/05/a22/</url>
+    <content><![CDATA[<p><img src="https://s2.loli.net/2024/08/05/YizCNobktSwpDA3.jpg"></p>
+<style>  
+  .button-container {  
+    display: flex;  
+    justify-content: center;
+    margin-top: 20px;
+  }  
+  .button-container button {  
+    text-decoration: none;
+    color: white;
+    background-color: #f88080;
+    padding: 10px 20px;
+    margin: 0 15px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }  
+  .button-container button:hover {  
+    background-color: #d88080;
+    transform: scale(1.02);
+  }  
+</style>
+<div class="button-container">  
+  <button class="button" onclick="event.preventDefault(); window.location.href='https://atelier.ztgdblog.icu/buy/#a22';">前往购买</button>  
+  <button class="button" onclick="event.preventDefault(); window.location.href='#introduce';">角色介绍</button>  
+  <button class="button" onclick="event.preventDefault(); window.location.href='';">特色系统</button>  
+  <button class="button" onclick="event.preventDefault(); window.location.href='';">游戏攻略</button>  
+  <button class="button" onclick="event.preventDefault(); window.location.href='https://www.gamecity.com.tw/atelier/ryza2/';">繁中官网</button>  
+</div>  
+
+
+
+<blockquote>
+<p>界面内如有错误，欢迎指正，谢谢</p>
+<p>目录</p>
+<ul>
+<li><strong>游戏简介</strong></li>
+<li><strong>角色介绍</strong></li>
+</ul>
+<p>其余内容在特色系统页</p>
+</blockquote>
+<h2 id="游戏简介"><a href="#游戏简介" class="headerlink" title="游戏简介"></a>游戏简介</h2><style>  
+  img.float-left {  
+    float: left;  
+    margin-right: 20px;
+  }  
+  .clearfix::after {  
+    content: "";  
+    display: table;  
+    clear: both;  
+  }  
+  .indent-first-line {  
+    text-indent: 2em;
+  }
+</style>
+<div class="clearfix">  
+    <img src="https://www.gamecity.com.tw/atelier/ryza2/img/logo640.png" class="float-left" width=40%>  
+    <p class="indent-first-line">前作故事结束3年后在各自人生之路上前行的莱莎与同伴们重逢，经历过全新的邂逅与别离，又找到了另一种对于自己而言具有重大意义之物。</p>
+    <p class="indent-first-line">本作描绘了苏菲于梦幻世界「艾德维格」寻找失散的搭档普拉芙妲的冒险谈，以及与冒险过程中邂逅的伙伴间的羁绊与心灵的传承。</p>
+</div>  
+
+
+<div id="introduce"></div>
+
+<h2 id="角色介绍"><a href="#角色介绍" class="headerlink" title="角色介绍"></a>角色介绍</h2><style>
+  .container {  
+    display: flex;
+    align-items: center;
+  }  
+  .text-content {  
+    flex: 1;
+    padding-right: 20px;  
+  }  
+  .image-content img {  
+    max-width: 150px;
+    height: auto;
+  }  
+  .card1 {
+    padding: 20px;
+    background-color: #f8f9fa;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    font-family: Arial, sans-serif; 
+    margin-bottom: 10px; 
+  }
+</style>
+<h3>萊莎琳·斯托特</h3>
+<div class="container">  
+    <div class="image-content">  
+        <img src="https://www.gamecity.com.tw/atelier/ryza2/img/characters/ryza/chara.webp">  
+    </div> 
+    <div class="text-content">  
+      <div class="card1">
+        <p>CV のぐちゆり</p>  
+        <p>我有预感，这次也会成为真正的冒险</p>  
+      </div>
+      <p class="indent-first-line">平凡的少女，开朗活泼是其优点。3年前的大冒险结束后，独自留在库肯岛。现在相当于岛上孩子们的老师。</p>  
+      <p class="indent-first-line">以前那种前所未闻的大胆言行似乎已经收敛了很多……？自学炼金术，并且仍在继续努力，但最近感觉遇到了瓶颈。</p>  
+    </div>   
+</div>  
+<h3>菲</h3>
+<div class="container">  
+    <div class="image-content">  
+        <img src="https://www.gamecity.com.tw/atelier/ryza2/img/characters/fi/chara.webp">  
+    </div> 
+    <div class="text-content">  
+      <div class="card1">
+        <p>CV 和多田 美咲</p>  
+        <p>谜之小动物</p>  
+      </div>
+      <p class="indent-first-line">莱莎在全新冒险途中遇见的谜样小动物。虽然不会说话，但感情丰富，会做出各种反应。很亲近莱莎，会与她一起行动。</p>    
+    </div>   
+</div>  
+<h3>科洛蒂娅·巴兰茨</h3>
+<div class="container">  
+    <div class="image-content">  
+        <img src="https://www.gamecity.com.tw/atelier/ryza2/img/characters/klaudia/chara.webp">  
+    </div> 
+    <div class="text-content">  
+      <div class="card1">
+        <p>CV 大和田 仁美</p>  
+        <p>......莱莎，不知道过得好不好？</p>  
+      </div>
+      <p class="indent-first-line">商人的独生女。如今已可独当一面负责王都的工作，日理万机。3年前与莱莎一行人的冒险，对她而言依然是无可替代的回忆。至今内心深处仍默默希望，能够再次回到那令人兴奋的冒险日常。</p>    
+    </div>   
+</div>
+<h3>兰托·马斯林克</h3>
+<div class="container">  
+    <div class="image-content">  
+        <img src="https://www.gamecity.com.tw/atelier/ryza2/img/characters/lent/chara.webp">  
+    </div> 
+    <div class="text-content">  
+      <div class="card1">
+        <p>CV 寺島 拓篤</p>  
+        <p>抱歉，不要管我了</p>  
+      </div>
+      <p class="indent-first-line">莱莎、塔奥、博斯的青梅竹马。3年前从库肯岛出发独自踏上武者修行的旅程。不知旅程之中究竟发生了什么，不复从前快乐的样子，变得粗野起来。途经王都时与莱莎等人偶然再会， 莱莎邀请他再次一同冒险时……</p>    
+    </div>   
+</div>
+<h3>塔奥·蒙伽特恩</h3>
+<div class="container">  
+    <div class="image-content">  
+        <img src="https://www.gamecity.com.tw/atelier/ryza2/img/characters/tao/chara.webp">  
+    </div> 
+    <div class="text-content">  
+      <div class="card1">
+        <p>CV 寺島 惇太</p>  
+        <p>在说什么啊？！是我啊！忘记我了吗？！</p>  
+      </div>
+      <p class="indent-first-line">莱莎的青梅竹马。与博斯一起到王都留学，为了成为独当一面的学者每日勤奋学习。三年之间长高很多，已经不是以前那副容易被欺负的模样。虽然还是喜欢独自读书，但因为在王都有许多值得一看的新事物，所以比以前在岛上时更经常外出。</p>
+    </div>
+</div>
+<h3>帕特莉夏·阿贝尔海姆</h3>
+<div class="container">  
+    <div class="image-content">  
+        <img src="https://www.gamecity.com.tw/atelier/ryza2/img/characters/patricia/chara.webp">  
+    </div> 
+    <div class="text-content">  
+      <div class="card1">
+        <p>CV 大空 直美</p>  
+        <p>请稍等，这次我也要一起去！</p>  
+      </div>
+      <p class="indent-first-line">王都资产家之女。昵称是派蒂。家庭教师塔奥的学生，和塔奥十分亲近。虽然在衣食无忧的环境下成长，但是对自己的境遇心情很复杂。在原骑士的父亲的指导之下，能够使用剑术。</p>  
+    </div>   
+</div>  
+<h3>克里佛德・迪斯威尔</h3>
+<div class="container">  
+    <div class="image-content">  
+        <img src="https://www.gamecity.com.tw/atelier/ryza2/img/characters/clifford/chara.webp">  
+    </div> 
+    <div class="text-content">  
+      <div class="card1">
+        <p>CV 竹本 英史</p>  
+        <p>在下寻宝猎人克利佛德，绝不会对宝物和女孩子的危机视而不见！！</p>  
+      </div>
+      <p class="indent-first-line">自称为寻宝猎人的青年。实际上已涉足盗贼一行，细究起来难登大雅之堂。多才多艺，本领高超，刻意表演的夸张言行之下，本性却认真而诚挚。</p>  
+    </div>   
+</div>  
+<h3>赛莉‧古劳斯</h3>
+<div class="container">  
+    <div class="image-content">  
+        <img src="https://www.gamecity.com.tw/atelier/ryza2/img/characters/serri/chara.webp">  
+    </div> 
+    <div class="text-content">  
+      <div class="card1">
+        <p>CV 藤井 ゆきよ</p>  
+        <p>...没想到会在这个地方遇到认识我们的人</p>  
+      </div>
+      <p class="indent-first-line">与莱莎昔日同伴莉拉同为欧兰族的女性。为了某个目的，踏上搜集各式各样植物种子的旅程，向探索遗迹的莱莎一行人提议同行。性格稳重，对待任何人都公正无私，但不知道为何对莱莎保持著些许距离。</p>  
+    </div>   
+</div>  ]]></content>
+      <categories>
+        <category>秘密</category>
+        <category>A22</category>
+      </categories>
+      <tags>
+        <tag>游戏介绍</tag>
+        <tag>莱莎</tag>
+        <tag>秘密</tag>
+        <tag>A22</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>蕾丝莱莉安娜的炼金工房 ～被遗忘的炼金术与极夜的解放者～</title>
+    <url>/2024/08/05/a25/</url>
+    <content><![CDATA[<p><img src="https://s2.loli.net/2024/08/05/r2UYG67NTln9Ssp.jpg"></p>
+<style>  
+  .button-container {  
+    display: flex;  
+    justify-content: center;
+    margin-top: 20px;
+  }  
+  .button-container button {  
+    text-decoration: none;
+    color: white;
+    background-color: #f88080;
+    padding: 10px 20px;
+    margin: 0 15px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }  
+  .button-container button:hover {  
+    background-color: #d88080;
+    transform: scale(1.02);
+  }  
+</style>
+<div class="button-container">  
+  <button class="button" onclick="event.preventDefault(); window.location.href='https://store.steampowered.com/app/2594920/_/';">前往游玩</button>  
+  <button class="button" onclick="event.preventDefault(); window.location.href='';">特色系统</button>  
+</div>  
+
+
+
+<blockquote>
+<p>界面内如有错误，欢迎指正，谢谢</p>
+<p><em><strong>游玩链接为国际服Steam端</strong></em><br>目录</p>
+<ul>
+<li><strong>游戏简介</strong></li>
+</ul>
+<p>其余内容在特色系统页</p>
+</blockquote>
+<h2 id="游戏简介"><a href="#游戏简介" class="headerlink" title="游戏简介"></a>游戏简介</h2>]]></content>
+      <categories>
+        <category>a25</category>
+      </categories>
+      <tags>
+        <tag>蕾丝莱莉安娜</tag>
+        <tag>蕾丝娜</tag>
+        <tag>a25</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>炼金工房 ～亚兰德之炼金术士1・2・3～ DX</title>
+    <url>/2024/08/05/arlanddx/</url>
+    <content><![CDATA[<p><img src="https://s2.loli.net/2024/08/05/n3Ytb6sjWFM4mQ8.png"></p>
+<style>  
+body {
+        background-image: url(https://www.gamecity.com.tw/atelier/mysteriousdx/share/images/bg1.jpg);
+    }
+  .button-container {  
+    display: flex;  
+    justify-content: center;
+    margin-top: 20px;
+  }  
+  .button-container button {  
+    width: 150px;
+    text-decoration: none;
+    color: white;
+    background-color: #f88080;
+    padding: 10px 20px;
+    margin: 0 15px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }  
+  .button-container button:hover {  
+    background-color: #d88080;
+    transform: scale(1.02);
+  }  
+</style>
+<div class="button-container">  
+  <button class="button" onclick="event.preventDefault(); window.location.href='https://atelier.ztgdblog.icu/buy/#arlanddx';">前往购买</button>  
+  <button class="button" onclick="event.preventDefault(); window.location.href='https://atelier.ztgdblog.icu/2024/08/05/a11/';">萝乐娜</button>  
+  <button class="button" onclick="event.preventDefault(); window.location.href='https://atelier.ztgdblog.icu/2024/08/05/a12/';">托托莉</button>  
+  <button class="button" onclick="event.preventDefault(); window.location.href='https://atelier.ztgdblog.icu/2024/08/05/a13/';">梅露露</button>  
+</div>  
+
+<p><img src="https://www.gamecity.com.tw/atelier/arlanddx/images/series/h2.png"></p>
+<blockquote>
+<p>调合材料制作新道具，以炼金术为题材的「炼金工房」系列之一。聘请插画家岸田梅尔氏执笔，其创作的角色魅力及世界观，令众多玩家为之心醉。迄今发售了『萝乐娜的炼金工房 ～亚兰德之炼金术士～』、『托托莉的炼金工房 ～亚兰德之炼金术士２～』、『梅露露的炼金工房 ～亚兰德之炼金术士3～』的三部作品。</p>
+</blockquote>
+<style>
+  article {
+    background-image: url(https://www.gamecity.com.tw/atelier/mysteriousdx/share/images/features/text-bg-center.jpg);
+    background-size: 100% auto;
+  }
+  .container {  
+    display: flex;
+    align-items: center;
+  }  
+  .text-content {  
+    flex: 1;
+    padding-right: 20px;  
+  }  
+  .image-content img {  
+    max-width: 150px;
+    height: auto;
+  }  
+  .card1 {
+    background-image: url(https://www.gamecity.com.tw/atelier/arlanddx/images/series/bg_meru.png);
+    background-size: 100% auto;
+    padding: 18px;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    font-family: Arial, sans-serif; 
+    margin-bottom: 10px; 
+  }
+</style>
+<img src="https://www.gamecity.com.tw/atelier/arlanddx/images/top/first_03-text.png">
+<div class="container">  
+    <div class="image-content">  
+        <img src="https://www.gamecity.com.tw/atelier/arlanddx/images/top/kv01.png">  
+    </div> 
+    <div class="text-content">  
+      <div class="card1">
+        <p style="color: black;font-size: 30px;">大人氣「亞蘭德」系列於<br>最新遊戲平台登場！</p>  
+        <p style="color: black;">收錄許多至今為止的DLC</p>  
+      </div>
+      <img src="https://www.gamecity.com.tw/atelier/arlanddx/images/top/first_02-logo.png">
+    </div>   
+</div>
+
+<h2 id="萝乐娜的炼金工房-～亚兰德之炼金术士～-DX"><a href="#萝乐娜的炼金工房-～亚兰德之炼金术士～-DX" class="headerlink" title="萝乐娜的炼金工房 ～亚兰德之炼金术士～ DX"></a>萝乐娜的炼金工房 ～亚兰德之炼金术士～ DX</h2><p>『新・ロロナのアトリエ 〜アーランドの錬金術士〜』をベースにDLCをさらに収録！<br>オリジナル版（「ロロナのアトリエ」）から追加された要素<br>・重新设计了角色的 3D 模型<br>・添加了在清除游戏后开始的加时场景。<br>・添加了新事件，包括结局<br>・物品来自未来！ 添加了时间胶囊系统<br>・添加一个菜园来种植种子并获得材料<br>・添加改头换面以装饰配方商品<br>・改进的系统<br>・战斗系统经过重新设计，包括辅助攻击。<br>・添加新的怪物<br>・添加新地图<br>・活动插图、奖励图片等<br>・添加了新的派对角色（Totori &amp; Merle &gt; Astrid &amp; Esty）<br>・请求系统已经过重新设计，因此您还可以通过王国请求获得奖金。</p>
+<p>さらに追加されるコンテンツ<br>・追加服装：ピーチバケイション、みかん色の水着、淑女のたしなみ</p>
+<h2 id="托托莉的炼金工房-～亚兰德之炼金术士2～-DX"><a href="#托托莉的炼金工房-～亚兰德之炼金术士2～-DX" class="headerlink" title="托托莉的炼金工房 ～亚兰德之炼金术士2～ DX"></a>托托莉的炼金工房 ～亚兰德之炼金术士2～ DX</h2><p>『トトリのアトリエ Plus 〜アーランドの錬金術士２〜』をベースにDLCをさらに収録！<br>オリジナル版（「トトリのアトリエ」）から追加された要素<br>・添加了服装切换功能<br>・添加了服装调和功能<br>・添加了新的BOSS<br>・添加了新的采集地<br>・添加了活动插图、奖励插图等<br>・添加了新的派对角色（ツェツィ＆イクセル＆クーデリア）<br>・添加了查看模型功能</p>
+<p>さらに追加されるコンテンツ<br>・追加服装：天使の水着、小悪魔のビキニ、ひまわりワンピ、しましまビキニ</p>
+<h2 id="梅露露的炼金工房-～亚兰德之炼金术士3～-DX"><a href="#梅露露的炼金工房-～亚兰德之炼金术士3～-DX" class="headerlink" title="梅露露的炼金工房 ～亚兰德之炼金术士3～ DX"></a>梅露露的炼金工房 ～亚兰德之炼金术士3～ DX</h2><p>『メルルのアトリエ Plus 〜アーランドの錬金術士3〜』をベースにDLCをさらに収録！<br>オリジナル版（「メルルのアトリエ」）から追加された要素<br>・添加了新的服装（ミリタリースタイル、セーラーフリル、春色の衣装など）<br>・添加了新的结局<br>・添加了新的BOSS<br>・添加了新的派对角色（フアナ＆ルーフェス＆パメラ）<br>・添加了查看模型功能</p>
+<p>さらに追加されるコンテンツ<br>・追加服装：きのこ姫の水着、ミニわら帽子、ストライプヘヴン、サマーブロッサム</p>
+]]></content>
+      <categories>
+        <category>亚兰德</category>
+      </categories>
+      <tags>
+        <tag>亚兰德</tag>
+        <tag>DX</tag>
       </tags>
   </entry>
   <entry>
@@ -2655,152 +3312,6 @@
       </tags>
   </entry>
   <entry>
-    <title>蕾丝莱莉安娜的炼金工房 ～被遗忘的炼金术与极夜的解放者～</title>
-    <url>/2024/08/05/a25/</url>
-    <content><![CDATA[<p><img src="https://s2.loli.net/2024/08/05/r2UYG67NTln9Ssp.jpg"></p>
-<style>  
-  .button-container {  
-    display: flex;  
-    justify-content: center;
-    margin-top: 20px;
-  }  
-  .button-container button {  
-    text-decoration: none;
-    color: white;
-    background-color: #f88080;
-    padding: 10px 20px;
-    margin: 0 15px;
-    border: none;
-    border-radius: 5px;
-    cursor: pointer;
-  }  
-  .button-container button:hover {  
-    background-color: #d88080;
-    transform: scale(1.02);
-  }  
-</style>
-<div class="button-container">  
-  <button class="button" onclick="event.preventDefault(); window.location.href='https://store.steampowered.com/app/2594920/_/';">前往游玩</button>  
-  <button class="button" onclick="event.preventDefault(); window.location.href='';">特色系统</button>  
-</div>  
-
-
-
-<blockquote>
-<p>界面内如有错误，欢迎指正，谢谢</p>
-<p><em><strong>游玩链接为国际服Steam端</strong></em><br>目录</p>
-<ul>
-<li><strong>游戏简介</strong></li>
-</ul>
-<p>其余内容在特色系统页</p>
-</blockquote>
-<h2 id="游戏简介"><a href="#游戏简介" class="headerlink" title="游戏简介"></a>游戏简介</h2>]]></content>
-      <categories>
-        <category>a25</category>
-      </categories>
-      <tags>
-        <tag>蕾丝莱莉安娜</tag>
-        <tag>蕾丝娜</tag>
-        <tag>a25</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>炼金工房 ～亚兰德之炼金术士1・2・3～ DX</title>
-    <url>/2024/08/05/arlanddx/</url>
-    <content><![CDATA[<p><img src="https://s2.loli.net/2024/08/05/n3Ytb6sjWFM4mQ8.png"></p>
-<style>  
-body {
-        background-image: url(https://www.gamecity.com.tw/atelier/mysteriousdx/share/images/bg1.jpg);
-    }
-  .button-container {  
-    display: flex;  
-    justify-content: center;
-    margin-top: 20px;
-  }  
-  .button-container button {  
-    width: 150px;
-    text-decoration: none;
-    color: white;
-    background-color: #f88080;
-    padding: 10px 20px;
-    margin: 0 15px;
-    border: none;
-    border-radius: 5px;
-    cursor: pointer;
-  }  
-  .button-container button:hover {  
-    background-color: #d88080;
-    transform: scale(1.02);
-  }  
-</style>
-<div class="button-container">  
-  <button class="button" onclick="event.preventDefault(); window.location.href='https://atelier.ztgdblog.icu/buy/#arlanddx';">前往购买</button>  
-  <button class="button" onclick="event.preventDefault(); window.location.href='https://atelier.ztgdblog.icu/2024/08/05/a11/';">萝乐娜</button>  
-  <button class="button" onclick="event.preventDefault(); window.location.href='https://atelier.ztgdblog.icu/2024/08/05/a12/';">托托莉</button>  
-  <button class="button" onclick="event.preventDefault(); window.location.href='https://atelier.ztgdblog.icu/2024/08/05/a13/';">梅露露</button>  
-</div>  
-
-<p><img src="https://www.gamecity.com.tw/atelier/arlanddx/images/series/h2.png"></p>
-<blockquote>
-<p>调合材料制作新道具，以炼金术为题材的「炼金工房」系列之一。聘请插画家岸田梅尔氏执笔，其创作的角色魅力及世界观，令众多玩家为之心醉。迄今发售了『萝乐娜的炼金工房 ～亚兰德之炼金术士～』、『托托莉的炼金工房 ～亚兰德之炼金术士２～』、『梅露露的炼金工房 ～亚兰德之炼金术士3～』的三部作品。</p>
-</blockquote>
-<style>
-  article {
-    background-image: url(https://www.gamecity.com.tw/atelier/mysteriousdx/share/images/features/text-bg-center.jpg);
-    background-size: 100% auto;
-  }
-  .container {  
-    display: flex;
-    align-items: center;
-  }  
-  .text-content {  
-    flex: 1;
-    padding-right: 20px;  
-  }  
-  .image-content img {  
-    max-width: 150px;
-    height: auto;
-  }  
-  .card1 {
-    background-image: url(https://www.gamecity.com.tw/atelier/arlanddx/images/series/bg_meru.png);
-    background-size: 100% auto;
-    padding: 18px;
-    border: 1px solid #ccc;
-    border-radius: 8px;
-    font-family: Arial, sans-serif; 
-    margin-bottom: 10px; 
-  }
-</style>
-<img src="https://www.gamecity.com.tw/atelier/arlanddx/images/top/first_03-text.png">
-<div class="container">  
-    <div class="image-content">  
-        <img src="https://www.gamecity.com.tw/atelier/arlanddx/images/top/kv01.png">  
-    </div> 
-    <div class="text-content">  
-      <div class="card1">
-        <p style="color: black;font-size: 30px;">大人氣「亞蘭德」系列於<br>最新遊戲平台登場！</p>  
-        <p style="color: black;">收錄許多至今為止的DLC</p>  
-      </div>
-      <img src="https://www.gamecity.com.tw/atelier/arlanddx/images/top/first_02-logo.png">
-    </div>   
-</div>
-
-<h2 id="萝乐娜的炼金工房-～亚兰德之炼金术士～-DX"><a href="#萝乐娜的炼金工房-～亚兰德之炼金术士～-DX" class="headerlink" title="萝乐娜的炼金工房 ～亚兰德之炼金术士～ DX"></a>萝乐娜的炼金工房 ～亚兰德之炼金术士～ DX</h2><p>『新・ロロナのアトリエ 〜アーランドの錬金術士〜』をベースにDLCをさらに収録！<br>オリジナル版（「ロロナのアトリエ」）から追加された要素<br>・重新设计了角色的 3D 模型<br>・添加了在清除游戏后开始的加时场景。<br>・添加了新事件，包括结局<br>・物品来自未来！ 添加了时间胶囊系统<br>・添加一个菜园来种植种子并获得材料<br>・添加改头换面以装饰配方商品<br>・改进的系统<br>・战斗系统经过重新设计，包括辅助攻击。<br>・添加新的怪物<br>・添加新地图<br>・活动插图、奖励图片等<br>・添加了新的派对角色（Totori &amp; Merle &gt; Astrid &amp; Esty）<br>・请求系统已经过重新设计，因此您还可以通过王国请求获得奖金。</p>
-<p>さらに追加されるコンテンツ<br>・追加服装：ピーチバケイション、みかん色の水着、淑女のたしなみ</p>
-<h2 id="托托莉的炼金工房-～亚兰德之炼金术士2～-DX"><a href="#托托莉的炼金工房-～亚兰德之炼金术士2～-DX" class="headerlink" title="托托莉的炼金工房 ～亚兰德之炼金术士2～ DX"></a>托托莉的炼金工房 ～亚兰德之炼金术士2～ DX</h2><p>『トトリのアトリエ Plus 〜アーランドの錬金術士２〜』をベースにDLCをさらに収録！<br>オリジナル版（「トトリのアトリエ」）から追加された要素<br>・添加了服装切换功能<br>・添加了服装调和功能<br>・添加了新的BOSS<br>・添加了新的采集地<br>・添加了活动插图、奖励插图等<br>・添加了新的派对角色（ツェツィ＆イクセル＆クーデリア）<br>・添加了查看模型功能</p>
-<p>さらに追加されるコンテンツ<br>・追加服装：天使の水着、小悪魔のビキニ、ひまわりワンピ、しましまビキニ</p>
-<h2 id="梅露露的炼金工房-～亚兰德之炼金术士3～-DX"><a href="#梅露露的炼金工房-～亚兰德之炼金术士3～-DX" class="headerlink" title="梅露露的炼金工房 ～亚兰德之炼金术士3～ DX"></a>梅露露的炼金工房 ～亚兰德之炼金术士3～ DX</h2><p>『メルルのアトリエ Plus 〜アーランドの錬金術士3〜』をベースにDLCをさらに収録！<br>オリジナル版（「メルルのアトリエ」）から追加された要素<br>・添加了新的服装（ミリタリースタイル、セーラーフリル、春色の衣装など）<br>・添加了新的结局<br>・添加了新的BOSS<br>・添加了新的派对角色（フアナ＆ルーフェス＆パメラ）<br>・添加了查看模型功能</p>
-<p>さらに追加されるコンテンツ<br>・追加服装：きのこ姫の水着、ミニわら帽子、ストライプヘヴン、サマーブロッサム</p>
-]]></content>
-      <categories>
-        <category>亚兰德</category>
-      </categories>
-      <tags>
-        <tag>亚兰德</tag>
-        <tag>DX</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>炼金工房 ～黃昏之炼金术士三部曲～ DX</title>
     <url>/2024/08/05/duskdx/</url>
     <content><![CDATA[<p><img src="https://s2.loli.net/2024/08/05/KAGV84TJBSrtxWM.png"></p>
@@ -2980,6 +3491,61 @@ body {
       <tags>
         <tag>黄昏</tag>
         <tag>DX</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>奈尔克与传说之炼金术士们 ～新大地之炼金工房～</title>
+    <url>/2024/08/05/side-nelke/</url>
+    <content><![CDATA[<p><img src="https://s2.loli.net/2024/08/05/T95CzjxhuVItRHZ.jpg"></p>
+<style>  
+  .button-container {  
+    display: flex;  
+    justify-content: center;
+    margin-top: 20px;
+  }  
+  .button-container button {  
+    text-decoration: none;
+    color: white;
+    background-color: #f88080;
+    padding: 10px 20px;
+    margin: 0 15px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }  
+  .button-container button:hover {  
+    background-color: #d88080;
+    transform: scale(1.02);
+  }  
+</style>
+<div class="button-container">  
+  <button class="button" onclick="event.preventDefault(); window.location.href='https://store.steampowered.com/app/886820/_/';">前往购买</button>  
+  <button class="button" onclick="event.preventDefault(); window.location.href='#introduce';">角色介绍</button>  
+  <button class="button" onclick="event.preventDefault(); window.location.href='';">特色系统</button>  
+  <button class="button" onclick="event.preventDefault(); window.location.href='';">游戏攻略</button>  
+</div>  
+
+
+
+<blockquote>
+<p>界面内如有错误，欢迎指正，谢谢</p>
+<p>目录</p>
+<ul>
+<li><strong>游戏简介</strong></li>
+<li><strong>角色介绍</strong></li>
+</ul>
+<p>其余内容在特色系统页</p>
+</blockquote>
+<h2 id="游戏简介"><a href="#游戏简介" class="headerlink" title="游戏简介"></a>游戏简介</h2><div id="introduce"></div>
+
+<h2 id="角色介绍"><a href="#角色介绍" class="headerlink" title="角色介绍"></a>角色介绍</h2>]]></content>
+      <categories>
+        <category>外传</category>
+      </categories>
+      <tags>
+        <tag>游戏介绍</tag>
+        <tag>奈尔克</tag>
+        <tag>外传</tag>
       </tags>
   </entry>
   <entry>
@@ -3479,61 +4045,6 @@ article .mv ul {
         <tag>莉迪</tag>
         <tag>苏瑞</tag>
         <tag>DX</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>奈尔克与传说之炼金术士们 ～新大地之炼金工房～</title>
-    <url>/2024/08/05/side-nelke/</url>
-    <content><![CDATA[<p><img src="https://s2.loli.net/2024/08/05/T95CzjxhuVItRHZ.jpg"></p>
-<style>  
-  .button-container {  
-    display: flex;  
-    justify-content: center;
-    margin-top: 20px;
-  }  
-  .button-container button {  
-    text-decoration: none;
-    color: white;
-    background-color: #f88080;
-    padding: 10px 20px;
-    margin: 0 15px;
-    border: none;
-    border-radius: 5px;
-    cursor: pointer;
-  }  
-  .button-container button:hover {  
-    background-color: #d88080;
-    transform: scale(1.02);
-  }  
-</style>
-<div class="button-container">  
-  <button class="button" onclick="event.preventDefault(); window.location.href='https://store.steampowered.com/app/886820/_/';">前往购买</button>  
-  <button class="button" onclick="event.preventDefault(); window.location.href='#introduce';">角色介绍</button>  
-  <button class="button" onclick="event.preventDefault(); window.location.href='';">特色系统</button>  
-  <button class="button" onclick="event.preventDefault(); window.location.href='';">游戏攻略</button>  
-</div>  
-
-
-
-<blockquote>
-<p>界面内如有错误，欢迎指正，谢谢</p>
-<p>目录</p>
-<ul>
-<li><strong>游戏简介</strong></li>
-<li><strong>角色介绍</strong></li>
-</ul>
-<p>其余内容在特色系统页</p>
-</blockquote>
-<h2 id="游戏简介"><a href="#游戏简介" class="headerlink" title="游戏简介"></a>游戏简介</h2><div id="introduce"></div>
-
-<h2 id="角色介绍"><a href="#角色介绍" class="headerlink" title="角色介绍"></a>角色介绍</h2>]]></content>
-      <categories>
-        <category>外传</category>
-      </categories>
-      <tags>
-        <tag>游戏介绍</tag>
-        <tag>奈尔克</tag>
-        <tag>外传</tag>
       </tags>
   </entry>
   <entry>
